@@ -1,0 +1,14 @@
+Train : 10%,Proposed,SoA Proposed Baseline Variants,SoA Proposed Baseline Variants,SoA Proposed Baseline Variants,SoA Proposed Baseline Variants,SoA,SoA SoA,SoA SoA,SoA SoA
+Datasets,SS-NMF,MMDW,MFDWL,MF-Planetoid,MNMFL,MNMF,MFDW,DW,N2V
+Cora,77.56,68.27,70.3,76.47,73.43,74.5,74.44,74.79,74.99
+Citeseer,55.59,47.38,49.27,55.54,50.09,54.37,53.43,52.72,54.19
+Wiki,57.74,50.81,56.1,56.19,54.14,56.36,55.5,55.75,56.03
+Washington,56.73,40.79,50.19,52.4,52.6,57.6,53.7,49.52,50
+Wisconsin,53.14,30.78,45.21,52.72,48.03,48.03,40.71,38.91,43.1
+Texas,55.86,47.1,53.13,55.38,55.27,55.15,55.03,55.15,55.15
+Cornell,44.63,38.73,36.89,40.95,40.45,43.84,37.2,22.6,25.42
+PPI,14.94,13.85,13.26,14.25,13.96,17.22,16.05,16.2,16.88
+Blogcatalog,28.17,18.59,27.16,27.31,27.57,28.32,27.88,34.92,35.16
+Rank,1.88,8.44,7,3.55,5.55,2.88,5.55,5.55,4.55
+Score,1.1262,10.9094,5.8864,2.5861,4.3281,2.1236,4.5065,5.9937,4.842
+Table 4: Node Classi cation Results (10% train data) ,,,,,,,,,

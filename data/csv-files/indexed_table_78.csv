@@ -1,0 +1,6 @@
+Method,NELL DATA,NELL DATA,NELL DATA,NELL DATA,NELL DATA,NELL DATA,Freebase Dataset,Freebase Dataset,Freebase Dataset,Freebase Dataset,Freebase Dataset,Freebase Dataset
+,Precision,Recall,F1,Precision,Recall,F1,Precision,Recall,F1,Precision,Recall,F1
+SVM,64.2,17.3,27.3,99.9,27.9,43.7,87.8,11.3,20.1,97.9,71.1,82.5
+Label Propagation,55,12.3,20.1,99.7,5.2,9.8,84.6,27.5,41.5,99.7,88.1,93.6
+GLOFIN-NB,71.7,62,66.5,99.9,62,76.5,95.1,72,82,97.6,79.6,87.6
+Table 6: Comparison of gloss finding methods with 10% unambiguous abstracts used as training data. GLOFIN-NB always gives best or near-best F1 scores. Please refer Section 6.1.1 for more details. ,,,,,,,,,,,,

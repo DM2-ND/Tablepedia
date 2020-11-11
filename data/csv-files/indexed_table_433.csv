@@ -1,0 +1,11 @@
+,Stanford,Stanford,Twitter,Twitter,Yahoo,Yahoo
+,NER,NER,NLP,NLP,PM,PM
+,TP,FN,TP,FN,TP,FN
+Country,86,14,22,78,41,59
+State,94,6,18,82,22,78
+City,81,19,62,38,80,20
+Area,100,0,40,60,0,100
+Suburb,100,0,100,0,100,0
+POI,69,31,42,58,42,58
+Hashtag,88,12,6,94,9,91
+Table 3: Percentage of correct and incorrect loca- tions found by three tools by granularity of locations and by hashtags. TP represents True Positive and FN is False Negative. ,,,,,,

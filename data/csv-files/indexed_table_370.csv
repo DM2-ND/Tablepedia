@@ -1,0 +1,7 @@
+Dataset,PG-Lrn,MinEnt,Grid,Randd
+COIL,0.9044,0.8197N,0.6311N,0.6954N
+USPS,0.9154,0.8779 4,0.8746 N,0.7619
+MNIST,0.8634,0.8006,0.7932,0.6668
+UMIST,0.8789,0.7756N,0.7124N,0.6405N
+YALE,0.6859,0.5671N,0.5925N,0.5298N
+"Table 4: Test accuracy on datasets with 100% added noise fea- tures, avg¡¯ed across 10 samples; 15 mins of hyperparameter tuning on T = 32 threads. Symbols (p<0.005) and ¡÷ (p<0.01) denote the cases where PG-learn is signi cantly better than the baseline w.r.t. the paired Wilcoxon signed rank test. ",,,,

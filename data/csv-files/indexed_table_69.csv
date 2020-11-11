@@ -1,0 +1,13 @@
+Methods,Prec@k (std),AP (std)
+Proposed,0.86 (0.005),0.92 (0.003)
+DeepWalk + Similarity,0.78 (0.007),0.86 (0.011)
+node2vec + Similarity,0.79 (0.011),0.86 (0.013)
+LINE-1 + Similarity,0.72 (0.011),0.79 (0.010)
+LINE-2 + Similarity,0.74 (0.003),0.80 (0.016)
+LINE + Similarity,0.74 (0.012),0.82 (0.016)
+Deepwalk,0.56,0.54
+Node2vec,0.44,0.43
+LINE-1,0.58,0.6
+LINE-2,0.56,0.59
+LINE,0.63,0.63
+Table 3: DDI detection performance. Prec@k stands for precision@k where k equals to the number of known DDI pairs and AP is the average precision. Mean and standard de- viation of 5 random splits are given for the proposed method and baselines with similarity function. Baselines without similarity learning were reported for a single test split. ,,

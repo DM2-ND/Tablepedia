@@ -1,0 +1,13 @@
+,baseline,baseline,baseline,SVM,SVM
+Category,n,abs,rmse,abs,rmse
+All,500,5.72,7.67,5.2,7.14
+Music,252,5.81,7.46,5.1,6.75
+Entertainm.,73,5.08,6.63,5.07,6.5
+Comedy,30,4.21,5.46,4.56,5.61
+People,22,6.84,8.73,6.41,8.83
+Film,30,6.51,9.85,7.04,10.67
+Education,11,5.74,7.32,4.26,5.69
+Animals,11,3.39,4.22,3.9,4.86
+News,10,6.76,8.88,7.04,8.58
+Shows,10,2.91,3.7,2.93,3.76
+"(a)  Performance, both absolute error and RMSE, for the linear SVM regression models for the L fraction for the biggest categories. All values are for the same, category-agnostic classifier with the category as one of its features. ",,,,,

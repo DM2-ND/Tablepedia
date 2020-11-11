@@ -1,0 +1,8 @@
+,Bitcoin,Bitcoin,Bitcoin,Bitcoin,Etheruem,Etheruem,Etheruem,Etheruem,Ripple,Ripple,Ripple,Ripple
+,volume_1,volume_3,volume_5,volume_30,volume_1,volume_3,volume_5,volume_30,volume_1,volume_3,volume_5,volume_30
+BASE,0.2335,0.4507,0.5316,0.4126,0.1865,0.5913,0.553,1.1061,0.9345,2.087,1.9373,0.6639
+VAR,0.215,0.3122,0.3225,0.3184,0.1639,0.3687,0.389,1.107,0.6279,0.7111,1.1307,1.2217
+Social Sensor,0.2287,0.3551,0.3141,0.2576,0.1636,0.3679,0.3755,1.1195,0.6142,0.566,0.9268,1.3226
+Information Cascades,0.2569,1.0195,1.1131,1.495,0.4321,0.4458,0.4088,2.8378,0.622,1.6445,1.141,2.428
+Social Actuator,0.2236,0.3087,0.3076,0.2117,0.1489,0.364,0.3226,0.9291,0.557,0.5298,0.9156,1.2951
+Table 2: Performance measured by MSE ,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+Category,Method,AUC,Precision,Recall,F1-score
+Science,LRC,80.96,50.65,68.02,57.57
+Science,SVM,70.99,50.44,45.93,47.72
+Science,FM,90.39,61.48,70.35,64.67
+Science,LadFG,96.26,66.52,81.4,73.09
+Non-Science,LRC,73.1,75.59,53.45,61.54
+Non-Science,SVM,71.45,77.01,48.94,58.41
+Non-Science,FM,85.73,67.36,81.69,72.95
+Non-Science,LadFG,90.47,73.28,85.68,78.91
+Table 5: Performance of Assignment Grade Prediction with Different Methods (%). ,,,,,

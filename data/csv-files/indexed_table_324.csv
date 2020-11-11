@@ -1,0 +1,8 @@
+Algorithm,Musk1,Musk2,Elephant,Fox
+miSVM,.874¡À.029,.836¡À.025,.822¡À.028,.582¡À.012
+MIBoosting,.837¡À.023,.790¡À.023,.827¡À.025,.638¡À.022
+miFV,.909¡À.042,.884¡À.039,.852¡À.027,.621¡À.031
+miGraph,.889¡À.024,.903¡À.019,.869¡À.020,.616¡À.018
+MIEN-metric,.880¡À.025,.879¡À.025,.846¡À.024,.606¡À.019
+Prediction ratio of novel class bags (_),0,0.002,0.007,0.161
+"Table 7: Classification accuracy (mean¡Àstd.) on five MIL benchmark data sets. Note that, MIEN-metric is still allowed to return augmented class predictions in this traditional binary classification MIL setting. The prediction ratio is also reported below. (¡°¡ý¡±: The lower, the better.) ",,,,

@@ -1,0 +1,8 @@
+Prediction,CareVue,CareVue,MetaVision,MetaVision,CareVue,CareVue,MetaVision,MetaVision
+Gap (Hrs),Mean Difference in AUC,p-value,Mean Difference in AUC,p-value,Mean Difference in AUC,p-value,Mean Difference in AUC,p-value
+0,0.005,0.0051,0.0048,0.0051,0.0048,0.0051,0.0001,0.7989
+12,0.0055,0.0051,0.0052,0.0051,0.0053,0.0051,0.0015,0.5067
+24,0.0058,0.0051,0.0071,0.0051,0.0071,0.0051,0.0017,0.3863
+36,0.0056,0.0051,0.008,0.0051,0.008,0.0051,0.0017,0.2845
+48,0.0056,0.0051,0.0074,0.0051,0.0074,0.0051,0.0018,0.2845
+Table 2: Outcome: In-Hospital Mortality. Di erence in AUC between SAPS II + Item IDs and SAPS II + CUIs (Span- ning) shown. Statistical Signi cance evaluated using the Wilcoxon Signed-Rank Test. ,,,,,,,,

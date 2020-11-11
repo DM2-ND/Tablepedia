@@ -1,0 +1,7 @@
+Dataset,Epinions,Epinions,Amazon,Amazon,TripAdvisor,TripAdvisor
+Item Type,cold,non,cold,non,cold,non
+BOW-SVM,49%,83%,44%,79%,47%,82%
+LDA-SVM,56%,85%,53%,80%,59%,85%
+D-PLDA-SVM,57%,86%,54%,80%,63%,87%
+FLDA-SVM,72%,89%,70%,83%,74%,91%
+Table 7: Average accuracy of SVM classifier trained on differ- ent feature sets for overall rating prediction ,,,,,,

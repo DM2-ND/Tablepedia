@@ -1,0 +1,7 @@
+,WebQ,WebQ,WebQ,BingQ,BingQ,BingQ
+Top-K,Precision,Recall,F1,Precision,Recall,F1
+K=1,0.5712,0.454,0.4804,0.5817,0.5817,0.5817
+K=2,0.5323,0.5306,0.4959,0.5052,0.6412,0.5505
+K=3,0.4983,0.5819,0.4919,0.447,0.6766,0.5154
+K=5,0.443,0.6268,0.468,0.3602,0.709,0.4468
+Table 7: Evaluation on top-K ranked answer cells. ,,,,,,

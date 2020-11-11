@@ -1,0 +1,11 @@
+Object,Paper (%),Paper (%),Author (%),Author (%)
+Metric,AC,NMI,AC,NMI
+NMF,44.55,22.92,-,-
+PLSA,59.45,32.75,65,37.97
+LapPLSI,61.35,33.93,-,-
+LDA,47,20.48,-,-
+ATM,77,52.21,74.13,40.67
+NetClus,65,40.96,70.82,47.43
+TMBP-RW,73.1,53.13,82.59,67.76
+TMBP-Regu,79.15,59.16,89.81,74.25
+Table 2: Object clustering performance of different methods on (a) DBLP and (b) NSF-Awards datasets. ,,,,

@@ -1,0 +1,12 @@
+Methods,RSE(RF-DF),RSE(RF-SF),RSE(RFD-DF),RSE(RFD-SF) RSE(SS-DF),RSE(RFD-SF) RSE(SS-DF),RSE(SS-SF),RSE(BSS-DF),RSE(BSS-SF)
+Datasets,Accu,Accu,Accu,Accu,Accu,Accu,Accu,Accu
+ding-protein,52.57,51.76,51.22,49.32,48.5,53.65,51.49,52.3
+fold,73.94,72.9,74.37,72.47,75.41,75.21,74.72,75.13
+superfamily,74.03,73.46,74.67,70.88,77.46,77.13,74.82,75.52
+splice,86.72,86.31,86.2,82.86,88.71,88.08,89.76,90.17
+dna3-class1,78.29,77.2,77.85,79.46,81.64,80.84,83.39,82.66
+dna3-class2,88.48,89.51,87.97,90.41,87.2,90.61,89.51,90.48
+dna3-class3,75.94,78.55,72,70.72,70.89,72.87,78.2,78.78
+mnist-str4,98.52,98.43,98.43,98.31,98.76,98.61,98.75,98.71
+mnist-str8,98.45,98.48,98.39,98.31,98.54,98.51,98.5,98.53
+Table 2: Comparisons among 8 di erent variants of RSE in terms of classi cation accuracy. ,,,,,,,,

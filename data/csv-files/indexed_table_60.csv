@@ -1,0 +1,7 @@
+,Japanese,Fashion,Breast,Breast,Breast,Anuran,Anuran
+Dataset,Vowel,MNIST,Baseball,Cancer,Digits,IRIS,Calls
+Instances,"9,960","70,000","1,340",569,"10,992",150,7195
+#Features,15,784,18,32,16,4,22
+#Classes,9,10,3,2,10,3,4
+Missing,-,-,20,-,-,-,-
+Table 1: Description of datasets used for classication and clustering experiments ,,,,,,,

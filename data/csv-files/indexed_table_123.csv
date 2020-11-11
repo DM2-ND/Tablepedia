@@ -1,0 +1,7 @@
+,frequency (x),frequency (x),period (tx),period (tx),period (tx),period (tx),period (T ),period (T ),period (T ),customers
+,ave.,max.,min.,ave.,max.,min.,ave.,max.,min.,#
+Dataset 1,"9,280","240,884",0,26.9,354,0,189.7,359,2,100
+Dataset 2,"3,531","124,850",0,12.7,227,0,184.3,363,4,100
+Dataset 3,"70,486","8,731,537",0,79.3,360,0,271.6,364,183,200
+Dataset 4,"1,624","84,876",0,51.5,354,0,185,364,2,400
+Table 1: Details of Artificial Data Set ,,,,,,,,,,

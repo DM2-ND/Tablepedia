@@ -1,0 +1,10 @@
+,Croatia,Croatia,Croatia,Hungary,Hungary,Hungary,Romania,Romania,Romania
+,Micro,Macro,Weighted,Micro,Macro,Weighted,Micro,Macro,Weighted
+DeepWalk,0.321,0.026,0.207,0.361,0.029,0.228,0.307,0.023,0.186
+DeepWalk,(¡À0.006),(¡À0.002),(¡À0.004),(¡À0.004),(¡À0.002),(¡À0.002),(¡À0.008),(¡À0.002),(¡À0.006)
+Smooth DeepWalk,0.329,0.028,0.215,0.375,0.032,0.244,0.321,0.026,0.204
+Smooth DeepWalk,(¡À0.006),(¡À0.002),(¡À0.006),(¡À0.006),(¡À0.002),(¡À0.004),(¡À0.008),(¡À0.002),(¡À0.006)
+GEMSEC,0.328,0.027,0.212,0.377,0.032,0.244,0.332,0.028,0.213
+GEMSEC,(¡À0.006),(¡À0.002),(¡À0.004),(¡À0.004),(¡À0.002),(¡À0.004),(¡À0.008),(¡À0.002),(¡À0.006)
+Smooth GEMSEC,0.333,0.028,0.215,0.379,0.034,0.25,0.334,0.029,0.215
+Table 4: Multi-label node classi cation performance of the embedding extracted features on the Deezer genre likes datasets. Performance is measured by average F1 score values. Models  were trained on 90% of the data and evaluated on the remaining 10%. Errors in the parentheses correspond to two standard deviations. GEMSEC models consistently have good performance. ,,,,,,,,,

@@ -1,0 +1,9 @@
+Dataset,Nv,Ne,W,,P (+)
+Facebook,"5,906","73,374",2,0.174,0.32
+IMDB,"7,934","122,230",28,0.207,0.164
+DVD,"16,118","75,596",28,0.208,0.21
+Music,"56,891","272,544",26,0.153,0.078
+Comm.,"881,187","5,302,712",50,0.71,0.059
+Computers,"881,187","5,302,712",50,0.815,0.169
+Organic,"881,187","5,302,712",50,0.486,0.021
+"Figure 3: Datasets compared. From left: dataset name, number of vertices, number of edges, number of attributes, label correlation, proportion positive. ",,,,,

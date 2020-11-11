@@ -1,0 +1,8 @@
+Sites,Prediction Accuracy,Prediction Accuracy,Specificity,Specificity,Sensitivity,Sensitivity,J-Statistic,J-Statistic
+Sites,AGDM,FTA,AGDM,FTA,AGDM,FTA,AGDM,FTA
+KKI,0.5455,0.8182,0.625,1,0.3333,0.3333,-0.0417,0.3333
+NeuroImage,0.48,0.8,0.6429,0.8571,0.2727,0.7273,-0.0844,0.5844
+OHSU,0.8235,0.8676,0.8929,0.9643,0.5,0.6667,0.3929,0.631
+Peking,0.5882,0.6176,,,0.2083,0.25,0.1342,0.25
+Average,0.6281,0.7759,0.8312,0.9554,0.2727,0.4943,0.1003,0.4497
+Figure 6: Comparison of the temporal order of two patterns between the TDC and ADHD subjects. It illustrates how the order of these two patterns matters in detecting ADHD. ,,,,,,,,

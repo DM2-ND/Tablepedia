@@ -1,0 +1,6 @@
+,AP,AP,AP,EAP,EAP,EAP
+Dataset,Sn,PPV,Accuracy,Sn,PPV,Accuracy
+Optdigits,0.539,0.897,0.695,0.824,0.922,0.871
+MNIST,0.282,0.736,0.456,0.621,0.547,0.583
+Proteins,0.814,0.942,0.875,0.854,0.969,0.909
+Table 3: AP vs EAP on real world datasets ,,,,,,

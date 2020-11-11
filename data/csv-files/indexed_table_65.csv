@@ -1,0 +1,8 @@
+,Insects,Insects,Insects,Insects,Arabic,Arabic,Bike,Bike,Bike,Posture
+,accuracy,drift-rate,accuracy,drift-rate,accuracy,drift-rate,accuracy,drift-rate,accuracy,drift-rate
+Baseline,0.582,0,0.5288,0,0.4629,0,0.497,0,0.4082,0
+KS,0.8773,0.0147,0.8578,0.0241,0.671,0.013,0.7379,0.0336,0.4626,0.0045
+PT,0.8847,0.0113,0.862,0.0268,0.6779,0.0107,0.7417,0.0225,0.466,0.0034
+PTe,0.8893,0.0127,0.8624,0.0492,0.672,0.0143,0.7569,0.8095,0.4607,0.0037
+Topline,0.8967,1,0.8903,1,0.6721,1,0.7621,1,0.4644,1
+Table 2: Results of data stream classi cation ,,,,,,,,,,

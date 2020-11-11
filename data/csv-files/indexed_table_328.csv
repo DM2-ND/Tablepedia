@@ -1,0 +1,6 @@
+Metrics,MAP,MRR,AUC
+TFIDF,0.61053,0.65085,0.78427
+Chi-Square Test,0.6236,0.66807,0.78875
+Independent Learning Model,0.64478,0.69366,0.80565
+Latent Factor Model (K=50),0.66278,0.7049,0.82139
+Table 2: Offline Performance ,,,

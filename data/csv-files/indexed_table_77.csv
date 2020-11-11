@@ -1,0 +1,12 @@
+Method,precision@r=2,recall@r=2,F-measure@r=2,MAP,training time,testing time
+R2SDH,0.3605,0.995,0.5293,0.4918,890.7,2.00E-07
+SDH,0.4957,0.3025,0.3757,0.5609,593.8,3.50E-06
+BRE,0.0129,6.84E-07,1.37E-06,0.5022,41660.2,3.00E-05
+KSH,0.2528,0.0329,0.0582,0.7334,4142.7,6.90E-05
+SSH,0.4405,0.3713,0.403,0.5786,114.4,5.00E-06
+CCA-ITQ,0.2839,8.01E-04,0.0016,0.6127,46.1,3.30E-06
+FastHash,0.2043,0.0032,0.0062,0.5253,12564.7,8.30E-04
+PCA-ITQ,0.0944,0.0026,0.0051,0.5556,31.6,3.20E-07
+AGH,0.45,0.004,0.008,0.5256,21.6,7.10E-05
+IMH,0.4434,0.0117,0.0228,0.5478,61.1,6.00E-05
+Table 4: Experimental results on the NUS-WIDE database when the number of hashing bits is 64. Training and test times are in seconds. The best results are highlighted in bold face. ,,,,,,

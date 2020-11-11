@@ -1,0 +1,10 @@
+,DF i,DF i,DF i,DF i,DF i,DF i,DFi,DFi
+i,%t,%w,%t,%w,%t,%w,%t,%w
+1,0.93,1.03,0.96,1.01,0.97,1.02,0.98,1.04
+3,0.96,1.02,0.98,1.02,0.99,1.01,0.99,1.03
+5,0.97,1.02,0.99,1.02,0.99,1.02,0.99,1.03
+10,0.97,1.03,0.99,1.02,1,1.02,0.99,1.01
+20,0.98,1.02,0.99,1,1,1.03,0.99,1.01
+50,0.98,1.02,1,1,1,1,1,1.01
+70,0.99,1.01,1,1,1,1,1,1
+"Table 3: Statistical properties of selected folksonomy parti- tions. %t denotes the fraction of the tags from the complete dataset included in the respective partition; %w denotes the number of similar tag pairs (__,__sim) found in WordNet for the respective partition divided by the number of mapped pairs from the whole dataset. For the entire dataset, ____ = 9944 and wn_pairs(__ ) = 4335. ",,,,,,,,

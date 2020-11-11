@@ -1,0 +1,16 @@
+Models,Accuracy(K=1),F1-score(K=1),Accuracy(K=2),F1-score(K=2)
+HUCE-U,64.4,55.7,70.08,64.53
+HUCE-M,71.22,64.6,69.13,59.32
+HUCE-UM,73.68,67.72,71.18,63.76
+HUCE(K=1),77.41,72.19,77.27,71.86
+Table 1: Performance of HUCE compared to baselines (%) ,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

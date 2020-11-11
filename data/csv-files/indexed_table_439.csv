@@ -1,0 +1,9 @@
+perturbation,l2 (p2),l2 (p2),l2 (p2),l1 (p1),l1 (p1),l1 (p1)
+score,F1,ACC,MRE,F1,ACC,MRE
+LTGL (l22 ),0.926,0.994,0.7,0.842,0.974,0.29
+LTGL (l1),0.898,0.993,0.7,0.88,0.981,0.28
+TVGL (l22 ),0.791,0.98,-,0.742,0.95,-
+TVGL (l1),0.791,0.98,-,0.817,0.968,-
+LVGLASSO,0.815,0.988,2.8,0.752,0.964,0.74
+GL,0.745,0.974,-,0.748,0.951,-
+"Table 1. Performance in terms of F1 score, accuracy (ACC) and mean rank error (MRE) of LTGL with respect to TVGL, LVGLASSO and GL. LTGL and TVGL are employed with both l2 and l1 penalties, to show how the prior on the evolution of the network a ects the outcome. ",,,,,,

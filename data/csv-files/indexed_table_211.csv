@@ -1,0 +1,5 @@
+Method,P,R,F1,MCC
+quote popularity,0.07,0.29,0.11,0.12
+outlet propensity,0.08,0.34,0.13,0.14
+matrix completion,0.25,0.33,0.28,0.27
+"Table 5: Classification performance of matrix completion, com- pared to the baselines in terms of precision, recall, F1 score and Matthew¡¯s correlation coefficient. Bold scores are significantly better (based on 99% bootstrapped confidence intervals). ",,,,

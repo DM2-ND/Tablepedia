@@ -1,0 +1,7 @@
+,5% train,5% train,20% train,20% train,50% train,50% train,80% train,80% train,95% train,95% train
+,MAE,R2,MAE,R2,MAE,R2,MAE,R2,MAE,R2
+Linear Regression + DeepWalk,4.15,0.485,4.15,0.486,4.15,0.485,4.15,0.485,4.13,0.488
+Iterative Algorithm,5.97,0.131,5.17,0.284,4.43,0.401,4.16,0.435,4.09,0.444
+Neighborhood Average,6.17,0.08,5.22,0.218,4.58,0.333,4.29,0.388,4.18,0.41
+Predict Mean,7.015,0,7.015,0,7.016,0,7.015,0,7.015,0
+Table 1: Age prediction performance as evaluated through both mean absolute error (MAE) and R2 on Pokec. ,,,,,,,,,,

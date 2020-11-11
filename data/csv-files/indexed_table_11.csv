@@ -1,0 +1,6 @@
+,MV,Dawid&Skene,BCC,CommunityBCC
+ACJ,0.974,0.972,0.987,0.974
+SRJ,0.692,0.67,0.72,0.711
+CF,0.773,0.83,0.86,0.886
+ARJ,0.98,0.96,0.964,0.976
+Table 2: The accuracy scores of the four methods. The numbers for each dataset (rows) are the abso- lute estimation error of each method (column). The best performing run in each dataset is highlighted in bold. ,,,,

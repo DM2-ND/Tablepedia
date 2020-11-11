@@ -1,0 +1,8 @@
+,R2,MAE,MSE,R2 ,MAE,MSE
+pics,0.76,1.09,7.3,0.62,1.14,8.51
+videos,0.79,1.15,9.62,0.65,1.22,13.64
+todayilearned,0.71,1.75,22.66,0.61,1.85,32.24
+news,0.56,1.11,3.63,0.57,1.14,3.87
+worldnews,0.57,1.27,9.1,0.52,1.32,10.65
+Hacker News,0.69,0.7,1.82,0.65,0.74,2.08
+Table 1: Accuracy metrics for the full Poisson model. In sample value are trained on and predicted for the same dataset. Out-of-sample are trained on a train set and pre- dicted for a test over 5 fold cross-validation. ,,,,,,

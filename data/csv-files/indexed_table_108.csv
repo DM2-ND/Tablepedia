@@ -1,0 +1,10 @@
+Labeled Nodes,Training10%,Training20%,Training30%,Training40%,Training50%
+DeepWalk,76.4,78,79.5,80.5,81
+MMDW,74.9,80.8,82.8,83.7,84.7
+Text Features,58.3,67.4,71.1,73.3,74
+PLSA,57,63.1,65.1,66.6,67.6
+Na_ve Combination,76.5,80.4,82.3,83.3,84.1
+NetPLSA,80.2,83,84,84.9,85.4
+TADW,82.4,85,85.6,86,86.7
+STNE,84.2,86.5,87,86.9,88.2
+"Table 3: F1-score on Cora dataset, where the percentage of labeled nodes varies from 10% to 50%. ",,,,,

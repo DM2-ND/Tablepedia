@@ -1,0 +1,10 @@
+,Robust04,Robust04,Gov2,Gov2
+,nDCG@20,MAP,nDCG@20,MAP
+LCE[10],43.77,28.89,43.26,32.59
+LCE-WP[10],44.63,28.93,43.98,31.9
+MSF[10],44.13,30.49,44.91,34.35
+,nDCG@20,MAP,nDCG@20,MAP
+LCE[10],42.24,28.05,41.1,30.14
+LCE-WP[10],"44,38",29.08,41.45,28.7
+PQE[10],44.32,29.56,42.86,30.96
+"Table 6: Comparison with the query expansion methods. Statistically significant difference of MSF over the baselines are marked using l, lw, and p, for LCE, LCE-WP and PQE baselines, respectively. Best result per column is marked by boldface. The numbers in parenthesis indicate improvement over the baseline with the best performance. ",,,,

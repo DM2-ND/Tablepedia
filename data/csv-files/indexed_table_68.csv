@@ -1,0 +1,8 @@
+Time stamp,LPF,BPF,PM,NMF,Zero,Global,Loc-Mean,Item -Mean,MFSI
+TS 1,0.2986,0.6128,0.5271,5.4878,0.6812,0.5265,0.324,0.512,1.2331
+TS 2,0.2838,0.6103,0.5292,5.4912,0.6847,0.5292,0.3167,0.5118,1.2142
+TS 3,0.315,0.6461,0.556,5.4767,0.7159,0.5555,0.3509,0.5363,1.2885
+TS 4,0.3347,0.6359,0.5663,5.4643,0.7321,0.5661,0.3695,0.5462,1.2473
+TS 5,0.3306,0.6297,0.5667,5.4715,0.7276,0.5667,0.37,0.5474,1.2364
+TS 6,0.3112,0.5139,0.4916,5.5575,0.6019,0.4911,0.3379,0.473,1.374
+"Table5: RMSE comparison of the LPF model and several baseline approaches in the dynamic setting, where the app opens in month t + 1 are predicted using the app open observations in month t. App opens were aggregated over 14,856 devices and 100 locations. ",,,,,,,,,

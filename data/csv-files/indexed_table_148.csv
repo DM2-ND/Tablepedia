@@ -1,0 +1,17 @@
+,Training10%,Training30%,Training50%,Training70%,Training90%
+DeepWalk,0.8534,0.8584,0.8587,0.8585,0.8588
+Node2vec,0.8665,0.8714,0.8733,0.8738,0.8748
+LINE,0.8886,0.8921,0.8929,0.8936,0.8934
+PTE,0.894,0.8982,0.899,0.8999,0.9005
+Metapath2vec,0.9262,0.9303,0.9314,0.9316,0.932
+PMSW-metapath,0.939,0.9462,0.9472,0.9473,0.9485
+PMSW-metaschema,0.9429,0.9575,0.9598,0.9597,0.9604
+,Training10%,Training30%,Training50%,Training70%,Training90%
+DeepWalk,0.8684,0.8727,0.8733,0.8733,0.8739
+Node2vec,0.8731,0.8773,0.8787,0.8792,0.8799
+LINE,0.8969,0.9002,0.901,0.9016,0.9017
+PTE,0.9023,0.9061,0.9068,0.9077,0.9082
+Metapath2vec,0.9319,0.9356,0.9365,0.9365,0.9369
+PMSW-metapath,0.944,0.9503,0.9513,0.9516,0.9519
+PMSW-metaschema,0.9479,0.9617,0.9637,0.964,0.9638
+Table 2: Experimental results of author node classi cation on the AMiner dataset. ,,,,,

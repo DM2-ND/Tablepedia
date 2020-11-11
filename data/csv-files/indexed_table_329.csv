@@ -1,0 +1,10 @@
+Query Mountain,rank 1,rank 1,rank 2,rank 2,rank 3,rank 3,rank 4,rank 4
+Sample,CCA,CCA,DT,DT,LHNE,LHNE,HNE,HNE
+Image only,51.96,%,52.07,%,53.16,%,54.28,%
+Text only,51.37,%,51.88,%,51.34,%,52.76,%
+Image + Text,52.54,%,53.22,%,53.32,%,54.99,%
+CCA,21.05,%,16.84,%,18.95,%,18.68,%
+DT,20.53,%,25.26,%,22.63,%,22.37,%
+LHNE,26.32,%,21.05,%,21.02,%,22.27,%
+HNE,36.84,%,29.47,%,27.89,%,26.32,%
+Table 4: The classification result in terms of MAP (mean average precision) for the NUS-WIDE dataset. ,,,,,,,,

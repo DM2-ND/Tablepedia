@@ -1,0 +1,6 @@
+Algorithm,drama,comedy,thriller,romance,action,crime,adventure
+LDA,0.5544,0.5856,0.8158,0.8173,0.8745,0.8685,0.8765
+paragraph2vec,0.6367,0.6767,0.7958,0.7919,0.8193,0.8537,0.8524
+word2vec,0.7172,0.7449,0.8102,0.8204,0.8627,0.8692,0.8768
+HDV,0.7274,0.7487,0.8201,0.8233,0.8814,0.8728,0.8854
+Table 1: Movie classification accuracy ,,,,,,,

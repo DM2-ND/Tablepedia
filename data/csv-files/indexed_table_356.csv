@@ -1,0 +1,9 @@
+,This work,This work,Chien et al. [9],Chien et al. [9],Bahmani et al. [2],Bahmani et al. [2],Bahmani et al. [2],Warm start,From scratch,From scratch
+Dataset,ins[¦Ìs],del[¦Ìs],ins[¦Ìs],del[¦Ìs],ins[¦Ìs],del[¦Ìs],ins[¦Ìs],del[¦Ìs],ins[¦Ìs],del[¦Ìs]
+amazon0601,14.6,15.5,189,190.8,373.2,366.9,"20,549.20","23,677.70",DNF,DNF
+as-Skitter,288.4,64.7,"12,491.80","11,636.40",246.3,146.3,"61,516.80","49,400.70",DNF,DNF
+cit-Patents,2.7,2.2,206.2,193.3,,,,,DNF,DNF
+com-DBLP,75.1,69.3,387.8,369.6,"1,209.10","1,137.00","16,228.10","15,920.20",DNF,DNF
+email-Enron,"1,269.30","1,298.50","2,841.80","2,673.20","4,952.80","4,417.30","2,518.30","2,574.40","56,684.10","41,089.00"
+soc-Epinions1,524.1,518.3,"2,231.20","2,117.50","3,782.90","3,841.50","2,491.40","2,222.60","46,273.10","56,730.40"
+"Table7:  Efficiency comparison of the algorithms. DNF means an algorithm did not finish in 10,000 seconds in average.",,,,,,,,,,

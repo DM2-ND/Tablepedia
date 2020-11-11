@@ -1,0 +1,10 @@
+Method,Pre-ICU discharge prediction,Pre-ICU discharge prediction,Retrospective prediction
+,(2 days before),(1 day before),
+Proposed,0.763,0.795,0.914
+Proposed-feat,0.692,0.717,0.837
+Proposed-dz,0.758,0.793,0.913
+non-MTL-1 (separate),0.692,0.714,0.836
+non-MTL-2 (common),0.76,0.783,0.886
+"MTL-1 (`2,1) [19]",0.717,0.723,0.819
+MTL-2 (Trace) [22],0.724,0.739,0.837
+"Table 4: Comparison of averaged AUCs among various methods. In all the settings, our proposed method outperformed all the other methods in terms of AUCs. We conducted the Wilcoxon signed rank test for each pair of our proposed method and compared method, and confirmed that our proposed method statistically significantly (p < 0.05) outperformed all the other methods in each setting, except for the bold-faced results. ",,,

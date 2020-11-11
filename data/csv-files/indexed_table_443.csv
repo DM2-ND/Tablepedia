@@ -1,0 +1,11 @@
+,Yahoo LTRC,Yahoo LTRC,MSLR MQ2008 Folds,MSLR MQ2008 Folds,MSLR MQ2008 Folds,MSLR MQ2008 Folds,MSLR MQ2008 Folds
+,Set 1,Set ,F1,F2,F3,F4,F5
+# Features,700,700,136,136,136,136,136
+# Documents,"473,134","34,815","723,412","716,683","719,111","718,768","722,602"
+# Queries,"19,944",1266,6000,6000,6000,6000,6000
+Avg # Doc per Query,22.723,26.5,119.569,118.447,118.852,118.795,119.434
+,Set 1,Set ,F1,F2,F3,F4,F5
+# Documents,"165,660","103,174","241,521","241,988","239,093","242,331","235,259"
+# Queries,6983,3798,6000,6000,6000,6000,6000
+Avg # Doc per Query,22.723,26.165,119.761,119.994,118.547,120.167,116.6295
+Table 1: Statistics of the Yahoo Competition and Microsoft Learning to Rank data sets. ,,,,,,,

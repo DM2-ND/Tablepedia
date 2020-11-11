@@ -1,0 +1,20 @@
+Dataset,Classyr,Classyr,Classyr,SBRL,SBRL,SBRL,CART,CART,CART,C5.0,C5.0,C5.0,Ripper,Ripper,Ripper,SVM
+,AUC,|R|,|I|,AUC,|R|,|I|,AUC,|R|,|I|,AUC,|R|,|I|,AUC,|R|,|I|,AUC
+adult,0.89,50,2,0.88,13,2,0.88,22,5,0.87,51,12,0.75,16,5,0.86
+breast,0.94,1,3,0.96,3,3,0.96,6,3,0.96,6,3,0.96,3,4,0.85
+chessbig,0.88,143,2,_,_,_,0.87,119,6,,,,0.81,396,6,1
+cylBands,0.7,4,1,0.75,3,2,0.78,20,6,0.78,65,16,0.74,7,3,0.8
+heart,0.74,3,2,_,_,_,0.77,11,3,0.72,34,8,0.54,3,3,0.83
+hepatitis,0.66,1,1,0.6,2,2,0.69,2,2,0.65,9,5,0.62,4,2,0.85
+horsecolic,0.65,2,1,0.82,2,3,0.85,6,1,0.85,16,5,0.78,4,2,0.79
+ionosphere,0.9,4,1,0.88,3,2,0.91,5,2,0.91,12,5,0.89,6,2,0.87
+iris,0.97,2,1,_,_,_,0.97,3,2,0.97,3,2,0.97,3,1,0.99
+led7,0.93,16,2,_,_,_,0.94,29,3,0.94,28,5,0.92,19,4,0.95
+mushroom,1,5,2,1,5,8,1,8,3,1,9,4,1,5,2,0.9
+pageblocks,0.74,10,1,_,_,_,0.74,10,2,0.7,10,5,0.73,8,1,0.72
+pendigits,0.99,73,3,_,_,_,0.99,68,4,1,262,11,0.99,107,4,1
+pima,0.69,2,1,0.69,2,3,0.71,9,2,0.69,13,5,0.68,3,1,0.69
+tictactoe,0.93,9,3,0.87,7,3,0.97,25,3,0.99,43,6,0.97,10,3,1
+waveform,0.9,23,3,_,_,_,0.9,50,5,0.9,78,8,0.87,26,5,0.94
+wine,0.92,2,2,_,_,_,0.94,5,1,0.94,8,3,0.92,5,2,1
+"Table 2: Results per dataset. Area Under the ROC Curve (AUC) (weighted AUC for multiclass datasets), average number of rules |R| (including the default rule), and average number of items per rule (|I|). Note that SBRL cannot do multiclass classi cation, hence the _s. ",,,,,,,,,,,,,,,,

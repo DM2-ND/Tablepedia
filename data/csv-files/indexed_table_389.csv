@@ -1,0 +1,8 @@
+,N = 2,N = 2,N = 2,N = 3,N = 3,N = 4,N = 4
+Dataset,Realizations,Avg. Pos.,Avg. Neg,Avg. Pos.,Avg. Neg,Avg. Pos.,Avg. Neg
+election,26,796,243658,186,922854,41,1373586
+election2,26,1664,516415,583,1973244,198,2888931
+olympics,12,182,15704,38,40257,10,42641
+irvine,lat4ency,478,167674,675,536188,95,348814
+studivz,23,1332,751172,706,5765692,-,-
+"Table 2: Link prediction statistics by dataset and path length N . These values report the average over all realizations of each experiment. For each realization, measurements are based on the graph associated with the interval [t¡ä0 , t¡ä1 ) and the new edges formed in the interval [t¡ä1 , t¡ä2 ). ",,,,,,,

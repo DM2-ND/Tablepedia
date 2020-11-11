@@ -1,0 +1,12 @@
+,,HammingLoss RankingLoss,Coverage,OneError,AveragePrecision
+Birds,MLkNN,0.051¡À  0.001 0.298¡À  0.004,3.507¡À  0.084,0.713¡À  0.017,
+Birds,M-MLkNN,0.046¡À  0.001 0.167¡À  0.007,2.008¡À  0.067,0.473¡À  0.006,0.600¡À  0.005
+CAL500,MLkNN,0.139¡À  0.001 0.187¡À  0.002,132.467¡À  0.489,0.131¡À  0.005,0.489¡À  0.002
+CAL500,M-MLkNN,0.139¡À  0.001 0.187¡À  0.001,131.731¡À  0.538,0.125¡À  0.005,0.489¡À  0.001
+Emotions,MLkNN,0.269¡À  0.007 0.278¡À  0.011,2.358¡À  0.071,0.419¡À  0.013,0.692¡À  0.011
+Emotions,M-MLkNN,0.208¡À  0.004 0.180¡À  0.005,1.857¡À  0.025,0.309¡À  0.008,0.776¡À  0.006
+Enron,MLkNN,0.053¡À  0.000 0.099¡À  0.001,13.850¡À  0.095,0.340¡À  0.013,0.604¡À  0.005
+Enron,M-MLkNN,0.052¡À  0.000 0.094¡À  0.001,13.477¡À  0.103,0.288¡À  0.008,0.640¡À  0.004
+Scene,MLkNN,0.175¡À  0.002 0.198¡À  0.003,1.065¡À  0.023,0.338¡À  0.008,0.774¡À  0.003
+Scene,M-MLkNN,0.168¡À  0.002 0.175¡À  0.003,0.978¡À  0.021,0.310¡À  0.008,0.794¡À  0.004
+"Table 8: M-MLkNN versus MLkNN on hamming loss, ranking loss, coverage, one error and average precision. Each result is an average over 10 trials of 10-fold cross-validation and its standard error. For the first four performance measures, the lower the better; for the last one, the higher the better. ",,,,,

@@ -1,0 +1,37 @@
+Dataset,Method,1-AUPRC,1-Precision@0.9,1-Precision@0.99,1-Acc.
+MNIST,CE,0.008,0.005,0.203,0.012
+MNIST,max-margin,0.012,0.018,0.262,0.014
+MNIST,self-norm,0.002,0.001,0.021,0.014
+MNIST,NCE,0.002,0.002,0.021,0.013
+MNIST,binary CE,0.002,0,0.037,0.014
+MNIST,batch CE,0.001,0.001,0.022,0.013
+MNIST,batch max-margin,0.002,0.001,0.034,0.013
+MNIST,CE with all logits,0.001,0,0.02,0.012
+SVHN,CE,0.023,0.028,0.545,0.044
+SVHN,max-margin,0.021,0.025,0.532,0.043
+SVHN,self-norm,0.015,0.014,0.298,0.039
+SVHN,NCE,0.021,0.017,0.32,0.042
+SVHN,binary CE,0.015,0.016,0.312,0.041
+SVHN,batch CE,0.015,0.013,0.28,0.039
+SVHN,batch max-margin,0.018,0.02,0.384,0.047
+SVHN,CE with all logits,0.015,0.016,0.313,0.044
+CIFAR-10,CE,0.109,0.326,0.703,0.146
+CIFAR-10,max-margin,0.094,0.285,0.705,0.145
+CIFAR-10,self-norm,0.073,0.204,0.599,0.139
+CIFAR-10,NCE,0.081,0.214,0.594,0.143
+CIFAR-10,binary CE,0.07,0.21,0.607,0.137
+CIFAR-10,batch CE,0.072,0.202,0.602,0.14
+CIFAR-10,batch max-margin,0.075,0.226,0.636,0.147
+CIFAR-10,CE with all logits,0.074,0.214,0.648,0.146
+CIFAR-100,CE,0.484,0.866,0.974,0.416
+CIFAR-100,max-margin,0.49,0.893,0.977,0.466
+CIFAR-100,self-norm,0.378,0.807,0.97,0.401
+CIFAR-100,NCE,0.383,0.795,0.964,0.415
+CIFAR-100,binary CE,0.426,0.87,0.978,0.445
+CIFAR-100,batch CE,0.371,0.795,0.961,0.4
+CIFAR-100,batch max-margin,0.468,0.903,0.983,0.473
+CIFAR-100,CE with all logits,0.38,0.801,0.973,0.416
+Imagenet,CE,0.366,0.739,0.932,0.286
+Imagenet,batch CE,0.245,0.563,0.865,0.278
+Imagenet,CE with all logits,0.223,0.566,0.872,0.286
+"Table 1: Results on Single Logit classi cation, using the di erent loss functions. In almost all cases, loss functions that are aligned with the Principle of Logit Separation (under the dashed line) yield a relative improvement of 20%-35% in the di erent performance measures, while also yielding a small improvement in classi cation performance. ",,,,,

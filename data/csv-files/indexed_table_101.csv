@@ -1,0 +1,31 @@
+,Precision (%),Precision (%),Precision (%),Precision (%),Precision (%),Promoted Instances (#),Promoted Instances (#),Promoted Instances (#),Promoted Instances (#),Promoted Instances (#)
+Predicate,CPL,UPL,CSEAL,SEAL,MBL,CPL,UPL,CSEAL,SEAL,MBL
+CompanyAcquiredCompany,97,77,-,-,-,93,230,0,0,0
+AthletePlaysForTeam,100,93,100,76,100,9,269,4,17,96
+AthletePlaysInLeague,-,78,100,57,-,0,18,14,82,0
+AthletePlaysSport,100,47,100,100,100,83,258,1,1,109
+CEOOfCompany,100,100,-,100,100,18,18,0,1,1
+CityLocatedInCountry,93,57,100,100,100,185,787,9,577,136
+CityLocatedInState,100,70,100,93,100,76,194,34,537,54
+CoachCoachesInLeague,-,-,0,-,-,0,0,1,0,0
+CoachCoachesTeam,100,100,-,-,100,324,668,0,0,6
+CompanyIsInEconomicSector,93,97,-,-,-,583,889,0,0,0
+CompanyCompetesWithCompany,100,67,-,-,-,28,123,0,0,0
+CompanyHasOfficeInCity,-,63,-,100,-,0,526,0,4,0
+CompanyHasOfficeInCountry,-,90,-,-,-,0,195,0,0,0
+CompanyHeadquarteredInCity,50,53,100,100,-,2,532,1,2,0
+LeaguePlaysGamesInStadium,-,-,-,100,-,0,0,0,177,0
+CompanyProducesProduct,97,93,-,-,100,54,215,0,0,8
+ProductInstanceOfProductType,73,67,-,-,-,153,484,0,0,0
+SportUsesSportsEquipment,33,3,100,87,33,15,1330,5,15,6
+StadiumLocatedInCity,100,20,77,70,90,7,600,200,554,56
+StateHasCapitalCity,60,70,-,73,-,266,188,0,495,0
+StateLocatedInCountry,97,40,100,97,100,194,1299,46,653,61
+TeamHasHomeStadium,100,87,100,100,100,97,208,179,106,92
+TeamPlaysAgainstTeam,100,80,-,-,-,238,2088,0,0,0
+TeamHasHomeCity,-,57,-,93,100,0,680,0,29,11
+TeamPlaysInLeague,100,67,100,100,100,7,255,104,749,23
+TeamPlaysSport,-,70,100,100,100,0,177,30,30,37
+TeamWonAwardTrophyTournament,90,70,-,-,-,128,262,0,0,0
+Average,89,69,91,91,95,95,463,23,149,26
+"Table 3: Precision (%) and counts of promoted instances for each relation using CPL, UPL, CSEAL, SEAL, and MBL. ",,,,,,,,,,

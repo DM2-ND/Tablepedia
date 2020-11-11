@@ -1,0 +1,7 @@
+Data,Metric,Dimensionality=10,Dimensionality=10,Dimensionality=10,Dimensionality=10,Dimensionality=10,Dimensionality=10,Dimensionality=10,Dimensionality=10
+,,User Mean,Item Mean,NMF,PMF,TCF,Trust,SoRec,RSTE
+Training90%,MAE,0.9134,0.9768,0.8712,0.8651,0.9005,0.9039,0.8404,0.8367
+Training90%,RMSE,1.1688,1.2375,1.1621,1.1541,1.1697,1.1917,1.1293,1.1094
+Training80%,MAE,0.9285,0.9913,0.8951,0.8886,0.9044,0.9215,0.858,0.8537
+Training80%,RMSE,1.1817,1.2584,1.1832,1.176,1.1761,1.2132,1.1492,1.1256
+Table III. Performance Comparisons (A Smaller MAE or RMSE Value Means a Better Performance) ,,,,,,,,,

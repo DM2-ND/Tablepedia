@@ -1,0 +1,10 @@
+Algorithm,MAE Valid.,RAE Valid.,MAE Test
+Regression Tree,135.19523,0.16615,323.78544
+Nearest Neighbors,169.64048,0.18968,232.01521
+FFA Neural Nets,189.60124,0.24541,333.9325
+Polynomial Regression,167.9827,0.232172,354.9368
+Regression Tree,0.18718,0.17903,0.22738
+Nearest Neighbors,0.18478,0.21019,0.30529
+FFA Neural Nets,0.27431,0.26099,0.27564
+Polynomial Regression,0.2541475,0.2602514,0.9005622
+"Figure 8: Mean and Relative Absolute Error per method, on best split and parameters found ",,,

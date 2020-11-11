@@ -1,0 +1,7 @@
+Model,Precision@10,Precision@20,MRR
+Frequency,0.321,0.368,0.155
+Multiclass-BOW,0.345,0.425,0.197
+Smart Reply,0.483,0.579,0.267
+Unique Clusters,376,97.10%,83.20%
+Unique Suggestions,12.9k,78%,31.90%
+Table 3: Response ranking ,,,

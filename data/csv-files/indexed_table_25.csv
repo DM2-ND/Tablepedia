@@ -1,0 +1,9 @@
+,performance on 20 clusters,performance on 20 clusters,performance on 20 clusters,performance on 20 clusters,performance on 50 clusters,performance on 50 clusters,performance on 50 clusters,performance on 50 clusters
+Method,Precision,Recall,F1,RI,Precision,Recall,F1,RI
+TFIDF,0.8841±.01,0.4569±.07,0.5992±.06,0.4497±.07,0.8986±.01,0.3996±.07,0.5496±.07,0.4519±.04
+PLSA,0.8978±.01,0.5756±.02,0.7013±.01,0.5904±.01,0.9085±.01,0.5551±.02,0.6889±.01,0.5812±.01
+BSGP,0.8550±.00,0.8755±.00,0.8842±.00,0.7996±.00,0.8549±.00,0.8635±.00,0.8541±.00,0.7781±.00
+MCoC,0.8870±.01,0.5267±.07,0.6582±.05,0.5476±.05,0.8823±.01,0.3169±.02,0.4054±.02,0.3658±.01
+HSoC,0.8465±.00,0.9534±.01,0.8967±.00,0.8163±.00,0.8604±.01,0.8857±.01,0.8728±.00,0.7842±00
+HSoCFea,0.8417±.00,0.9776±.01,0.9045±.00,0.8275±.01,0.8614±.00,0.8880±.02,0.8743±.01,0.7868±.01
+"Table 4: Object co-clustering performance comparisons on (a) AOL and (b) the commercial datasets in terms of Precision, Recall, F1 and Rand index (RI). We set the number of intents to be 20 and 50 (k = 20, 50). ",,,,,,,,

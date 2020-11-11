@@ -1,0 +1,11 @@
+,By munually labeled data,By munually labeled data,By munually labeled data,By mechanical turk data,By mechanical turk data,By mechanical turk data
+,prec,rec,F1,prec.,rec,F1
+Accuracy,0.54,0.54,0.54,0.543,0.543,0.543
+unrelated,0.763,0.659,0.707,0.698,0.789,0.741
+belongs,0.125,0.211,0.157,0.195,0.18,0.187
+equivalent,0.7,0.568,0.627,0.623,0.564,0.592
+,prec,rec'l,F1,prec.,rec'l,F1
+unrelated,0.612,0.932,0.739,0.544,0.939,0.689
+belongs,0.333,0.105,0.16,0.81,0.111,0.195
+equivalent,0.769,0.541,0.635,0.652,0.598,0.624
+Table 4: Precision/Recall of Inferred Query Relationships ,,,,,,

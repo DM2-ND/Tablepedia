@@ -1,0 +1,6 @@
+,Agree.,Consc.,Extra.,Neuro.,Open.,Average
+lin,55%,53.60%,55.20%,63%,72%,
+wup,54.18%,53%,41.80%,62%,71.40%,56.44%
+SVM,53%,56%,55%,62%,66%,58.40%
+DT,53%,54%,59%,59%,64%,58.20%
+Table 3: Comparison of accuracy values (%) ,,,,,,

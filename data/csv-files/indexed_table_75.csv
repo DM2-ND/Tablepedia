@@ -1,0 +1,10 @@
+,Enterprise,Enterprise,Malware,Malware
+Algorithm,Standard,Enhanced,Standard,Enhanced
+LinReg,99.92%,99.28%,0.00%,58.65%
+l2-LogReg,93.35%,98.36%,16.86%,76.13%
+l1-LogReg,92.75%,98.97%,19.71%,75.08%
+DecTree,97.55%,97.02%,40.98%,83.33%
+RandForest,99.53%,99.99%,33.54%,76.79%
+SVM,11.94%,99.78%,77.98%,72.62%
+MLP,95.90%,99.54%,20.61%,72.53%
+Table 2: Classi cation accuracy on a validation dataset from a di erent network for both the standard and enhanced feature sets. Malware data from September is included to demonstrate majority-class classi ers. ,,,,

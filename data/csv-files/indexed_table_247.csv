@@ -1,0 +1,17 @@
+,Single Model,Single Model,Ensemble Model,Ensemble Model
+,EM,F1,EM,F1
+Logistic Regression Baseline [18],40.4,51,-,-
+Dynamic Chunk Reader [34],62.5,71,-,-
+Fine-Grained Gating [33],62.5,73.3,-,-
+Match-LSTM [26],64.7,73.7,67.9,77
+RaSoR [14],-,-,67.4,75.5
+Multi-Perspective Matching [28],68.9,77.8,73.7,81.3
+Dynamic Coattention Networks [32],66.2,75.9,71.6,80.4
+BiDAF [6],68,77.3,73.3,81.1
+ReasoNet,69.1,78.9,73.4,81.8
+Iterative Co-attention Networkα,67.5,76.8,-,-
+FastQA [30],68.4,77.1,70.8,78.9
+jNet [36],68.7,77.4,-,-
+Document Reader [4],69.9,78.9,-,-
+R-Net [27],71.3,79.7,75.9,82.9
+Table 2: Results on the SQuAD test leaderboard. ,,,,

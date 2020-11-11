@@ -1,0 +1,14 @@
+,SVMRank,SVMRank,SVMRank,ListNet,ListNet,ListNet,ListNet
+Feature set,MRR,P@1,P@2,Feature se,MRR,P@1,P@2
+6F+2500*AR,0.5835,19.97%,78.60%,6F+AR,0.6139,26.07%,70.10%
+AR,0.5811,19.68%,78.23%,6F+10*AR,0.6139,26.07%,70.10%
+6F+1000*AR,0.5798,19.63%,78.35%,6F+100*AR,0.6139,26.07%,70.10%
+6F+AR,0.5792,19.63%,78.38%,6F+1000*AR,0.6139,26.07%,70.10%
+6F (Baseline),0.5787,19.59%,78.41%,6F+2500*AR,0.6139,26.07%,70.10%
+6F+100*AR,0.5726,19.59%,78.49%,,0.6091,24.91%,70.12%
+6F+10*AR,0.5709,19.22%,78.51%,AR,0.5872,20.01%,78.32%
+Systems,MRR,P@1,P@2,Systems,MRR,P@1,P@2
+Best of Ours,,,88.60%,,0.5931,20.96%,73.20%
+Only AR feature,,,88.32%,,0.5891,20.04%,74.22%
+Baseline system,,,88.65%,,0.551,10.77%,88.57%
+Table 3: Summary of the performances on DS1 development and test data set. 6F stands for the features mentioned in 3.2 ,,,,,,,

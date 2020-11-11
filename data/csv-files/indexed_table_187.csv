@@ -1,0 +1,12 @@
+Dataset,Iterative testing,Iterative testing,Greedy,Greedy,Cost-aware Greedy,Cost-aware Greedy,ILP method,ILP method
+Dataset,Time(sec),Cost,Time(sec),Cost,Time(sec),Cost,Time(sec),Cost
+a1a,0.12,116.46,3.38,39.48,4.75,32.74,7.35,9.24
+liver disorders,0,11.64,2.21,8.21,2.57,4.02,31.22,1.1
+australian,0,41.76,2.99,12.3,3.13,6.51,108.31,3.42
+breast cancer,0,74.19,0.16,41.69,0.22,45.57,31.8,18.35
+dna,0.08,1112.22,4.23,34.45,5,34.47,9.84,24.1
+glass,0,16.4,1.38,21.63,1.36,11.82,57.67,1.18
+heart,0,53.3,1.12,32.52,1.1,22.67,5.71,2.51
+ionosphere,0.01,195.67,15.01,53.53,21.2,40.87,48.89,6.98
+mushrooms,0.27,199.68,0.91,55.51,1.26,68.69,3.49,32.53
+Table 3: Solution time and action costs of various methods. All results are averaged over 100(C-1) runs. Optimal costs are marked in bold. See text for details of experimental setup. ,,,,,,,,

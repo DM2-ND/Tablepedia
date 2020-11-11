@@ -1,0 +1,6 @@
+,Len1 (143 queries),Len1 (143 queries),Len2+3 (443 queries),Len2+3 (443 queries),Len2+3 (443 queries),Len2+3 (443 queries)
+,nDCG@1,nDCG@5,nDCG@10,nDCG@1,nDCG@5,nDCG@10
+CTRank,0.765,0.841,0.865,0.655,0.716,0.757
+StructRank,0.803,0.849,0.871,0.669,0.731,0.769
+StructRank,(+4.96%),(+0.95%),(+0.69%),(+2.14%),(+2.09%),(+1.59%)
+"Table 4: Retrieval effectiveness of retrieval methods CTRank and StructRank, for queries of different length. The _ denotes statistically significant difference with CTRank method (Wilcoxon sign test, ¦Á < 0.05). The numbers in the parentheses indicate % improvement of StructRank over CTRank baseline. ",,,,,,

@@ -1,0 +1,21 @@
+,Univariate Feature Selection,Univariate Feature Selection,Univariate Feature Selection,Multivariate Feature Selection,Multivariate Feature Selection,Multivariate Feature Selection,Multivariate Feature Selection,Multivariate Feature Selection
+,IG,CHI,SYM,RELIEF,SVMONE,SVMRFE,CFS,Avg
+nobagg,5.9,6,4.4,4.8,4.6,5,4,4.9
+nobagg,6.1,6.4,5.8,5.9,4.3,3.7,4.7,5.3
+avgRank,6.1,5,5.4,3.4,5.5,4,1.5,4.4
+avgRank,7.2,6.2,6.7,5.6,6.1,6.8,4.8,6.2
+mostFreq,4.9,5.4,5.1,4.3,4.5,4.6,5.5,4.9
+mostFreq,5.9,6.3,6.4,6.3,6.8,6.7,6.9,6.5
+maxApr,4.9,4.8,4.6,4.6,5.2,5.2,5.8,5
+maxApr,4.8,4.9,4.6,5.1,6.2,5.6,6.1,5.3
+closedApr,5.1,6.4,6.1,4.9,5.1,5.8,6.1,5.6
+closedApr,5.8,6,6.3,6,6.6,6.7,6.5,6.3
+medMaxApr,0.9,0.9,0.9,1.5,1,1.1,2.3,1.2
+medMaxApr,2.1,2.4,2,2.3,1.9,2.3,2.2,2.2
+medClosedApr,1.8,1.8,1.7,2.1,1.5,1.8,3.2,2
+medClosedApr,2.1,2,2,2.2,1.9,2.1,2.2,2.1
+largeMed,3.5,3.1,4.4,5,2.6,3.5,4.5,3.8
+largeMed,0.2,0,0,0,0,0,0.2,0.1
+mostRep,3,2.8,3.4,5.4,5.9,5,3.1,4.1
+mostRep,1.9,1.8,2.2,2.6,2.1,2.1,2.4,2.2
+"Table 2: Average prediction error & stability scores of the single model aggregation operators over all datasets when SVM is used as the classification algorithm. In each cell the upper value is the average error score of the model mining operator given in the row, over the different model mining operators, for the feature selection algorithm specified in the column header; the lower value is the respective stability score. The final column gives the respective averages for each model mining operator over the different feature selection algorithms. The larger the values the higher the rank of the method; the top rank per column is indicated in bold. ",,,,,,,,

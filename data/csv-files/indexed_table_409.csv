@@ -1,0 +1,11 @@
+title,ROBUST04,ROBUST04,W10g,W10g,W10g,GOV2,GOV2,GOV2
+,prec@10,b-pref,MAP,prec@10,b-pref,MAP,prec@10,b-pref
+QL 42.25,25.45,24.93,25.6,18.62,19.04,53.42,35.3,30.19
+SD 44.10,27.1,26.61,28.9,19.76,20.63,57.85,37.71,32.47
+SD 44.10,,,,,(+8.3/),,,(+7.5/)
+SD 44.62,,,,,,,,33.38
+SD 44.62,,,,,(+16.6/+7.6),,,(+10.6/+2.8)
+,prec@10,b-pref,MAP,prec@10,b-pref,MAP,prec@10,b-pref
+QL 42.69,25.37,25.07,32.7,20.47,19.71,51.68,35.7,26.06
+SD 41.77,25.9,25.58,36.1,20.73,20.32,53.56,36.22,26.94
+"Table 5: Comparison of retrieval results for title (top table) and description (bottom table) TREC queries with query likelihood (QL), sequential dependence model (SD) and weighted sequential dependence model (WSD). Numbers in parentheses indicate % improvement in MAP over QL/SD (if available). ",,,,,,,,

@@ -1,0 +1,11 @@
+Methods,Tianchi,Tianchi,JD,JD
+,Recall@20,MRR@20,Recall@20,MRR@20
+P-POP,0.2262,0.0824,0.5854,0.2176
+BPR-MF,0.0559,0.0165,0.1873,0.0664
+Item-KNN,0.1964,0.0883,0.1246,0.0361
+GRU4Rec,0.2025(-10.48%),0.0861(-2.49%),0.7034(+20.16%),0.4198(+92.92%)
+GRU4Rec Concat,0.2287(+1.11%),0.0859(-2.72%),0.7934(+35.53%),0.5932(+172.61%)
+HRNN Init,0.2305(+1.9%),0.0897(+1.59%),0.8073(+37.91%),0.6098(+180.23%)
+HRNN All,0.2167(-4.20%),0.0893(+1.13%),0.7762(+32.59%),0.4335(+99.22%)
+BINN,0.2376(+5.04%),0.0936(+6.00%),0.8430(+44.00%),0.7082(+225.46%)
+Table 2: Performance comparisons of BINN with baseline methods on two datasets (The improvements of RNN-based models over the best traditional method have been marked). ,,,,

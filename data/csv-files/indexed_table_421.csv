@@ -1,0 +1,14 @@
+,PPI,PPI,Blog,Blog,Flickr,Flickr,YouTube,YouTube
+DeepWalk,Mi-F1,Time,Mi-F1,Time,Mi-F1,Time,Mi-F1,Time
+MILE (DW),25.6,1.22,42.9,4.69,40.4,34.48,46.1,55.2
+MILE-rm (DW),23.5,1.07,37.7,3.86,37.2,25.99,41.4,55.26
+MILE-avg (DW),23.5,1.08,35.5,3.96,37.6,26.02,41.8,54.52
+MILE-untr (DW),25.4,2.22,35.6,6.74,37.7,53.32,41.6,94.74
+MILE-2base (DW),22.4,2.03,35.3,6.44,36.4,44.81,43.6,394.72
+MILE-gs (DW),25.2,0.22,41,1.69,37.6,20,39.6,33.52
+NetMF MILE (NM),23.5,0.12,38.7,1.06,34.5,15.1,26.4,26.48
+MILE-rm (NM),24.5,0.13,39.9,1.05,36.4,14.86,26.4,27.71
+MILE-proj (NM),24.8,0.13,39.4,1.08,36.4,15.23,30.2,27.2
+MILE-avg (NM),26.6,0.29,41.3,2.33,37.7,31.65,34.7,55.18
+MILE-untr (NM),24.8,1.08,40,3.7,35.1,34.25,36.4,345.28
+"Table 4: Comparisons of graph embeddings between MILE and its variants. Except for the original methods (DeepWalk and NetMF), the number of coarsening level m is set to 1 on PPI/Blog/Flickr and 6 on YouTube. Mi-F1 is the Micro-F1 score in 10_2 scale while Time column shows the running time of the method in minutes. ¡°N/A¡± denotes the method consumes more than 128 GB RAM. ",,,,,,,,

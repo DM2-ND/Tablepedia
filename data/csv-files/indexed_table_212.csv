@@ -1,0 +1,11 @@
+Recommendation,base,5 subgroups,5 subgroups,5 subgroups,15 subgroups,15 subgroups,25 subgroups,25 subgroups
+Method,NDCG@10,MAP,NDCG@10,MAP,NDCG@10,MAP,NDCG@10,MAP
+POP,0.379,0.264,0.391,0.272,0.419,0.294,0.429,0.3
+User-based,0.368,0.201,0.382,0.213,0.385,0.231,0.409,0.246
+Item-based,0.493,0.368,0.465,0.348,0.444,0.334,0.479,0.356
+SVD,0.477,0.311,0.492,0.334,0.506,0.342,0.497,0.343
+NMF,0.48,0.342,0.496,0.363,0.487,0.361,0.492,0.368
+MMMF,0.329,0.22,0.309,0.207,0.361,0.245,0.355,0.244
+NPCA,0.311,0.202,0.299,0.197,0.352,0.154,0.326,0.187
+PD,0.293,0.213,0.297,0.222,0.299,0.225,0.303,0.227
+"Table 3: Performance Comparisons on MovieLens-1M in terms of MAP and NDCG. 5, 15 and 25 subgroups are used for our approach. The bold number indicates an obvious improvement (difference ¡Ý 0.01). ",,,,,,,,

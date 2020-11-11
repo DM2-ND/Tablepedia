@@ -1,0 +1,10 @@
+Cross Domain ,ALGORITHM,P@10 ,P@20 ,MAP ,R@100 
+DM to Theory ,CTL ,37.7,36.4,40.6,35.6
+DM to Theory ,SV-DNN ,40,24.2,41.2,69.8
+MI to DB ,CTL ,32.5,30,36.9,59.8
+MI to DB ,SV-DNN ,35.7,20.6,39.7,70.9
+MI to DM ,CTL ,30,24,35.6,49.6
+MI to DM ,SV-DNN ,37.2,21.5,41.8,63.3
+Visual to DM ,CTL ,28.3,26,32.8,36.3
+Visual to DM ,SV-DNN ,35.2,20.8,37.8,64.4
+Table 6: Recommendation performance on the cross-domain collaboration public data [28]. ,,,,,

@@ -1,0 +1,8 @@
+,μ = 1,μ = 1,μ = 1,μ = 1,μ = 2,μ = 2,μ =_,μ =_
+Dataset,N. Event,N. Node,Mem.,Time,Mem.,Time,Mem.,Time
+irvine,61734,1899,1,0.9,10,1.4,68,2.5
+election2,563324,5046,5,4.9,64,20,624,55.7
+studivz,886241,28618,12,3.6,153,11.1,18092,2089
+mobile comm.,180860015,1238758,1241,1178,17948,23012.4,-,-
+"Table1: The runtime and memory requirements of the social vector clocks calculations depends heavily on the reach parameter ��. Memory
+(in MB) indicates the peak amount of memory needed by our ",,,,,,,,

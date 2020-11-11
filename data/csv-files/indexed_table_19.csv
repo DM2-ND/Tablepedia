@@ -1,0 +1,8 @@
+,Training,Training,Training,Testing,Testing,Testing,,Training,Training,Training,Testing,Testing,Testing
+,Prec.,Recall,Fβ=1,Prec.,Recall,Fβ=1,,Prec.,Recall,Fβ=1,Prec.,Recall,Fβ=1
+LOC,84.28%,80.02%,82.1,83.15%,75.87%,79.34,LOC,83.83%,80.58%,82.17,83.00%,77.27%,80.03
+MISC,79.24%,72.45%,75.69,73.86%,72.34%,73.1,MISC,79.14%,72.02%,75.41,72.31%,69.96%,71.11
+ORG,85.58%,84.56%,85.07,78.64%,75.24%,76.91,ORG,85.56%,84.41%,84.98,78.08%,75.17%,76.6
+PER,89.44%,86.43%,87.91,87.78%,83.44%,85.56,PER,89.28%,86.32%,87.77,87.21%,82.90%,85
+Overall,85.46%,81.88%,83.63,82.06%,77.54%,79.74,Overall,85.25%,81.91%,83.55,81.48%,77.41%,79.39
+Table 3: CoNLL03 evaluation of universal training. ,,,,,,,,,,,,,

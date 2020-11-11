@@ -1,0 +1,14 @@
+Sites,Fresh Cache,Fresh Cache,Fresh Cache,Fresh Cache,Expired Cache,Expired Cache,Expired Cache,Expired Cache,Empty Cache,Empty Cache,Empty Cache,Empty Cache
+Sites,Legacy,Speculate,Reduction,Reduction,Legacy,Speculate,Reduction,Reduction,Legacy,Speculate,Reduction,Reduction
+ESPN,4557,4557,0,0%,6702,4622,2080,31%,7143,4622,2521,35%
+CNN,2382,2382,0,0%,4869,2884,1985,41%,6300,4315,1985,32%
+Google,2162,2131,31,1%,3363,2131,1232,37%,3661,2223,1438,39%
+Yahoo! Mail,3199,3199,0,0%,4333,3199,1134,26%,4341,3199,1142,26%
+Weather,3645,3608,37,1%,6294,3608,2686,43%,6349,3608,2741,43%
+Craigslist,1926,1920,6,0%,3034,1920,1114,37%,3103,1920,1183,38%
+Neopets Games,3605,3605,0,0%,11505,9002,2503,22%,11843,9340,2503,21%
+Varsity Tutors,3313,3313,0,0%,8410,6596,1814,22%,9219,7405,1814,20%
+Ride METRO,3826,3826,0,0%,8266,5560,2706,33%,8774,6068,2706,31%
+Rice Registrar,3351,3351,0,0%,5865,3541,2324,40%,6427,3541,2886,45%
+Average,3197,3189,7,0%,6264,4306,1958,33%,6716,4624,2092,33%
+Table 1: Upper bound of the browser delay reduction from speculative loading under different cache states (in ms) ,,,,,,,,,,,,

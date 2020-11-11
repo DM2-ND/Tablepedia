@@ -1,0 +1,6 @@
+method,HIV,HIV,HIV,NCI-1,NCI-1,NCI-1,NCI-33,NCI-33,NCI-33,NCI-83
+,full,partial,diff.,full,partial,diff.,full,partial,diff.,full
+Agg-Attr,69.58,64.17,64.79,59.58,61.25,58.54,58.75,62.71,60,57.5
+Agg-WL,69.37,56.04,62.71,51.46,67.08,49.79,60.62,51.46,62.08,52.29
+GAM,-,74.79,-,64.17,-,67.29,-,67.71,-,64.79
+"Table 2: Performance of the baselines when we restrict their setting to that of GAM where they are given 20 randomly selected partial snapshots of each graph and have to predict by voting. The column ¡°full"" indicates the performance when the entire graph is seen and ¡°partial"" shows the performance when only parts of the graph is seen. ¡°Di ."" is the di erence in performance, a ¡ý means that performance deteriorated when only partial information is available and ¡ü shows increase in performance. ",,,,,,,,,,

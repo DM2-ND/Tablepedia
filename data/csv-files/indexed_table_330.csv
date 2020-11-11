@@ -1,0 +1,6 @@
+,KNN,ITML,LMNN,FANTOPE,CAP,RML,Proposed
+Original,83.48 ± 3.87,88.09 ± 2.19,89.37 ± 2.38,90.16 ± 2.69,90.16 ± 2.69,85.05 ± 5.15,91.34 ± 1.52
+Sparse,68.47 ± 10.22,72.54 ± 2.24,74.08 ± 1.68,77.51 ± 3.80,75.59 ± 4.93,71.66 ± 3.28,81.49 ± 3.28
+Regular,54.75 ± 4.52,57.09 ± 1.54,61.83 ± 4.49,64.91 ± 1.99,63.01 ± 4.56,55.13 ± 3.68,67.32 ± 3.49
+Irregular,58.67 ± 5.07,66.44 ± 3.22,69.32 ± 5.15,69.32 ± 5.15,69.32 ± 5.15,60.25 ± 2.70,73.28 ± 8.01
+"Table 2: Recognition accuracy (%) and standard deviation of di erent methods on tra c video database, where Sparse noise, regular and irregular occlusion are added. ",,,,,,,

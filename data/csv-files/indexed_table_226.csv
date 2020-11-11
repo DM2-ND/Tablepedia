@@ -1,0 +1,9 @@
+,Single Node,Joint Training,GSRNN
+Group 1,0.174/0.166,0.204/0.143,0.102/0.108
+Group 2,0.381/0.348,0.153/0.133,0.181/0.197
+Group 3,0.699/0.697,0.413/0.495,0.382/0.412
+Average,0.482/0.471,0.286/0.317,0.258/0.278
+"Table 4: Average RMSE on for CHI Crime Data. Le : RMSE on CDF, Right: RMSE on PDF. Unit: number of crimes. ",,,
+,,,
+,,,
+,,,

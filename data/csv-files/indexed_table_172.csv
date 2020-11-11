@@ -1,0 +1,8 @@
+Method,CBF,CBF,TwoLeadECG,TwoLeadECG,TwoLeadECG,TwoLeadECG,Coffee,Coffee,Coffee
+,Error Rat,Earliness,F  score,Error Rat,Earliness,F  score,Error Rat,Earliness,F  score
+ECDIRE,0.11,0.2855,0.1588,0.19,0.6938,0.2983,0.04,0.8214,0.0763
+RelClass,0.36,0.2308,0.2813,0.28,0.8363,0.4195,0.11,0.3844,0.1711
+ECTS,0.15,0.715,0.3306,0.27,0.6443,0.3805,0.25,0.8394,0.3853
+EDSC,0.16,0.3185,0.213,0.12,0.4685,0.1911,0.25,0.5423,0.3422
+DTEC,0.08,0.4883,0.1375,0.05,0.4672,0.0903,0.04,0.6299,0.0752
+Table 1: Performance Comparison ,,,,,,,,,

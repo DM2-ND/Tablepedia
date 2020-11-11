@@ -1,0 +1,25 @@
+,Google,Google,Google,Bing/Flickr,Bing/Flickr,Bing/Flickr
+,Original,Voting,Regression,Original,Voting,Regresssion
+Alfred Louis,0.0199,0.8095,0.0783,0.0849,0.7672,0.4546
+David Patterson,0.13,0.569,0.4326,0.1566,0.6846,0.7712
+Emmy Noether,0.8382,0.8917,0.8472,0.9079,0.9561,0.9573
+Ignatz Bubis,0.539,0.7363,0.6378,0.6948,0.7489,0.6862
+Jon Huntsman,0.851,0.9516,0.9534,0.8187,0.8451,0.8517
+Renate Blank,0.5069,0.5902,0.4744,0.524,0.6646,0.62
+Church of Christ Pantocrator,0.3012,0.6776,0.4128,0.3618,0.7789,0.566
+San Lorenzo,0.0289,0.1422,0.0689,0.0195,0.0303,0.0195
+Pilatus,0.4061,0.5327,0.5292,0.8794,0.886,0.9099
+M_nch,0.3092,0.6685,0.7557,0.9861,0.9958,0.8719
+,Google,Google,Google,Google,Google,Google
+,Original,Voting,Regression,Original,Voting,Regresssion
+David Patterson,0.1054,0.4164,0.2626,0.1439,0.5512,0.5718
+Emmy Noether,0.5928,0.6981,0.6471,0.7482,0.8416,0.8891
+William Vickrey,0.4986,0.6911,0.5848,0.5579,0.6726,0.5782
+Ignatz Bubis,0.5496,0.6956,0.5626,0.5903,0.6974,0.6008
+Stephen Crabb,0.5615,0.6178,0.4697,0.5488,0.6792,0.4421
+Luisa Diogo,0.7657,0.8228,0.7863,0.7203,0.7669,0.6812
+Church of Christ Pantocrator,0.2335,0.4418,0.2647,0.3346,0.7685,0.5916
+Boyana Church,0.7546,0.7817,0.7075,0.7379,0.8444,0.7997
+Tre Cime di Lavaredo,0.9542,0.9738,0.9884,0.833,0.8685,0.8165
+Aiguille dArgenti¨¨re,0.7871,0.7881,0.6735,0.8758,0.8953,0.877
+Table 6: Examples for MAP values of normal rankings for individual entities. ,,,,,,

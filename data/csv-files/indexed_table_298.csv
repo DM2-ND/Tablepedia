@@ -1,0 +1,19 @@
+Dataset,Metric,itemPop overall,itemPop user-wise,BPR-MF,FPMC,item2vec original,item2vec +adaLoyal,prod2vec original,prod2vec +adaLoyal,metapath2vec original,metapath2vec +adaLoyal
+Dunnhumby,AUC,0.801,0.74,0.849,0.799,0.738,0.845,0.799,0.853,0.844,0.867
+Dunnhumby,Recall@10 Instacart,0.09,0.156,0.111,0.095,0.039,0.156,0.093,0.156,0.102,0.157
+Instacart,AUC,0.918,0.799,0.968,0.942,0.948,0.97,0.948,0.969,0.968,0.977
+Instacart,Recall@10,0.07,0.318,0.1,0.105,0.079,0.325,0.085,0.325,0.148,0.325
+MSR-Grocery (WA) ,MSR-Grocery AUC,0.807,0.594,0.824,0.817,0.811,0.822,0.798,0.814,0.817,0.822
+MSR-Grocery (WA) ,Recall@10,0.045,0.122,0.074,0.063,0.058,0.135,0.058,0.135,0.087,0.138
+MSR-Grocery (UT) ,AUC,0.85,0.612,0.864,0.851,0.84,0.857,0.842,0.86,0.863,0.869
+MSR-Grocery (UT) ,Recall@10,0.05,0.1,0.063,0.057,0.052,0.1,0.053,0.109,0.072,0.11
+Dataset,Metric,itemPop overall,itemPop user-wise,BPR-MF,FPMC,item2vec original,item2vec +adaLoyal,prod2vec original,prod2vec +adaLoyal,metapath2vec original,metapath2vec +adaLoyal
+Dunnhumby,AUC,0.796,0.727,0.817,0.862,0.796,0.851,0.838,0.862,,0.861
+Dunnhumby,Recall@10 Instacart,0.05,0.122,0.054,0.125,0.049,0.123,0.081,0.123,,0.033
+Instacart,AUC,0.919,0.797,0.945,0.966,0.944,0.965,0.968,0.976,,0.972
+Instacart,Recall@10,0.071,0.303,0.067,0.312,0.068,0.312,0.142,0.315,,0.085
+MSR-Grocery (WA) ,MSR-Grocery AUC,0.812,0.591,0.845,0.851,0.809,0.826,0.82,0.825,,0.846
+MSR-Grocery (WA) ,Recall@10,0.046,0.115,0.068,0.133,0.051,0.13,0.083,0.13,,0.055
+MSR-Grocery (UT) ,AUC,0.856,0.614,0.876,0.884,0.856,0.871,0.868,0.875,,0.889
+MSR-Grocery (UT) ,Recall@10,0.053,0.096,0.081,0.111,0.06,0.108,0.072,0.107,,0.052
+(a) AUC and Recall@10 on next-basket recommendation. ,,,,,,,,,,,

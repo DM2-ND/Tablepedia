@@ -1,0 +1,5 @@
+,TYPiMatch,TYPiMatch,TYPiMatch,Supervised,Supervised,Supervised,PARIS,PARIS,PARIS
+,R,P,F,R,P,F,R,P,F
+AB,56.7,72.49,63.63,55.79,13.01,21.1,2.55,12.44,4.24
+DS,75.28,76.49,75.88,79.66,5.76,10.74,41.18,89.08,56.32
+"Table 8: Effectiveness of instance matching in terms R, P and F; * indicates statistically significant improvements of TYPiMatch over the best baseline, Supervised for AB, and PARIS for DS (paired t-test, p<0.05). ",,,,,,,,,

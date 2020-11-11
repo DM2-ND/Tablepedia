@@ -1,0 +1,12 @@
+,Topic Intrusion,Topic Intrusion,Phrase Intrusion,Phrase Intrusion
+3 Levels,Correct,Answered,Correct,Answered
+hPAM,34.40%,75.60%,38.80%,78.90%
+hPAMrr,32.20%,72.20%,47.80%,77.20%
+SpecClus,38.90%,65.60%,36.10%,77.20%
+CATHY cp,78.90%,97.80%,57.80%,90.00%
+CATHY,82.20%,98.80%,57.20%,88.90%
+4 Levels,Correct,Answered,Correct,Answered
+SpecClus,34.40%,68.30%,32.90%,77.40%
+CATHYcp,,,56.70%,88.50%
+CATHY,78.30%,97.80%,54.10%,89.30%
+"Table 2: User study results, for 3 level and 4 level hierarchies. Higher values indicate a higher quality constructed hierarchy ",,,,

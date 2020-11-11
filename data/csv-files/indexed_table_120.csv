@@ -1,0 +1,8 @@
+,Hashtags,Hashtags,Toponyms,Toponyms,Topics,Topics
+,Acc.,Cov.,Acc.,Cov.,Acc.,Cov.
+All,0.16,1,0.66,0.875,0.104,0.98
+Subj,0.197,0.875,0.661,0.844,0.156,0.804
+Neg,0.254,0.625,0.482,0.594,0.137,0.451
+Pos,0.208,0.188,0.155,0.156,0.164,0.157
+Iro,0.322,0.313,0.362,0.344,0.118,0.098
+"Table 1: Average accuracy (Acc) and coverage (Cov) on relevant hashtags, toponyms and topics, calcu- lated over all tweets (All) and over those labelled as subjective (Subj), positive, (Pos), negative (Neg) and ironic (Iro). ",,,,,,

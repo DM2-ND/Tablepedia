@@ -1,0 +1,7 @@
+,Yahoo data,Yahoo data,Yahoo data,Yahoo data,Baidu data,Baidu data,Baidu data,Baidu data
+,MAP,MRR,R-Prec,P@1,MAP,MRR,R-Prec,P@1
+LMIR,0.765,0.85,0.675,0.763,0.74,0.81,0.631,0.707
+LMCleaf,0.778,0.868,0.691,0.794,0.747,0.816,0.637,0.718
+Skipcat trlm,0.782,0.874,0.693,0.802,0.756,0.827,0.654,0.737
+DRLM,0.794,0.887,0.708,0.825,0.769,0.843,0.668,0.751
+Table 3: Evaluation results on Yahoo data and Baidu data (10 million) ,,,,,,,,

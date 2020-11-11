@@ -1,0 +1,14 @@
+Dataset,SVM,MDO,MAMC,KM-OMD,LDM
+farm-ads,0.880¡À0.007,0.880¡À0.007,0.759¡À0.038_,N/A,0.890¡À0.008_
+news20,0.954¡À0.002,0.948¡À0.002_,0.772¡À0.017_,N/A,0.960¡À0.001_
+adult-a,0.845¡À0.002,0.788¡À0.053_,0.759¡À0.002_,N/A,0.846¡À0.003_
+w8a,0.983¡À0.001,0.985¡À0.001_,0.971¡À0.001_,N/A,0.983¡À0.001
+cod-rna,0.899¡À0.001,0.774¡À0.203,0.667¡À0.001_,N/A,0.899¡À0.001
+real-sim,0.961¡À0.001,0.955¡À0.002_,0.744¡À0.004_,N/A,0.971¡À0.001_
+ijcnn1,0.921¡À0.003,0.921¡À0.002,0.904¡À0.001_,N/A,0.921¡À0.002
+skin,0.934¡À0.001,0.929¡À0.003_,0.792¡À0.000_,N/A,0.934¡À0.001
+covtype,0.762¡À0.001,0.760¡À0.003_,0.628¡À0.002_,N/A,0.763¡À0.001
+rcv1,0.969¡À0.000,0.959¡À0.000_,0.913¡À0.000_,N/A,0.977¡À0.000_
+url,0.993¡À0.006,0.993¡À0.006,0.670¡À0.000_,N/A,0.993¡À0.006
+kdd2010,0.852¡À0.001,N/A,0.853¡À0.000_,N/A,0.881¡À0.001_
+Table 3: Accuracy (mean¡Àstd.) comparison on regular scale data sets. RBF kernels are used. The best accuracy on each data set is bolded. _/_ indicates the performance is significantly better/worse than SVM (paired t-tests at 95% significance level). The win/tie/loss counts are summarized in the last row. MDO does not have results since it is specified for the linear kernel. ,,,,,

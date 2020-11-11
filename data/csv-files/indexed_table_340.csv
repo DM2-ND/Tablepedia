@@ -1,0 +1,25 @@
+Data,Metrics,FastXML,PfastreXML,SLEEC,PDSparse,DiSMEC,PPDSparse
+Amazon,Ttrain,5624s,6559s,20904s,,174135s,921.9s
+Amazon,P@1 (%),33.12,32.87,35.62,,43,43.04
+Amazon,P@3 (%),28.98,29.52,31.65,MLE,38.23,38.24
+Amazon,P@5 (%),26.11,26.82,28.85,,34.93,34.94
+Amazon,model size,4.0G,6.3G,6.6G,,8.1G,5.3G
+Amazon,Ttest /Ntest,1.41ms,1.98ms,6.94ms,,148ms,20ms
+WikiLSHTC,Ttrain,19160s,20070s,39000s,94343s,271407s,353s
+WikiLSHTC,P@1 (%),50.01,57.17,58.34,60.7,64,64.13
+WikiLSHTC,P@3 (%),32.83,37.03,36.7,39.62,42.31,42.1
+WikiLSHTC,P@5 (%),24.13,27.19,26.45,29.2,31.4,31.14
+WikiLSHTC,model size,14G,16G,650M,547M,8.1G,4.9G
+WikiLSHTC,Ttest /Ntest,1.02ms,1.47ms,4.85ms,3.89ms,65ms,290ms
+Delicious,Ttrain,8832.46s,8807.51s,4838.7s,5137.4s,38814s,2869s
+Delicious,P@1 (%),48.85,26.66,47.78,37.69,44.71,45.05
+Delicious,P@3 (%),42.84,23.56,42.05,30.16,38.08,38.34
+Delicious,P@5 (%),39.83,23.21,39.29,27.01,34.7,34.9
+Delicious,model size,1.3G,20G,2.1G,3.8M,18G,9.4G
+Delicious,Ttest /Ntest,1.28ms,7.40ms,2.685ms,0.432ms,311.4ms,275ms
+AmazonCat,Ttrain,11535s,13985s,119840s,2789s,11828s,122.8s
+AmazonCat,P@1 (%),94.02,86.06,90.56,87.43,92.72,92.72
+AmazonCat,P@3 (%),79.93,76.24,76.96,70.48,78.11,78.14
+AmazonCat,P@5 (%),64.9,63.65,62.63,56.7,63.4,63.41
+AmazonCat,model size,9.7G,11G,12G,15M,2.1G,355M
+"Table 1: Results and statistics for large-scale Multilabel data sets, Ntrain= number of training samples, Ntest= number of testing samples, Ttrain = training time, Ttest = testing time, K = number of classes, D = number of features. P@k = top-k accuracy. DiSMEC and PPDSparse are parallelized with 100 cores. We highlight the best result for each metric, except that for Ttrain we highlight best results among single-core solvers (le four) and parallel solvers. For all experiments, we set a memory limit to be 100G. Experiments that exceeded limits are marked Memory Limit Exceeded (MLE). ",,,,,,,

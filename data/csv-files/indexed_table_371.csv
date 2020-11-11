@@ -1,0 +1,14 @@
+,Gay Rights,Gay Rights,Gay Rights,Abortion,Abortion,Abortion,Gay Rights,Gay Rights,Gay Rights,Abortion,Abortion,Abortion
+,R2-R,R2-P,R2-R,R2-P,R2-R,R2-P,Rel,NPV,Acc.,Rel,NPV,Acc.
+Random Summaries,0.007,0.009,0.008,0.01,0.01,0.01,-,-,-,-,-,-
+Correct Summaries,0.03,0.03,0.03,0.058,0.051,0.054,-,-,-,-,-,-
+JTV [23] + Extraction,0.025,0.021,0.023,0.034,0.028,0.031,0.6,45,44.44,0.66,47.62,45.45
+PhJTV + Grouping + Extraction,0.025,0.03,0.027,0.042,0.043,0.042,0.8,50,46.42,0.9,50,46.15
+AITV + Extraction,0.027,0.03,0.028,0.03,0.026,0.028,0.5,75,66.66,0.66,58.33,59.09
+PhAITV + Grouping + Extraction,0.027,0.03,0.028,0.045,0.047,0.046,0.8,75,75,0.93,75,73.62
+PhAITV + Extraction,0.029,0.032,0.03,0.031,0.036,0.033,0.66,66.66,66.66,0.73,50,49.09
+PhAITV + Grouping + LexRank,0.028,0.028,0.028,0.05,0.037,0.042,0.7,33.33,52.38,0.8,56.66,56.36
+TAM [17],0.02,0.031,0.024,0.018,0.024,0.021,0.5,50,42.85,0.53,50,46.42
+LAM_LEX [24],0.011,0.008,0.009,0.015,0.008,0.01,0.5,50,50,0.4,50,64.44
+PhAITVview+ Grouping + Extraction,-,-,-,-,-,-,0.9,100,100,0.93,87.5,83.33
+"Table 2: Averages of ROUGE-2 Measures on Gay Rights (Column 2) and Abortion (Column 3); Median values of Relevance 886 829 _ate (Rel), Negative Predictive Value (NPV) and Clustering Accuracy Percentages 830 (Column 5) (values in ¡°bold"" represent best values disregarding Correct Summaries and PhAITVview values)  (Acc.) on GayRights (Column 4) and Abortion 887 ",,,,,,,,,,,,

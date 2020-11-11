@@ -1,0 +1,10 @@
+,w.r.t. ERR IA,w.r.t. ERR IA,w.r.t. ERR IA,w.r.t. NRBP,w.r.t. NRBP,w.r.t. NRBP
+,AP I,NRBP,¦Á-DCG,AP I,ERR I,¦Á-DCG
+Kendall,0.829,0.835,0.905,0.83,0.814,0.854
+RMSR,0.384,0.325,0.188,0.373,0.395,0.324
+MARE,0.241,0.169,0.136,0.287,0.251,0.246
+,AP I,NRBP,¦Á-DCG,AP I,ERR I,¦Á-DCG
+MARE,0.815,0.802,0.809,0.706,0.766,0.795
+Kendall,0.385,0.457,0.463,0.666,0.556,0.508
+RMSR,0.284,0.327,0.29,0.513,0.427,0.421
+Table 3: Kendall¡¯s ¦Ó correlation and the relative errors for prediction w.r.t. the cascade measures comparing with the ones for prediction w.r.t. AP. ,,,,,,

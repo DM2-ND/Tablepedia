@@ -1,0 +1,7 @@
+Methods,Group A,Group B,Group C,Group D,Group E
+miSVM,6340.0 ¡À 161.68,6385.5¡À243.14,6418.2¡À109.46,6455.2¡À215.87,6529.5¡À236.74
+miFV,2872.0 ¡À 179.32,3169.7¡À198.71,4312.2¡À112.50,5693.5¡À197.89,8315.1¡À213.63
+miVLAD,2157.6 ¡À 89.70,2661.5¡À135.43,3579.9¡À96.67,4939.3¡À110.87,6410.5¡À135.78
+WLRM,201.9¡À55.91,304.6¡À81.67,490.3¡À89.67,833.2¡À135.47,1489.7¡À283.67
+Speedup,10.68,8.74,7.3,5.93,4.3
+"Table 2: Average running time ¡À the standard derivation (in seconds) of miSVM, miFV, miVLAD and WLRM for training the model on ve groups of GO terms. e last row is the speedup of WLRM with respect to the runtime of the fastest one among other three methods. ",,,,,

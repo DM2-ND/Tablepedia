@@ -1,0 +1,12 @@
+Dataset,Datasets Relations (A-B),#A,#B,#A-B
+UMGMMovielens,User-Movie,943,"1,682","100,000"
+UMGMMovielens,User-User,943,943,"47,150"
+UMGMMovielens,Movie-Movie,"1,682","1,682","82,798"
+UAUALastFM,Movie-Genre,"1,682",18,2861
+UAUALastFM,User-Artist,"1,892","17,632","92,834"
+UAUALastFM,Artist-Artist User-User,"1,892 17,632","1,892 17,632","18,802 153,399"
+UAUALastFM,Artist-Tag,"17,632","11,945","184,941"
+Yelp,User-Business User-User,"16,239 16,239","14,284 16,239","198,397 158,590"
+Yelp,Business-City (Ci),"14,267",47,"14,267"
+Yelp,Business-Category (Ca),"14,180",511,"40,009"
+"Table 1: Statistics of the three datasets. The rst row of each dataset corresponds to the number of users, items and inter- actions. The last column reports the selected meta-paths in each dataset. ",,,,

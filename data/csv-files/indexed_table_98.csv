@@ -1,0 +1,7 @@
+Month,Sales Volume,Sales Volume,Sales Volume,Email Communication,Email Communication,Email Communication,Email Communication,Urban Anomaly,Urban Anomaly,Urban Anomaly,Urban Anomaly
+Algorithm,MAE,RMSE,RMSPE,AUC,F1,Pre,Rec,AUC,F1,Pre,Rec
+RESTFul-2,812,1173,0.251,0.678,0.206,0.236,0.182,0.84,0.537,0.474,0.618
+RESTFul-3,797,1170,0.249,0.832,0.207,0.208,0.206,0.848,0.545,0.483,0.625
+Table 6: Performance investigation with di erent resolution con gurations. ,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

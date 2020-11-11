@@ -1,0 +1,10 @@
+,Decompensation,Decompensation,Decompensation,Length of Stay,Length of Stay
+,AUC-ROC,AUC-PR,Accuracy,Kappa,Accuracy
+CNN-RNN (ECG),86.39%,22.84%,87.26%,0.7882,83.19%
+CNN-RNN,87.45%,23.19%,88.25%,0.8027,85.34%
+CNN-AttRNN,88.19%,25.81%,89.28%,0.8186,84.89%
+CNN-MultiChAttRNN (RAIM-0),87.28%,25.42%,88.63%,0.8081,85.41%
+CNN-LabMultiChAttRNN (RAIM-1),87.86%,25.28%,88.75%,0.8162,86.28%
+CNN-IntAttMultiChRNN (RAIM-2),88.42%,26.71%,89.90%,0.8136,85.29%
+CNN-IntLabMultiChAttRNN (RAIM-3),89.56%,27.64%,90.78%,0.8232,86.19%
+Table 1: Performance comparison of the 7 models on predicting decompensation and length of stay. ,,,,,

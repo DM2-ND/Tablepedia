@@ -1,0 +1,14 @@
+Object,Paper Paper,Paper Paper,Author,Author,Venue,Venue,Average,Average
+Metric,AC,NMI,AC,NMI,AC,NMI,AC,NMI
+NMF,44.55,22.92,-,-,-,-,44.55,22.92
+PLSA,59.45,32.75,65,37.97,80,74.74,68.15,48.49
+LapPLSI,61.35,33.93,-,-,-,-,60.7,33.37
+LDA,47,20.48,-,-,-,-,47,20.48
+ATM,77,52.21,74.13,40.67,-,-,75.57,46.44
+NetClus,65,40.96,70.82,47.43,79.75,76.69,71.86,55.03
+TMBP-RW,73.1,53.13,82.59,67.76,81.75,77.53,79.15,66.14
+TMBP-Regu,79.15,59.16,89.81,74.25,82.75,76.56,83.9,69.99
+FTM,69.37,43.51,-,-,-,-,69.37,43.51
+cFTM,82.73,62.91,92.51,76.2,81.97,76.05,85.73,71.72
+cFTM,¡À0.65,¡À0.51,¡À0.71,¡À0.39,¡À0.36,¡À0.43,¡À0.57,¡À0.45
+"Table 1: Classification performance comparison of different algorithms on the DBLP dataset. Except for the results of the FTM and cFTM, all the other results were reported in [6]. ",,,,,,,,

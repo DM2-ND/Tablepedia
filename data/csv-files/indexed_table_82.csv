@@ -1,0 +1,9 @@
+,1 Reformulation,1 Reformulation,5 Reformulations,5 Reformulations
+,NDCG@5,NDCG@10,NDCG@5,NDCG@10
+ORG,0.55,0.535,0.55,0.535
+CombSUM,0.521,0.496,0.497,0.455
+CombRW,0.554,0.527,0.555,0.524
+RAPP-L,0.546,0.531,0.55,0.535
+¦Ë-Merge,0.566,0.55,0.563,0.548
+RAPP(¦¸),0.567,0.541,0.587,0.545
+Table 3: The performance of different techniques averaged over a subset of queries with at least five random-walk candidates (1872 queries). ,,,,

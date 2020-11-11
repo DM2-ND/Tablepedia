@@ -1,0 +1,9 @@
+,Fashion MNIST,Fashion MNIST,Relation extraction,Relation extraction
+,Momentum,SGD,Momentum,SGD
+Mini-32,90.93%,90.87%,89.02%,75.13%
+Mini-64,91.17%,90.64%,87.12%,58.01%
+Mini-128,91.64%,90.37%,85.33%,31.21%
+Mini-256,90.76%,90.16%,79.37%,28.11%
+Manual,91.35%,90.84%,86.31%,50.02%
+BA,91.33%,91.01%,88.46%,75.57%
+Table 1: Best test accuracies achieved by different methods on Fashion MNIST and relation extraction ,,,,

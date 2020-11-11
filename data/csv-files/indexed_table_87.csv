@@ -1,0 +1,13 @@
+Algorithms,EEG Eye State,EEG Eye State,EEG Eye State,PAMAP2,PAMAP2,PAMAP2,SHL,SHL,SHL
+Bits,v =32,v =64,v =12,v = 3,v = 6,v = 12,v = 3,v = 6,v = 12
+LSH [1],0.5326,0.5335,0.5355,0.3354,0.3684,0.403,0.375,0.3853,0.3837
+ITQ [13],0.5435,0.5425,0.5439,0.387,0.3849,0.4087,0.3995,0.3932,0.3984
+HDML [28],0.5646,0.5716,0.5714,0.5552,0.5919,0.6191,0.4498,0.4548,
+TopRSBC [37],0.5803,0.5832,0.5876,0.5758,0.6036,0.6149,0.4616,0.4727,0.4761
+CNNs+Pairwise loss [25],0.9567,0.9551,0.9569,0.6416,0.6327,0.6261,0.7552,0.7584,0.7579
+LSTM+Triplet loss [9],0.957,0.9464,0.9433,0.6409,0.6662,0.628,0.7135,0.7086,0.6962
+LSTM+r -th root ranking loss,0.9805,0.9849,0.9663,0.6588,0.6779,0.6506,0.879,0.8601,0.8486
+Deep r -RSJBE,0.9869,0.9855,0.9796,0.8045,0.7772,0.7657,0.8837,0.8747,0.863
+"Table 2: Multivariate time series retrieval performance (MAP) on EEG Eye State, PAMAP2, and SHL when v = 32, 64, and 128. The best MAP is displayed in bold-face type. ",,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

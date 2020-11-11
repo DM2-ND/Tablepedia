@@ -1,0 +1,16 @@
+,#layer,Prec@1,Prec@3,Prec@5
+CMemNN-C,1,0.0163,0.0105,0.097
+CMemNN-C,3,0.0153,0.01,0.0086
+CMemNN-C,5,0.013,0.0074,0.0067
+CMemNN,1,0.0152,0.0087,0.0077
+CMemNN,3,0.0173,0.0102,0.0086
+CMemNN,5,0.0166,0.0106,0.0085
+Table 5: Deep architecture analysis on LibraryThing. ,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

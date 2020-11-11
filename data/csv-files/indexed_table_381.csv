@@ -1,0 +1,14 @@
+Retrieval Methods,Robust-04(New) desc,Robust-04(New) desc,Robust-04(New) desc+narr,Robust-04(New) desc+narr,WT10g(Web) desc,WT10g(Web) desc,WT10g(Web) desc+narr,WT10g(Web) desc+narr,Gov2(Web) desc,Gov2(Web) desc,Gov2(Web) desc+narr,Gov2(Web) desc+narr
+Retrieval Methods,MAP,NDCG,MAP,NDCG,MAP,NDCG,MAP,NDCG,MAP,NDCG,MAP,NDCG
+MATF,0.251,0.472,0.242,0.461,0.181,0.37,0.19,0.373,0.265,0.562,0.248,0.569
+BM25,0.241,0.469,0.239,0.47,0.179,0.396,0.196,0.409,0.258,0.545,0.268,0.584
+BM25+,0.245,0.464,0.235,0.458,0.182,0.393,0.197,0.399,0.26,0.537,0.268,0.579
+TLM,0.245,0.442,0.245,0.454,0.199,0.381,0.201,0.372,0.252,0.513,0.264,0.549
+JM,0.234,0.424,0.239,0.448,0.143,0.302,0.165,0.322,0.192,0.385,0.253,0.531
+DQMcJM,0.234,0.424,0.240N,0.449,0.144,0.302,0.166N,0.322,0.192,0.385,0.254N,0.532
+DQM qJM,,,,,,0.313N,0.174N,0.340N,0.193,0.386,0.269N,0.563N
+Dir,0.245,0.444,0.248,0.454,0.185,0.368,0.194,0.356,0.238,0.512,0.252,0.534
+DQMcDir,0.24,0.427,0.254N_,0.461,0.211N,,,,,0.526,,
+DQM 0.606Nq Dir,0.249N,,,,,,,,0.251N,0.528N,,
+Dir+,0.248,0.439,0.257_,0.456,0.192,0.365,0.2,0.35,0.24,0.507,0.254,0.532
+"Table 8: MAP and NDCG@10 of retrieval methods on Robust-04, WT10g, and Gov2 collections where the superscript means significantly higher using a paired t-test (p < 0.05) compared to the standard maximum likelihood query model (e.g. DQMcJM vs JM, and DQMqJM vs JM). _ means significantly higher than TLM, and _ means significant higher compared to BM25 and TLM. Best result in bold. ",,,,,,,,,,,,

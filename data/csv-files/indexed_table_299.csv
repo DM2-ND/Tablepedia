@@ -1,0 +1,14 @@
+,AUC,AUC,Prediction Accuracy,Prediction Accuracy
+Target,Linkage,baseline,Linkage,baseline
+help family,0.7531,0.7497,0.8196,0.7459
+go to club,0.7537,0.7483,0.793,0.7164
+help others,0.7395,0.7375,0.7229,0.71
+depression,0.7423,0.7406,0.7172,0.7144
+pessimism,0.7403,0.7383,0.8752,0.6816
+sleep,0.7293,0.7272,0.7213,0.365
+irritability,0.7025,0.6981,0.7706,0.7647
+appetite,0.7443,0.742,0.9114,0.9093
+concentration,0.7381,0.7324,0.8109,0.8122
+orientation to date,0.8604,0.8562,0.9728,0.9735
+numeracy,0.9401,0.9378,0.8965,0.8717
+Table 4: Performance of predictions in binary targets ,,,,

@@ -1,0 +1,11 @@
+,Experiment 3(a) author,Experiment 3(a) author,Experiment 3(a) author,Experiment 3(a) paper,Experiment 3(a) paper,Experiment 3(a) paper,Experiment 3(a) paper
+ranking,(1-10),(11-20),(21-30),ranking,(1-100),(101-200),(others)
+1,18,24,17,1,16,8,4
+2,12,13,2,2,12,8,2
+3,13,8,14,3,11,3,6
+6,18,6,8,6,0,12,0
+7,0,19,8,7,6,5,0
+8,3,7,9,8,8,8,0
+9,8,4,6,9,6,3,2
+10,6,12,4,10,3,6,2
+Table 6: The numbers that the top ten cited authors (papers) are cited by the other authors (papers) of different rankings in Experiments 3(a). ,,,,,,,

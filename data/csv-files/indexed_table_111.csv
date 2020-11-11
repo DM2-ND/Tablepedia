@@ -1,0 +1,11 @@
+,Weak noise,Weak noise,Moderate noise,Moderate noise,Moderate noise,Moderate noise,Strong noise,Strong noise,Strong noise
+Methods,Concrete,Stock,Machine,Concrete,Stock,Machine,Concrete,Stock,Machine
+InML,0.7926,0.8739,0.905,0.7917,0.8718,0.88,0.7915,0.8717,0.8767
+Cosine,0.6922,0.5756,0.325,0.6715,0.5745,0.295,0.6641,0.4636,0.25
+Euc,0.7293,0.7962,0.84,0.7232,0.7721,0.825,0.708,0.7718,0.8017
+GMML,0.7345,0.8221,0.84,0.7322,0.8197,0.8342,0.7025,0.8109,0.8167
+ITML,0.7112,0.6081,0.7965,0.7049,0.596,0.7889,0.7002,0.5463,0.7345
+LMNN,0.7688,0.8401,0.855,0.7568,0.8272,0.8411,0.7479,0.785,0.8052
+LowRank,0.6667,0.7871,0.33,0.5568,0.7535,0.295,0.5326,0.771,0.2517
+R2ML,0.7526,0.792,0.84,0.7329,0.7917,0.8398,0.7145,0.8116,0.83
+Table 3: The accuracy of the instance-level mechanism (InML) under di erent noise levels ,,,,,,,,,

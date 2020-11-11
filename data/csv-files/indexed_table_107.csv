@@ -1,0 +1,9 @@
+,Temporal,Temporal,Atemporal ,Atemporal ,T+A,T+A,All,All
+Method,MAP,P30,MAP,P30,MAP,P30,MAP,P30
+BM25 [21],0.4054,0.6202,0.4319,0.6392,0.4136,0.6261,0.4136,0.6261
+IDF,0.4275,0.6561,0.436,0.6235,0.4301,0.6461,0.4301,0.6461
+LM.Dir [30],0.4331,0.6491,0.4112,0.602,0.4264,0.6345,0.4264,0.6345
+Recency [15],0.4429,0.6667,0.4152,0.6196,0.4343,0.6521,0.4297,0.6552
+KDE(score) [9],0.4621,0.6711,0.403,0.5961,0.4438,0.6479,0.4455,0.6509
+LTR (Eq. (4)),0.4688,0.6991,0.4308,0.6216,0.4571,0.6751,0.4528,0.6703
+Table 3: Temporal ranking methods results. Symbols _ and * stand for a p < 0.05 statistical significant improvement over KDE(score) and LTR respectively (_ and * for p < 0.01). ,,,,,,,,

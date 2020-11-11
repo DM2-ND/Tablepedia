@@ -1,0 +1,7 @@
+Method,ACC,PR,RE,FS,AUC
+cMTFL-I,0.5435,0.5588,0.9377,0.7003,0.4869
+rMTFL,0.4946,0.5697,0.5245,0.5275,0.5034
+JFS,0.5735,0.5738,0.9773,0.7228,0.5996
+WELLSVM,0.5359,0.7648,0.4915,0.4451,0.725
+CMLRE,0.8602,0.9247,0.8212,0.8698,0.914
+Table 3: Model performance on the six petition datasets un- der ve metrics: the CMLRE outperformed others on four metrics out of ve. ,,,,,

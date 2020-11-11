@@ -1,0 +1,12 @@
+Annotator,F1,Precision,Recall
+Author Name,0.007,0.111,0.003
+Comment,0.007,0.25,0.003
+Photo,0.049,0.242,0.027
+Post Text,0.402,0.497,0.337
+Video,0.63,0.708,0.568
+Web Link,0.293,0.39,0.235
+All Annotator Baseline,0.664,0.497,1
+Ensemble Model,0.717,0.691,0.745
+"Table 3: Comparison of the best performing ensem- ble model and single-source annotators, listed above. ¡°All annotator¡± predicts the union of topic labels from single-source annotators as positive. The best performing algorithm is GBC trained on all five features, having the best overall F1-score here. ",,,
+,,,
+,,,

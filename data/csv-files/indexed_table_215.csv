@@ -1,0 +1,10 @@
+,Flu outbreak,Flu outbreak,Traffic volume,Traffic volume,Water quality,Water quality
+,RMSE,MAE,RMSE,MAE,RMSE,MAE
+LR,0.0659,0.0415,0.0454,0.031,0.012,0.0072
+LASSO,0.054,0.0341,0.0461,0.0312,0.024,0.0218
+SAR,0.0587,0.0331,0.0492,0.0336,NA,NA
+SAR L1,0.056,0.0341,0.0454,0.0309,0.0279,0.0264
+GL,0.0608,0.0372,0.0464,0.0317,NA,NA
+SADL-I,0.0485,0.0305,0.0455,0.0309,NA,NA
+SADL-II,0.0505,0.0266,0.0454,0.0309,0.0115,0.0068
+Table 2: Spatiotemporal prediction performance for all the methods in all the datasets ,,,,,,

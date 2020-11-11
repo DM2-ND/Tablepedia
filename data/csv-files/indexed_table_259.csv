@@ -1,0 +1,8 @@
+User data,Page-based measures,Page-based measures,Page-based measures,Page-based measures,Site-based measures,Site-based measures,Site-based measures
+User Group,# Click,"DiffR(u,d)","KLR(u,d)","KLT(u,d)","KLR(u,s)","KLT(u,s)","KLRT(u,s)"
+Focused Profile,"5,960",55.03%,60.15%,69.16%,59.23%,60.79%,65.27%
+Focused Profile,"147,195",51.08%,50.43%,55.78%,52.25%,54.20%,54.41%
+Focused Profile,"197,733",49.74%,50.84%,54.20%,52.75%,53.36%,53.63%
+Focused Profile,"15,610",49.05%,50.90%,54.54%,53.81%,53.40%,52.90%
+Total,"366,498",50.33%,50.83%,55.10%,52.70%,53.82%,54.10%
+"Table 5: The effectiveness of different user profile-based metrics for predicting users¡¯ preference between clicked and skipped items in search results, as measured by proportion of clicked items with a correct preference prediction. Results are subdivided by degree of user profile focus based on profile distribution entropy. Prediction generally improved for users with more focused profiles, and when reading level and topic were used together. ",,,,,,,

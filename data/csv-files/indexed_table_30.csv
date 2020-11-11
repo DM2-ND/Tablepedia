@@ -1,0 +1,8 @@
+Precision threshold,Rewrite approach,Rewrite approach,Rewrite approach,Our approach,Our approach,Our approach
+Precision threshold,Num Rule,of Rules,Reduction Ratio,Num Rule,of Rules,Reduction Ratio
+= 1,1149,3.67,3,649,1.67,6
+>= .95,21894,69.81,16,1707,4.4,26
+>= .9,21938,69.95,17,2375,6.12,33
+>= .80,22105,70.48,18,3547,9.13,42
+All,31363,100,43,38830,100,69
+Table 3: Metrics comparison with URL rewrite approach for small data set ,,,,,,

@@ -1,0 +1,7 @@
+,WebQ,WebQ,WebQ,BingQ,BingQ,BingQ
+System,Precision,Recall,F1,Precision,Recall,F1
+TabCell,0.5712,0.454,0.4804,0.5817,0.5817,0.5817
+Sempre,0.5419,0.4738,0.4895,0.3328,0.3328,0.3328
+ParaSempre,0.6013,0.5294,0.5463,0.3711,0.3711,0.3711
+TabCell +ParaSempre,0.7702,0.6765,0.6998,0.6186,0.6186,0.6186
+Table 5: Comparison of different systems. ,,,,,,

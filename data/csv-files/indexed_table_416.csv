@@ -1,0 +1,13 @@
+Method,AUC,Precision@100
+Create(K = 10),0.856,0.83
+Create(K = 15),0.869,0.87
+Create(K = 20),0.869,0.87
+Create-sl,0.719,0.82
+Create-sm(K = 10),0.61,0.72
+Create-sm(K = 15),0.63,0.79
+Create-sm(K = 20),0.63,0.79
+Create-s,0.627,0.74
+S-CN,0.636,0.44
+S-JC,0.636,0.26
+S-AA,0.528,0.07
+Table 1: Performance comparison of different organizational chart inference methods. ,,

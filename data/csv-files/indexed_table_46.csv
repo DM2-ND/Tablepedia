@@ -1,0 +1,11 @@
+,Criteo,Criteo,Criteo,Dianping,Dianping,Dianping,Bing News,Bing News,Bing News
+Model name,AUC,Logloss,Depth,AUC,Logloss,Depth,AUC,Logloss,Depth
+LR,0.7577,0.4854,"-,-",0.8018,0.3608,"-,-",0.7988,0.295,"-,-"
+FM,0.79,0.4592,"-,-",0.8165,0.3558,"-,-",0.8223,0.2779,"-,-"
+DNN,0.7993,0.4491,"-,2",0.8318,0.3382,"-,3",0.8366,0.273,"-,2"
+DCN,0.8026,0.4467,"2,2",0.8391,0.3379,"4,3",0.8379,0.2677,"2,2"
+Wide&Deep,0.8,0.449,"-,3",0.8361,0.3364,"-,2",0.8377,0.2668,"-,2"
+PNN,0.8038,0.4927,"-,2",0.8445,0.3424,"-,3",0.8321,0.2775,"-,3"
+DeepFM,0.8025,0.4468,"-,2",0.8481,0.3333,"-,2",0.8376,0.2671,"-,3"
+xDeepFM,0.8052,0.4418,"3,2",0.8639,0.3156,"3,3",0.84,0.2649,"3,2"
+"Table 3: Overall performance of di erent models on Criteo, Dianping and Bing News datasets. The column Depth presents the best setting for network depth with a format of (cross layers, DNN layers). ",,,,,,,,,

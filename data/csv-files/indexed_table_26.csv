@@ -1,0 +1,6 @@
+Category,Feedback,Ranker,Logit,Bayes Net
+Des&Mult,0.545,0.628,0.671,0.67
+Soft Dev,0.533,0.675,0.722,0.728
+Web Dev,0.548,0.66,0.73,0.738
+Writing,0.537,0.634,0.664,0.646
+Table 6: The per-category AUC for all the proposed approaches and the baseline. ,,,,

@@ -1,0 +1,13 @@
+,Alice,Alice,Alice,Gazelle,Gazelle,Gazelle,JMLR,JMLR,JMLR,Sign,Sign,Sign,aslbu,aslbu,aslbu
+,ISD,CS,Items,ISD,CS,Items,ISD,CS,Items,ISD,CS,Items,ISD,CS,Items
+ISM,2,0,94,3.36,0,167,1.84,0,96,3.64,0,113,2.24,0,110
+SQS,1.76,0.1,72,4.24,0.38,183,1.82,0.02,92,1.26,0.94,57,*1.89,*0.11,*61
+GoKrimp,1.24,0.1,52,*4.51,*0.05,*176,*1.40,*0.10,*30,1.72,0.24,63,*2.00,*0.00,*18
+BIDE,1,0.36,29,1,0.36,26,1,0.18,12,1,0.6,15,1,0,26
+,aslgt,aslgt,aslgt,auslan2,auslan2,auslan2,context,context,context,pioneer,pioneer,pioneer,skating,skating,skating
+,ISD,CS,Items,ISD,CS,Items,ISD,CS,Items,ISD,CS,Items,ISD,CS,Items
+ISM,2.08,0.2,94,*2.40,*1.0,*14,*2.16,*0.47,*35,2.04,0,102,2.12,0.72,73
+SQS,1.96,0.28,86,*1.42,*1.17,*12,2.14,0.9,64,1.64,0.4,78,1.62,0.84,46
+GoKrimp,*2.00,*0.00,*89,*2.00,*0.25,*8,*2.07,*0.52,*51,*1.82,*0.00,*33,*1.90,*0.29,*64
+BIDE,1,0,22,*1.00,*3.16,*6,1,1.72,12,1.02,0.06,32,1,1.06,17
+"Table 2: Average inter-sequence distance (ISD), average no. containing sequences (CS) and no. unique items for the top 50 non-singleton sequences returned by the algorithms from the datasets. Larger inter-sequence distances and smaller no. containing sequences indicate less redundancy. * returned less than 50 non-singleton sequences. ",,,,,,,,,,,,,,,

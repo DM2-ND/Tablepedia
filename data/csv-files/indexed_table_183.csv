@@ -1,0 +1,18 @@
+,IN Set,IN Set,PH Set,PH Set
+Feature Type,Train,Validation,Train,Validation
+Ridge Regression ,0.42,0.51,0.47,0.44
+Ridge Regression ,0.46,0.48,0.6,0.54
+Ridge Regression ,0.61,0.67,0.61,0.71
+Ridge Regression ,0.64,0.7,0.77,0.6
+Ridge Regression ,0.74,0.74,0.76,0.79
+SVM ,0.42,0.51,0.49,0.43
+SVM ,0.44,0.46,0.6,0.54
+SVM ,0.62,0.57,0.6,0.7
+SVM ,0.6,0.61,0.76,0.61
+SVM ,0.75,0.74,0.75,0.78
+Neural Networks ,0.47,0.51,0.47,0.47
+Neural Networks ,0.6,0.44,0.55,0.49
+Neural Networks ,0.61,0.57,0.58,0.63
+Neural Networks ,0.68,0.58,0.62,0.61
+Neural Networks ,0.76,0.75,0.76,0.78
+Table 2: Regression Results ,,,,

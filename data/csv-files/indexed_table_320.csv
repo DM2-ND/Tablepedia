@@ -1,0 +1,22 @@
+Dataset,Training,Metric,User Mean,Item Mean,NMF,PMF,RSTE,SR1vss,SR1pcc,SR2vss,SR2pcc
+Douban,Training80%,MAE,0.6809,0.6288,0.5732,0.5693,0.5643,0.5579,0.5576,0.5548,0.5543
+Douban,Training80%,Improve,18.59%,11.85%,3.30%,2.63%,1.77%,,,,
+Douban,Training80%,RMSE,0.848,0.7898,0.7225,0.72,0.7144,0.7026,0.7022,0.6992,0.6988
+Douban,Training80%,Improve,17.59%,11.52%,3.28%,2.94%,2.18%,,,,
+Douban,Training60%,MAE,0.6823,0.63,0.5768,0.5737,0.5698,0.5627,0.5623,0.5597,0.5593
+Douban,Training60%,Improve,18.02%,11.22%,3.03%,2.51%,1.84%,,,,
+Douban,Training60%,RMSE,0.8505,0.7926,0.7351,0.729,0.7207,0.7081,0.7078,0.7046,0.7042
+Douban,Training60%,Improve,17.20%,11.15%,4.20%,3.40%,2.29%,,,,
+Douban,Training40%,MAE,0.6854,0.6317,0.5899,0.5868,0.5767,0.5706,0.5702,0.569,0.5685
+Douban,Training40%,Improve,17.06%,10.00%,3.63%,3.12%,1.42%,,,,
+Douban,Training40%,RMSE,0.8567,0.7971,0.7482,0.7411,0.7295,0.7172,0.7169,0.7129,0.7125
+Douban,Training40%,Improve,16.83%,10.61%,4.77%,3.86%,2.33%,,,,
+Epinions,Training90%,MAE,0.9134,0.9768,0.8712,0.8651,0.8367,0.829,0.8287,0.8258,0.8256
+Epinions,Training90%,Improve,9.61%,15.48%,5.23%,4.57%,1.33%,,,,
+Epinions,Training90%,RMSE,1.1688,1.2375,1.1621,1.1544,1.1094,1.0792,1.079,1.0744,1.0739
+Epinions,Training90%,Improve,8.12%,13.22%,7.59%,6.97%,3.20%,,,,
+Epinions,Training80%,MAE,0.9285,0.9913,0.8951,0.8886,0.8537,0.8493,0.8491,0.8447,0.8443
+Epinions,Training80%,Improve,9.07%,14.83%,5.68%,4.99%,1.10%,,,,
+Epinions,Training80%,RMSE,1.1817,1.2584,1.1832,1.176,1.1256,1.1016,1.1013,1.0958,1.0954
+Epinions,Training80%,Improve,7.30%,12.95%,7.42%,6.85%,2.68%,,,,
+Table 5: Performance Comparisons (Dimensionality = 10) ,,,,,,,,,,,

@@ -1,0 +1,8 @@
+,Add noise to column,Add noise to column,Add noise to column,Add noise to column,Add noise to column,Add noise to column,Add noise to column,Add noise to column,Add noise to rows,Add noise to rows,Add noise to rows,Add noise to rows,Add noise to rows,Add noise to rows,Add noise to rows,Add noise to rows
+Method,Japanese Vowel,Japanese Vowel,Fishion MNIST,Fishion MNIST,Breast cancer,Breast cancer,Baseball,Baseball,Japanese Vowel,Japanese Vowel,Fishion MNIST,Fishion MNIST,Breast cancer,Breast cancer,Baseball,Baseball
+Raw Features,87.9,-1.28,77.79,-0.27,80.57,-8.15,90.3,-0.85,67.53,-21.65,79.06,-1,84.36,-4.36,88.81,-0.64
+RandLocal,84.91,-4.38,74.65,-1.78,86.78,-5.14,91.76,-0.4,81.87,-7.42,76.46,-0.03,90.7,-1.22,91.41,-0.75
+Variant I,91.16,-1.76,82.04,-1.15,88.96,-3.83,91.34,-0.75,85.04,-7.88,82.74,-0.45,91.39,-1.4,91.56,-0.53
+Variant II,91.28,-1.48,81.85,-1.11,89.64,-3.06,91.27,-1.26,84.8,-7.96,82.82,-0.14,92.45,-0.25,91.33,-1.2
+RULLS (PCA),91.76,-6.26,84.06,-1.48,88.07,-4.73,91.79,-0.94,89.61,-8.41,85.55,-0.01,90.17,-2.63,91.86,-0.87
+Table 3: Classication performance in presence of 10% noise added to columns and rows in each dataset. Best performance is 814 _ighlighted in blue. The numbers in the parenthesis indicate the di erence between the performance with and without noise. ,,,,,,,,,,,,,,,,

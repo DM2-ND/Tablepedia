@@ -1,0 +1,8 @@
+Method,NUS-WIDE 16 bits,NUS-WIDE 16 bits,NUS-WIDE 32bits,NUS-WIDE 32bits,DBLP 16 bits,DBLP 16 bits,DBLP 32 bits,DBLP 32 bits
+,MAP,HRS,MAP,HRS,MAP,HRS,MAP,HRS
+MuCH-S,0.5084,2.0658,0.5191,5.6182,0.9188,3.172,0.9217,8.108
+MuCH-F,0.4863,0.7783,0.5051,2.4708,0.9108,1.864,0.9151,3.734
+KSH,0.4788,2.8595,0.4836,6.101,0.8808,4.502,0.8866,9.356
+SSH,0.4419,1.6221,0.4451,3.7725,0.7812,6.2,0.7389,13.672
+ITQ,0.4236,3.4185,0.4372,8.5899,0.8816,6.426,0.8677,13.898
+"Table 3: Retrieval performance evaluated by MAP and corresponding Hamming Radius to Search (HRS). We retrieve 500 nearest entities for evaluation. For MuCH-S, the bit number in second row represents the bit number of single hash table, and the number of hash tables is 4. For MuCH-F, the bit number in second row represents the total bit number of all hash tables, and the number of hash tables is 2. ",,,,,,,,

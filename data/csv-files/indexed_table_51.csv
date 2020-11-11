@@ -1,0 +1,9 @@
+,Epinions,Epinions,Slashdot,Slashdot
+,F1,Precision,F1,Precision
+random,0.0005,0.0002,0.0008,0.0004
+sPath,0.004,0.0075,0.009,0.0172
+negIn,0.2826,0.2097,0.1986,0.1483
+negInS,0.2893,0.2124,,
+NeLP-negIn,0.3206,0.2812,0.2394,0.2083
+NeLP,0.3242,0.2861,0.2441,0.2139
+Table 3: Performance Comparison of Negative Link Prediction in Epinions and Slashdot. ,,,,

@@ -1,0 +1,7 @@
+Method,AL,CLST,DPL,MTCL,MIL,MLL
+miSVM-based,83.29,82.51,80.09,84.54,78.56,82.83
+MIEN-metric,83.94,82.46,80.49,85.27,79.02,83.14
+Method,MTL,MVL,OL,RL,SSL,TL
+miSVM-based,77.82,84.53,81.73,79.87,83.51,75.89
+MIEN-metric,78.26,84.98,82.09,80.11,83.82,76.17
+Table 4: Average F1 on Text. The first row presents the aug- mented class of the twelve classes. ,,,,,,

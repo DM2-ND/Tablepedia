@@ -1,0 +1,4 @@
+Data,NN-MTL,Capped-MTL,Robust-MTL,NC-CMTL
+SCHOOL,0.32s,1.52s,0.93s,0.15s
+SARCOS,0.23s,1.16s,0.87s,0.10s
+Table 6: The time consuming of four low rank based algorithms on benchmark datasets. The training da- ta are 20% and 300 respectively. ,,,,

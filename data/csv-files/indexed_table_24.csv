@@ -1,0 +1,13 @@
+,Text,Text,Img,Img,Both,Both,Both
+Objects,#,TP,FP,TP,FP,TP,FP
+shoe,873,79.8,6,41.8,3.1,34.4,1
+dress,383,75.5,6.2,58.8,12.3,47,2
+glasses,238,75.2,18.8,63,0.4,50,0.2
+bag,468,66.2,5.3,59.8,2.9,43.6,0.5
+watch,36,55.6,6,66.7,0.5,41.7,0
+pants,253,75.9,2,60.9,2.2,48.2,0.1
+shorts,89,73,10.1,44.9,1.2,31.5,0.2
+bikini,32,71.9,1,31.3,0.2,28.1,0
+earrings,27,81.5,4.7,18.5,0,18.5,0
+Average,,72.7,6.7,49.5,2.5,38.1,0.5
+Table2:Ob ject detection/classification accuracy,,,,,,,

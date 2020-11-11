@@ -1,0 +1,12 @@
+,Avg Trips/Day,Avg Trips/Day,Geography,Travel Time,Travel Time,Travel Modality,Travel Modality,Travel Modality
+Method,Span,MAE,Precision,Recall,Precision,Recall,Precision,Recall
+Last Profile,1,0.72,0.9974,0.9976,0.8774,0.8313,0.9198,0.9161
+Last Profile,7,0.41,0.9939,0.994,0.8532,0.8509,0.9049,0.905
+Last Profile,30,0.3,0.9891,0.9899,0.8955,0.9172,0.9303,0.9298
+Avg Profile,1,0.76,0.9996,0.9693,0.7267,0.7881,0.8239,0.8935
+Avg Profile,7,0.38,0.9978,0.9759,0.8607,0.8214,0.9123,0.8722
+Avg Profile,30,0.29,0.9916,0.9845,0.9156,0.9149,0.9444,0.9231
+Moving Avg,1,0.69,0.9979,0.9963,0.557,0.8285,0.7181,0.9443
+Moving Avg,7,0.37,0.9956,0.9908,0.8096,0.8689,0.8866,0.9131
+Moving Avg,30,0.29,0.9916,0.9844,0.9039,0.9192,0.9389,0.9314
+"Table 4: Averaged Results for D1 and D2 when predicting users¡¯ travel profiles: How many trips per day will they take? What zones will they travel between? Will they only travel off-peak? Lastly, will they only take bus trips? ",,,,,,,,

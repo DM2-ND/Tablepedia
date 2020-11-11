@@ -1,0 +1,7 @@
+Dataset,Triples,Size,Compression (MB),Compression (MB),Compression (MB)
+Dataset,(millions),(GB),gzip,bzip2,HDT
+wikipedia,47,6.88,491.04,360.01,230.48
+dbtune,58.9,9.34,924.85,630.28,462.31
+uniprot,72.5,9.11,1233.25,739.76,481.34
+dbpedia-en,232.5,33.12,3513.58,2645.36,2176.54
+Table 1: Compression results of HDT for several datasets. ,,,,,

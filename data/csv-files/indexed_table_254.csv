@@ -1,0 +1,7 @@
+Ranking Model,Baseline,Baseline,Baseline,Our Approach,Our Approach,Our Approach
+Ranking Model,MAP,MRR,NDCG,MAP,MRR,NDCG
+GR,0.392,0.557,0.55,0.451,0.686,0.591
+RHR,0.435,0.577,0.572,0.499,0.698,0.67
+TFIDFR,0.475,0.687,0.691,0.569,0.713,0.75
+KLDR,0.567,0.689,0.794,0.674,0.759,0.831
+Table 3: Comparative results for hashtag retrieval ,,,,,,

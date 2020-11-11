@@ -1,0 +1,5 @@
+Testing Data,Precision,Recall,F1,Accuracy
+Getty,0.697,0.718,0.708,0.687
+Twitter,0.769,0.698,0.731,0.727
+AMT Twitter,0.66,0.52,0.559,0.526
+Table 2: Performance of CCA on different testing data (see following sections for detailed description of the data). ,,,,

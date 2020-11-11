@@ -1,0 +1,8 @@
+,Daily active sellers,Daily active sellers,Daily new tasks,Daily new tasks,Time to undertake (seconds),Time to undertake (seconds)
+Market,Avg.,Max,Avg.,Max,Avg.,Min
+SKY,224,313,951,1481,230,2
+WOOD,297,381,816,1132,260,1
+EMPIRE,222,310,689,1035,243,1
+COOL,233,517,663,1843,95,2
+NET,59,102,138,276,288,1
+"Table 4: Statistics of daily active sellers, daily new tasks, and the time to undertake a task on the five SRE markets. ",,,,,,

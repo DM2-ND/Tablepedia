@@ -1,0 +1,8 @@
+,DBLP,DBLP,DBLP,Twitter,Twitter,Twitter
+Method,Model,Query,Total,Model,Query,Total
+QUIS,65.68,0.15,65.83,12.25,0.051,12.3
+PMIA,192.31,43.05,235.36,180.47,1959.36,1959.36
+DDIC,192.31,1.05,193.36,180.47,2.25,182.72
+PR,192.31,0.09,192.4,180.47,0.68,181.15
+DEG,192.31,0.01,192.32,180.47,0.5,180.97
+Table 5: Running time (seconds) for various methods. ,,,,,,

@@ -1,0 +1,17 @@
+Data,Method,Recall,Precision,F1-Measure
+Weibo,SM,55.34,34.92,42.82
+Weibo,RT,39.62,66.31,49.6
+Weibo,CRF,29.24,94.89,44.71
+Weibo,CRF+AT,43.71,89.67,58.77
+Weibo,SOCINST,65.72,76.27,70.6
+I2B2,SM,39.58,28.24,32.96
+I2B3,RT,39.6,40.29,39.94
+I2B4,CRF,40.99,56.19,47.4
+I2B5,CRF+AT,41.37,54.92,47.19
+I2B6,SOCINST,43.94,57.18,49.69
+ICDM'12 Contest,SM,9.47,62.5,16.46
+ICDM'13 Contest,SOCINSTbaseRT,23.69,42.01,30.3
+ICDM'14 Contest,CRF,21.8,53.48,30.97
+ICDM'15 Contest,CRF+AT,26.54,51.37,35
+ICDM'16 Contest,SOCINST,37.91,53.33,44.32
+Table 3: Performance of different methods on the three datasets (%) ,,,,

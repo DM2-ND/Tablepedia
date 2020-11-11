@@ -1,0 +1,12 @@
+,Comparison with Flat baselines,Comparison with Flat baselines,Comparison with Flat baselines,Comparison with Flat baselines,Other Hierarchical Baselines,Other Hierarchical Baselines,Other Hierarchical Baselines,Other Hierarchical Baselines
+,SVM,HR-SVM,LR,HR-LR,TD,HSVM,OT,HB-LR
+CLEF,0.15,0.42,0.24,1.02,0.13,3.19,1.31,3.05
+RCV1,0.273,0.55,2.89,11.74,0.213,-,-,-
+IPC,3.12,6.81,4.17,15.91,2.21,-,-,31.2
+LSHTC-small,0.31,0.52,1.93,3.73,0.11,289.6,132.34,5.22
+DMOZ-2010,5.12,8.23,97.24,123.22,3.97,-,-,-
+DMOZ-2012,22.31,36.66,95.38,229.73,12.49,-,-,-
+DMOZ-2011,39.12,58.31,101.26,248.07,16.39,-,-,-
+SWIKI,54,89.23,99.46,296.87,21.34,-,-,-
+LWIKI,1114.23,2230.54,2134.46,7282.09,-,-,-,-
+Table 4: The training time (in mins) for all the methods. ,,,,,,,,

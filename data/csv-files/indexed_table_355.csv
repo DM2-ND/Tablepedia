@@ -1,0 +1,8 @@
+Function,Foursquare,Foursquare,Foursquare,Twitter,Twitter,Twitter,Plurk,Plurk,Plurk,DBLP,DBLP,DBLP
+Function,Pre.,Rec.,Pre.,Rec.,Pre.,Rec.,Pre.,Rec.,Pre.,Rec.,Pre.,Rec.
+OI,2.14,,37.5,0,,0,0,,0,0,,0
+FI,0.33,,55,0,,0,3.25,,33.55,1.53,,60.68
+OF,0.35,,40,0.21,,20,3.23,,37.31,1.53,,60.68
+CC,0.2,,2.5,0.74,,20,1.36,,18.76,2.64,,86.65
+All,0.48,,95,0.31,,40,2.02,,51.43,1.64,,94.66
+"Table 4. Verification results of candidate-to-candidate functions (in percentage), Pre. = precision, Rec. = recall. ",,,,,,,,,,,,

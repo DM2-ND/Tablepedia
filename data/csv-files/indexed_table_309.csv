@@ -1,0 +1,10 @@
+MODEL,HOLD 50%,HOLD 25% PER CLUSTER,HOLD ONE CLUSTER
+Random,23.60%,19.60%,24.70%
+Largest Cluster,30.10%,45.40%,0.00%
+Feature 1,25.20%,26.10%,0.00%
+Feature 2,35.10%,31.90%,0.10%
+Transformed Feature 1,46.30%,56.10%,19.80%
+Transformed Feature 2,31.10%,32.10%,0.70%
+LCC,55.70%,61.90%,36.70%
+Augmented LCC,53.80%,61.30%,34.10%
+Table 1: Test set accuracy for various prediction tasks. Latent Collaborative Clustering (LCC) performs the best in all cases. Note that conventional feature-based approaches are ill-suited for the HOLD ONE CLUSTER task (see Section 4.1.3). ,,,

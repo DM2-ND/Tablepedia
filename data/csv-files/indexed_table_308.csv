@@ -1,0 +1,14 @@
+,80% Training Data,80% Training Data,80% Training Data,90% Training Data,90% Training Data,90% Training Data,100% Training Data,100% Training Data,100% Training Data
+Algorhtms,NDCG@3,NDCG@5,NDCG@7,NDCG@3,NDCG@5,NDCG@7,NDCG@3,NDCG@5,NDCG@7
+MIOE,0.1533,0.2142,0.2443,0.2274,0.3198,0.3738,0.2237,0.3244,0.376
+TVS,0.1289,0.16,0.2082,0.1095,0.1405,0.1703,0.1067,0.1347,0.1459
+CVS,0.1292,0.1531,0.1932,0.1292,0.1531,0.1932,0.1292,0.1531,0.1932
+User-CF,0.1255,0.1617,0.1976,0.1333,0.1687,0.2312,0.1415,0.1631,0.2218
+Funk-SVD,0.0415,0.0881,0.1229,0.071,0.0942,0.1216,0.1419,0.1732,0.2143
+,80% Training Data,80% Training Data,80% Training Data,90% Training Data,90% Training Data,90% Training Data,100% Training Data,100% Training Data,100% Training Data
+,NDCG@3,NDCG@5,NDCG@7,NDCG@3,NDCG@5,NDCG@7,NDCG@3,NDCG@5,NDCG@7
+MIOE,0.3255,0.3509,0.4117,0.3483,0.4042,0.4493,0.4326,0.4736,0.5093
+TVS,0.2748,0.2939,0.3473,0.2611,0.2883,0.3366,0.3191,0.3505,0.3988
+CVS,0.2265,0.2472,0.2883,0.2265,0.2472,0.2883,0.2265,0.2472,0.2883
+User-CF,0.0765,0.1165,0.1373,0.1748,0.2085,0.2264,0.1748,0.2308,0.2444
+"Table 2: Comparison of recommendation algorithms in terms of NDCG@3, NDCG@5 and NDCG@7 on Del.icio.us dataset. The results of 80%, 90% and 100% training data are reported. ",,,,,,,,,

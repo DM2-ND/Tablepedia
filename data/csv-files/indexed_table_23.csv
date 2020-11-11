@@ -1,0 +1,12 @@
+,Twitter (World),Twitter (World),Twitter (World),Twitter (USA),Twitter (USA),Twitter (USA),Weibo,Weibo,Weibo
+Method,Acc.,Acc.@3,MED,Acc.,Acc.@3,MED,Acc.,Acc.@3,MED
+Content [8],79.68,91.01,1278.89,40.61,51.6,931.32,30.96,52.88,555.68
+Logistic Regression,94.44,98.18,302.06,48.22,67.37,707.34,36.98,58.12,499.67
+SVM [44],94.46,98.12,300.42,47.89,67.44,713.44,35.85,57.41,507.65
+FindMe [5],83.46,86.99,1350.08,46.34,57.6,1314.85,63.92,81,281.14
+GCN [24],94.54,97.98,288.2,58.36,74.56,516.51,66.18,79.14,257.95
+SSFGM (SR),95.18,98.29,280.87,56.12,73.15,606.28,64.32,80.27,281.61
+SSFGM (SampleRank [37]),94.96,98.25,292.15,58.48,74.54,578.95,66.91,82.81,263.29
+SSFGM (TCS),95.68,98.32,229.77,62.51,76.37,489.75,70.34,80.44,232.59
+SSFGM (TCS+Deep),95.72,98.31,231.23,62.63,76.55,487.92,70.06,82.89,231.39
+"Table 5: Performance comparison of di erent methods in user geo-location inference. (¡°Acc.¡± means Accuracy (%), and ¡°MED¡± means Mean Error Distance (km).) ",,,,,,,,,

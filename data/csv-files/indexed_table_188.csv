@@ -1,0 +1,12 @@
+,Implicit Joins (GMI),Implicit Joins (GMI),Implicit Joins (GMI),TextRunner,Ling-Seed (R/Pg),Ling-Seed (R/Pg)
+Relation,Recall,Prec.,F-meas.,F-Meas.,Avg.,Var.
+Players/Teams,0.68,0.6,0.63,0.57,0.06,0.03
+Players/Coaches,0.61,0.53,0.57,0.13,0.01,0.01
+Players/Arenas,0.01,0.01,0.01,0.23,0.16,0.21
+Teams/Arenas,1,0.61,0.76,0.89,0.001,0.002
+Teams/Coaches,0.93,0.87,0.9,0.43,0.01,0.02
+Coaches/Arenas,0.89,0.55,0.68,0.07,0,0
+Medicines/Types,-,0.63,-,-,-,-
+Medicines/ Treatments,-,0.56,-,-,-,-
+Types/Treatments,-,0.72,-,-,-,-
+Table 5: Implicit Join Results ,,,,,,

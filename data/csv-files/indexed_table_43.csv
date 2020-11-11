@@ -1,0 +1,6 @@
+Dataset,Douban,Douban,Gowalla,Gowalla,Gowalla,Epinions,Epinions,Epinions,Epinions
+,Precision,Recall,F1-Score,Precision,Recall,F1-Score,Precision,Recall,F1-Score
+GT,0.420916,0.683275,0.520927,0.124253,0.435963,0.171214,0.142565,0.403301,0.189999
+VAREM,0.448542,0.838615,0.584473,0.217694,0.579401,0.323537,0.172924,0.79956,0.247951
+SIG,0.869348,0.614971,0.761101,0.553444,0.746408,0.646652,0.510118,0.775194,0.594529
+"Table 1: Comparison of precision, recall, and F1 for three models on Douban, Gowalla, Epinions ",,,,,,,,,

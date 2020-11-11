@@ -1,0 +1,6 @@
+Dataset Economy ,Amazon review,Amazon review,Amazon review,Subjectivity,Subjectivity
+Perfomance measure,Accuracy,Crosstnropy,Accuracy,Crossntropy,Accuracy
+SLDA,0.34,2.157,0.456,0.535,0.749
+NA-SLDA,0.489,1.301,0.535,0.483,0.801
+NA-WE-SLDA,0.489,1.258,0.535,0.533,0.767
+Table 1: Held_out document classi cation performance ,,,,,

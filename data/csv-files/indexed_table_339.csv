@@ -1,0 +1,7 @@
+Dataset ,Measure,LASSO,L1+Trace,MMTFL,GO-MTL,VSTG-MTL
+School exam ,RMSE,12.0483 ¡À 0.1738,10.5041 ¡À 0.1432,10.1303 ¡À 0.1291,10.1924 ¡À 0.1331,9.9475 ¡À 0.1189
+Parkinson,RMSE,2.9177 ¡À 0.0960,1.0481 ¡À 0.0243,1.1079 ¡À 0.0182,1.0231 ¡À 0.0285,1.0076 ¡À 0.0188
+Computer survey,RMSE,2.3119 ¡À 0.3997,4.9493 ¡À 2.1592,1.7525 ¡À 0.1237,1.9067 ¡À 0.1864,1.6866 ¡À 0.1463
+MNIST,ER,13.0200 ¡À 0.7084,17.9800 ¡À 1.7574,12.6000 ¡À 0.8641,12.84 ¡À 1.2989,11.7000 ¡À 1.4461
+USPS,ER,12.88 ¡À 1.5061 ,16.0200 ¡À 1.2874,11.3600 ¡À 1.1462,12.9000 ¡À 1.0842,12.1800 ¡À 1.3547
+Table 1: Results for the synthetic datasets showing the average RMSE and REE with 10 repetitions. The statistically best models are highlighted in bold. ,,,,,,

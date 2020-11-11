@@ -1,0 +1,7 @@
+Metric,DTW,DDTW,CTW,FTA
+Accuracy,0.4678,0.4386,0.4678,0.614
+Specificity,0.7127,0.6915,0.8085,0.9149
+Sensitivity,0.2987,0.2987,0.1818,0.2727
+J-Statistics,0.0115,-0.0098,-0.0097,0.1876
+Time(s),149.5502,267.8659,47996.5866,20.771
+Table 1: Performance comparison between the un- supervised baselines and the FTA. ,,,,

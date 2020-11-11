@@ -1,0 +1,8 @@
+Methods,Dblp memory,Dblp memory,Wikipedia memory,Wikipedia memory
+,Micro-F1,Macro-F1,Micro-F1,Macro-F1
+BOWRF,78.26,75.25,71,67.55
+Skip-gramRF,75.55,71.93,68.63,64.73
+LINERF,75.75,72.19,68.95,65.15
+PTERF,78.31,75.26,75.78,72.35
+MemNet,79.16,75.91,77.18,74.04
+Table 4: Performance comparison of expansion using long documents from general domain vs. speci c domain ,,,,

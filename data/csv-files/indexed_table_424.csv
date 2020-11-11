@@ -1,0 +1,8 @@
+,Tasks,No Prior,Co-Occurrence,ICD-9 Tree
+Subsequence,All,0.7079¡À  0.0089,0.7169 ¡À  0.0087,0.7143¡À  0.0066
+Subsequence,Categories,0.6758¡À  0.0078,0.6804 ¡À  0.0109,0.6710¡À  0.0070
+Subsequence,Labels,0.7148¡À  0.0114,0.7241 ¡À  0.0093,0.7237¡À  0.0081
+Episode,All,0.7245¡À  0.0077,0.7348 ¡À  0.0064,0.7316¡À  0.0062
+Episode,Categories,0.6952¡À  0.0106,0.7010 ¡À  0.0136,0.6902¡À  0.0118
+Episode,Labels,0.7308¡À  0.0099,0.7414 ¡À  0.0064,0.7407¡À  0.0070
+Table 1: AUROC for classification. ,,,,

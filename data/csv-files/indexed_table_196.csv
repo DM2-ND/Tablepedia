@@ -1,0 +1,12 @@
+,General Predictions,General Predictions,Death,Death,Disease Outbreak,Disease Outbreak,Riots,Riots
+,Prec.,Recall,Prec.,Recall,Prec.,Recall,Prec.,Recall
+Full model,24%,100%,83%,81%,61%,33%,91%,51%
+Frequency,<1%,100%,59%,<1%,13%,3%,50%,1%
+Co-occurrence,7%,100,46%,61%,40%,<1%,61%,14%
+Co-occurrence,General,Predictions,,,,,,
+Co-occurrence,Prec.,Rec.,Prec.,Rec.,Prec.,Rec.,Prec.,Rec.
+News alone,19%,100%,80%,59%,44%,34%,88%,38%
+News + factual features,19%,100%,81%,62%,52%,31%,87%,42%
+News + generalization,21%,100%,81%,67%,53%,28%,88%,42%
+Full model,24%,100%,83%,81%,61%,33%,91%,51%
+Table 1: Precision and recall of predictions for several domains. ,,,,,,,,

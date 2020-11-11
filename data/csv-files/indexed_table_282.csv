@@ -1,0 +1,14 @@
+,Information Gathering,Information Gathering,Information Gathering,Information Gathering,Entity Comparison,Entity Comparison,Entity Comparison,Entity Comparison
+,List,SParQS,List,SParQS,List,SParQS,List,SParQS
+#Answers,9.58,-5.81,8.14,-5.81,7.58,-7.71,9.63,-7.72
+#Queries,3.45,-2.49,3.99,-2.33,5.4,-2.95,4.83,-1.77
+#QS queries,2.01,-2.35,2.6,-2.24,2.14,-1.77,3.13,-1.95
+#Documents,2.5,-1.96,2.23,-2,3.45,-2.74,4.27,-2.78
+#Entities,1.14,-0.4,1.2,-0.42,1.65,-0.88,2.09,-1.14
+Successful search rate,0.19,-0.26,0.27,-0.3,0.14,-0.19,0.18,-0.24
+Familiarity,2.94,-1.24,3.13,-1.27,2.69,-1.43,2.63,-1.23
+Easiness,3.8,-1.08,4.16,-0.88,3.68,-1.13,3.72,-1.08
+Satisfaction,3.73,-1.05,4.1,-0.95,3.61,-1.27,3.82,-0.94
+Enough time,3.66,-1.08,3.88,-0.96,3.41,-1.28,3.62,-0.92
+Helpfulness,3.37,-1.23,3.91,-0.94,3.77,-1.12,3.86,-1.01
+Table 4: User study results of the user study. The mean and standard deviation (SD) are shown as ¡°<Mean> (<SD>)¡±. A dagger in the Significance column indicates significant interaction between the two interfaces in Entity Comparison tasks. ,,,,,,,,

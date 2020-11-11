@@ -1,0 +1,10 @@
+Stream,SGD,SGD,SGD,SGD,SGD,Naive Bayes,Naive Bayes,Naive Bayes,Naive Bayes,Naive Bayes,Naive Bayes
+,MiDiPSA,KNN-based,FADS,CASTLE,Original,MiDiPSA,KNN-based,FADS,CASTLE,Original,Majority
+Adult1,0.495,0.509,0.581,0.5,0.682,0.445,0.545,0.449,0.679*,0.874,0.378
+Adult2,0.645,0.633,0.616,0.5,0.663,0.462,0.861*,,,0.892,0.413
+Electricity,0.515,0.52,0.469,0.5,0.889,0.532,0.497,0.538,0.745*,0.884,0.53
+Airlines,0.549,0.489,0.5,0.5,0.649,0.572*,0.51,0.457,0.467,0.702,0.391
+SEA,0.760*,0.471,0.5,0.5,0.878,0.749*,0.542,0.574,0.379,0.892,0.439
+Hyperplane,0.604*,0.527,0.43,0.5,0.959,0.469,0.498,0.547,0.4,0.91,0.455
+Random RBF,0.524*,0.479,0.5,0.5,0.716,0.715*,0.528,0.658,0.585,0.871,0.368
+Table 3: Area Under the ROC Curve (AUC) at k = 100 and ¦Å = 0.01 for prequentially evaluated classi ers (* p_value < 0.05) ,,,,,,,,,,,

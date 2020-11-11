@@ -1,0 +1,8 @@
+Company,Method,Conversion rate,Close rate,Total revenue ($)
+A,Random,39.60%,16.60%,"1,545"
+A,DQM,92.20%,67.60%,"346,793"
+A,FFM,93.70%,40.30%,"3,556,043"
+B,Random,8.40%,4.60%,"2,619,493"
+B,DQM,27.70%,22.10%,"8,009,377"
+B,FFM,26.10%,21.90%,"12,149,051"
+Table 4: Expected results if companies A and B can only contact 20% of leads. ,,,,

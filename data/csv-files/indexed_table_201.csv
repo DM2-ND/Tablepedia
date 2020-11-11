@@ -1,0 +1,11 @@
+,SVM,SVM,SVM,SVM,SVM,Logistic regression,Logistic regression,Logistic regression
+,existing incrementa,existing [19,existing [10,proposed op,proposed op,existing incrementa,proposedop1,proposedop2
+D1 linear,13.76,10.46,10.37,7.74,5.17,13.95,8.32,2.78
+D1 nonlinear,33.19,24.53,15.63,17.33,8.48,29.31,17.23,6.55
+D2 linear,52.87,51.04,44.28,29.01,15.93,58.22,28.63,13.25
+D2 nonlinear,337.87,312.44,246.1,201.58,124.79,268.71,165.42,120.57
+D3 linear,1167.65,458.12,229.57,203.6,123.69,4075.96,726.68,346.3
+D3 nonlinear,96317.45,77562.37,66427.27,58480.9,46301.53,91503.32,34972.51,28856.92
+D4 linear,18824.74,14303.27,12177.41,8506.3,2088.63,25197.11,10563.92,1219.36
+D4 nonlinear,,,183208.76,202972.55,106169.25,,125300.26,47474.64
+Table 4: Computation time [sec] of model selection based on LOOCV (without tricks). ,,,,,,,,

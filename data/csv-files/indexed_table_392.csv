@@ -1,0 +1,11 @@
+Metric,time-unaware,time-unaware,time-unaware,time-aware,time-aware,time-aware
+Metric,Lucene,NutchWAX,MdTREC,TVersions,TSpan,MdRankBoost
+nDCG@1,0.22,0.25,0.25,0.43,0.55,0.55
+nDCG@5,0.157,0.215,0.209,0.266,0.51,0.51
+nDCG@10,0.133,0.174,0.177,0.202,0.555,0.555
+P@1,0.28,0.32,0.32,0.5,0.6,0.6
+P@5,0.164,0.236,0.232,,,
+P@10,0.132,0.168,0.17,,,
+S@1,0.28,0.32,0.32,0.5,0.6,0.6
+S@5,0.5,0.68,0.6,0.78,0.78,0.78
+Table 1: Results obtained for the tested ranking models. ,,,,,,

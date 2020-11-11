@@ -1,0 +1,27 @@
+,Pneu-,Asthma,Pulm.,Rheu.,Kidney,Neuro.,Bladder,Urinary,Hema-
+Methods,monia,collapse,fever,adhesion,bladder,disorder,infect.(uns),turia,
+simSVM,95.60%,98.60%,97.80%,97.40%,96.60%,99.80%,98.30%,98.90%,99.80%
+1vsR SVM,91.30%,96.20%,96.80%,90.40%,93.40%,95.00%,97.80%,85.10%,96.00%
+rankSVM,95.20%,96.90%,97.10%,96.90%,95.20%,99.00%,97.20%,97.70%,98.40%
+BPMLL,92.50%,95.60%,96.60%,97.30%,95.00%,97.20%,97.40%,98.50%,96.70%
+MLKNN,92.90%,95.90%,96.30%,94.50%,93.20%,95.00%,97.40%,93.10%,96.00%
+,Hydroc-,Kidney,Fever,Resp.,Chest,Urinary,Lung,Urinary,Urinary
+,ephalus,anomal.,,abnorm.,pain,incont.,lesion,infect.,disorder
+Methods,98.80%,97.90%,95.30%,99.70%,99.10%,99.30%,95.30%,96.30%,95.90%
+simSVM,97.40%,97.00%,83.80%,95.00%,96.00%,96.20%,94.60%,92.00%,95.30%
+1vsR SVM,98.90%,97.40%,95.30%,99.10%,99.30%,97.80%,94.20%,95.50%,93.80%
+rankSVM,98.30%,91.50%,93.30%,96.30%,98.10%,97.00%,94.80%,92.40%,92.20%
+BPMLL,97.30%,97.00%,90.70%,95.40%,98.10%,96.20%,94.30%,93.10%,94.80%
+,Pneu-,Asthma,Pulm.,,Kidney,Neuro.,Bladder,Urinary,Hema-
+,monia,,collapse,,adhesion,bladder,disorder,infect.(uns),turia
+simSVM,0.915,0.974,0.984,,0.942,0.995,0.929,0.983,0.994
+rankSVM,0.909,0.84,0.939,,0.914,0.989,0.775,0.98,0.909
+BPMLL,0.891,0.844,0.929,,0.924,0.974,0.85,0.97,0.878
+MLKNN,0.867,0.737,0.95,,0.818,0.908,0.687,0.946,0.842
+,Hydroc-,Kidney,Fever,,Chest,Urinary,Lung,Urinary,Urinary
+,ephalus,anomal.,,abnorm.,pain,incont.,lesion,infect.,disorder
+simSVM,0.99,0.945,0.969,,0.963,0.96,0.828,0.96,0.874
+rankSVM,0.981,0.802,0.94,,0.955,0.853,0.833,0.931,0.828
+BPMLL,0.984,0.822,0.911,,0.955,0.829,0.853,0.916,0.865
+MLKNN,0.833,0.751,0.905,,0.952,0.771,0.866,0.927,0.791
+Table 1: Accuracies Obtained by the Different Methods on ICD-9 Data ,,,,,,,,,

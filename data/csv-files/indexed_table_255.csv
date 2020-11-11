@@ -1,0 +1,12 @@
+,,LinkedIn,LinkedIn,LinkedIn,Facebook,Facebook,Facebook,Facebook,Facebook,Facebook,DBLP,DBLP,DBLP,Taobao,Taobao
+,Methods,schoolmate,schoolmate,colleague,colleague,schoolmate,schoolmate,family,family,advisor,advisor,advisee,advisee,oneID,oneID
+,,10,100,1000,10,100,1000,10,100,1000,10,100,1000,10,100
+NDCG@10,SRW,0.52,0.515,0.515,0.513,0.502,0.503,0.396,0.389,0.394,0.396,0.389,0.394,0.689,0.689
+NDCG@10,DeepWalk,0.515,0.518,0.53,0.493,0.506,0.504,0.692,0.689,0.699,0.585,0.575,0.583,0.741,0.743
+NDCG@10,ProxEmbed,0.646,0.652,0.67,0.561,0.606,0.616,0.796,0.851,0.852,0.584,0.743,0.761,0.753,0.765
+NDCG@10,Metapath2vec ,0.513,0.524,0.528,0.507,0.509,0.523,0.688,0.702,0.709,0.563,0.56,0.574,0.775,0.769
+NDCG@10,DAG-LSTM,0.643,0.669,0.671,0.585,0.626,0.625,0.663,0.824,0.842,0.562,0.747,0.752,0.702,0.76
+NDCG@10,IPE-α,0.652,0.674,0.68,0.608,0.63,0.631,0.719,0.83,0.839,0.635,0.753,0.761,0.669,0.743
+NDCG@10,IPE-α -β,0.624,0.647,0.663,0.591,0.621,0.623,0.602,0.616,0.732,0.642,0.741,0.749,0.608,0.689
+NDCG@10,IPE,0.622,0.641,0.659,0.569,0.603,0.602,0.511,0.535,0.672,0.626,0.725,0.751,0.612,0.679
+Table 3: Result comparison under di erent amounts of labels. Highlighted results are signi cant (0.01 level paired t-test). ,,,,,,,,,,,,,,,

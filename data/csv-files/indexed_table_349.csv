@@ -1,0 +1,18 @@
+Algos,Precision,Precision,Recall,Recall,MAP,MAP,NDCG,NDCG
+,@5,@10,@5,@10,@5,@10,@5,@10
+MF,0.316,0.311,0.598,0.614,0.462,0.474,0.692,0.707
+Cofactor,0.36,0.32,0.53,0.641,0.48,0.514,0.492,0.531
+WMF,0.357,0.329,0.532,0.649,0.475,0.535,0.653,0.744
+MGCNN-def,0.367,0.323,0.549,0.649,0.496,0.53,0.74,0.744
+MGCNN,0.367,0.329,0.578,0.665,0.496,0.533,0.74,0.744
+HOMF,0.37,0.331,0.544,0.662,0.499,0.529,0.744,0.749
+,@1,@2,@1,@2,@1,@2,@1,@2
+MF,0.701,0.633,0.345,0.436,0.795,0.744,0.761,0.747
+TrustWalker,0.506,0.497,0.316,0.456,0.598,0.607,0.584,0.568
+GRALS,0.752,0.74,0.365,0.492,0.812,0.801,0.772,0.77
+WMF,0.75,0.746,0.366,0.501,0.803,0.761,0.775,0.771
+Cofactor,0.716,0.706,0.349,0.469,0.773,0.762,0.716,0.732
+MGCNN-def,0.751,0.741,0.37,0.495,0.805,0.793,0.772,0.767
+MGCNN,0.761,0.748,0.367,0.499,0.822,0.793,0.777,0.775
+HOMF,0.754,0.745,0.375,0.502,0.816,0.802,0.778,0.773
+"Table 2: Comparison of various algorithms using Top-N evaluation metrics. HOMF performs better than the methods compared consistently. Bold values indicate the best result among the methods considered. The exponential activation function was used to obtain the following results, and we set §Õ1 (.) = §Õ2 (.) for our graphs. ",,,,,,,,

@@ -1,0 +1,13 @@
+,Toilet,Toilet,Shower,Shower,Washer,Washer
+,Mean (Standard Deviation),Mean (Standard Deviation),Mean (Standard Deviation),Mean (Standard Deviation),Mean (Standard Deviation),Mean (Standard Deviation)
+HMM,0.7704,"(0.08),",0.9471,"(0.04),",0.7839,"(0.06),"
+HMM,,,0.7883,"(0.04),",0.961,"(0.04),"
+HMM,0.711,-0.04,0.8594,-0.03,0.862,-0.04
+kNN-GMM,0.7291,"(0.07),",0.9552,"(0.02),",0.8536,"(0.06),"
+kNN-GMM,0.8552,"(0.03),",0.7723,"(0.05),",0.8937,"(0.09),"
+kNN-GMM,0.785,-0.04,0.853,-0.03,0.8702,-0.06
+"For ANN-GMM-based approach, the neural network classifier ANN-GMM",0.7075,-0.04,0.8505,-0.04,0.871,-0.09
+"For ANN-GMM-based approach, the neural network classifier ANN-GMM",0.6086,-0.06,0.8761,-0.03,0.894,-0.04
+"For ANN-GMM-based approach, the neural network classifier ANN-GMM",0.0699,-0.02,0.156,(0.03)),0.1201,-0.07
+"For ANN-GMM-based approach, the neural network classifier ANN-GMM",0.0918,-0.02,0.3828,"(0,05)",0.4995,-0.19
+"Table 3. Precision, Recall, and F-measure on Simulation Data. ",,,,,,

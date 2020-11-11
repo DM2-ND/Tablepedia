@@ -1,0 +1,7 @@
+Dataset,Dataset,DBLP,DBLP,DBLP,DBLP,YAGO,YAGO,YAGO,YAGO
+Metric (MRR),Authorship,Term usag,Reference,Pub. venu,Pub. yea,Micro-average,Macro-average,Micro-average,Macro-average
+Pretrained (LINE [27]),0.741,0.52,0.809,0.765,0.488,0.613,0.648,0.741,0.718
+AspEm [21],0.688,0.715,0.644,0.917,0.78,0.719,0.761,0.747,0.72
+UniMetrics (len-1 metapath2vec++ [5]),0.704,0.694,0.749,0.891,0.69,0.716,0.745,0.741,0.718
+HEER,0.767,0.755,0.8,0.91,0.697,0.77,0.784,0.789,0.726
+"Table 2: Per edge type, micro-average, and macro-average MRR achieved by each model in the edge reconstruction task. ",,,,,,,,,

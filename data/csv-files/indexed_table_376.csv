@@ -1,0 +1,12 @@
+,T test = 1,T test = 1,T test = 2,T test = 2,T test = 3,T test = 3,T test = 4,T test = 4
+,Accuracy,AUC,Accuracy,AUC,Accuracy,AUC,Accuracy,AUC
+logistic,0.7106,0.7619,0.7246,0.7535,0.7669,0.7347,0.7349,0.7731
+GLM-geo,0.9284,0.7626,0.8436,0.7532,0.7829,0.7657,0.7347,0.7696
+GLM-exp,0.929,0.7553,0.8442,0.7464,0.7821,0.7569,0.7328,0.7603
+GLM-weib,0.9287,0.7273,0.8441,0.7452,0.7826,0.7559,0.7334,0.7597
+,Accuracy,AUC,Accuracy,AUC,Accuracy,AUC,Accuracy,AUC
+logistic,0.5157,0.781,0.5379,0.7805,0.5599,0.7841,0.5952,0.7896
+GLM-geo,0.5942,0.791,0.6209,0.7926,0.6366,0.7902,0.6522,0.7982
+GLM-exp,0.5015,0.7802,0.5214,0.7833,0.6709,0.7841,0.7143,0.787
+GLM-weib,0.7081,0.7816,0.7021,0.7832,0.7002,0.7833,0.7103,0.7862
+Table 3: Prediction Generalization Power Comparison: T test < T train and T train = 9 ,,,,,,,,

@@ -1,0 +1,8 @@
+,#layer,Prec@1,Prec@3,Prec@5
+CMemNN-C,1,0.0533,0.0482,0.0428
+CMemNN-C,3,0.0556,0.048,0.0422
+CMemNN-C,5,0.0428,0.0351,0.0304
+CMemNN,1,0.0546,0.0478,0.0427
+CMemNN,3,0.0546,0.0472,0.0446
+CMemNN,5,0.058,0.0512,0.0472
+Table 4: Deep architecture analysis on BeerAdvocate. ,,,,

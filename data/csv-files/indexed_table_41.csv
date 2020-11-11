@@ -1,0 +1,9 @@
+Data Set,FMNIST-1,FMNIST-1,FMNIST-2,FMNIST-2
+Accuracy,Train,Test,Train,Test
+LR,0.998,0.997,0.847,0.839
+LR-F,0.998,0.997,0.847,0.839
+PLNN,1,0.999,0.907,0.868
+LR-NS,0.772,0.776,0.711,0.698
+LR-NSF,0.989,0.989,0.782,0.791
+PLNN-NS,1,0.999,0.894,0.867
+Table 5: The training and testing accuracy of all models. ,,,,

@@ -1,0 +1,14 @@
+,Coverage   ,Macro,Ranking,Example,Average,Micro
+Methods,AUC,AUC   ,Loss   ,AUC   ,Precision   ,AUC   
+M3LDA,1.645  .056,.519  .005,.921  .004,.320  .007,.062  .004,.307  .005
+MIMLmix,1.472  .118,.502  .030,.442  .008,.578  .008,.028  .013,.502  .030
+CS3G,.424  .017,.550  .018,.364  .017,.651  .017,.241  .020,.619  .015
+DeepMIML M3MIML,.932  .025,.607  .010,.217  .003,.791  .002,.123  .007,.814  .003
+MIMLfast,1.239  .072,.509  .024,.297  .022,.703  .022,.128  .019,.711  .027
+SLEEC,1.603  .013,.506  .012,.855  .007,.393  .005,.050  .006,.381  .006
+Tram,.902  .017,.499  .008,.115  .019,.354  .021,.064  .008,.064  .008
+ECC,1.602  .020,.530  .004,.838  .019,.403  .015,.098  .005,.395  .011
+ML-KNN RankSVM,.873  .002,.613  .002,.195  .003,.805  .003,.156  .001,.828  .001
+ML-SVM,.949  .029,.471  .006,.228  .010,.783  .008,.131  .003,.803  .007
+M3DN,.311  .032,.693  .005,.155  .018,.840  .018,.307  .001,.868  .013
+Table 2: Comparison results (mean ¡À std.) of M3DN with com- pared methods on WKG Game-Hub dataset. 6 commonly used criteria are evaluated. The best performance for each criterion is bolded. ¡ü /¡ý indicate the larger/smaller the better of a crite- rion. ,,,,,,

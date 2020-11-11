@@ -1,0 +1,6 @@
+Dataset,MF,oQPF,Cpapprox,Cpexact
+Small scale data,41.6,11.5,13.2,117.1
+Airlines 700k,1773,744,463,7925
+Airlines 2M,5050,2813,2461,24879
+Airlines 5M,12197,7724,6851,110842
+"Table 6: Running times for all the algorithms, in seconds. ",,,,

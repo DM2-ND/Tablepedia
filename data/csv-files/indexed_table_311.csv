@@ -1,0 +1,8 @@
+Settings: D+S+P+T ,LR ,LR ,NB,NB
+,MAE ,MRE ,MAE ,MRE 
+,412.31,0.363,319.86,0.281
+D (demographics) ,0,0,0,0
+G (geographic inf.) ,0.64,0.664,0.602,0.565
+P (POI distribution) ,0.025,0.025,0.001,0.001
+T (taxi flow) ,0,0,0,0
+Table 6: Estimated p-value for each feature. The p-value is de- fined as the possibility that a smaller error measure is observed under the null hypothesis. ,,,,

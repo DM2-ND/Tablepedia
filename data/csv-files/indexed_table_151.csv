@@ -1,0 +1,16 @@
+Dataset,w8a,cod-rna,cod-rna,cod-rna,covtype,covtype,airlines,airlines
+Algorithm,Error,Time,Error,Time,Error,Time,Error,Time
+LIBSVM,0.94,51,3.61,115,-,-,-,-
+LLSVM,1.36,92,5.84,20,-,-,-,-
+BSGD-M,1.83¡À0.07,265,4.33¡À0.21,91,27.74¡À0.16,"2,413",-,-
+BSGD-R,2.90¡À0.04,253,33.17¡À0.11,19,38.91¡À1.69,419,19.73¡À0.06,"4,741"
+FOGD,2.08¡À0.38,32,7.35¡À4.20,8,40.66¡À5.85,70,19.63¡À0.21,"1,086"
+NOGD,1.94¡À0.18,375,8.17¡À3.35,10,31.80¡À2.96,679,25.17¡À0.20,"3,112"
+DualSGD-Hinge,3.44¡À0.17,34,29.15¡À0.02,19,30.54¡À0.54,375,23.13¡À0.00,"1,696"
+DualSVRG-H-B,1.36¡À0.13,150,6.30¡À1.17,87,26.73¡À1.55,"2,144",19.28¡À0.05,"3,583"
+DualSVRG-H-C,1.35¡À0.09,127,6.61¡À0.85,83,26.50¡À1.61,"1,724",19.25¡À0.02,"4,019"
+DualSVRG-H-AM,1.29¡À0.01,109,5.98¡À1.53,74,26.15¡À0.44,"1,737",19.28¡À0.04,"4,517"
+DualSVRG-L-B,2.24¡À1.66,158,6.20¡À0.79,86,27.61¡À0.64,"2,127",19.28¡À0.06,"3,447"
+DualSVRG-L-C,2.27¡À1.75,127,7.13¡À0.91,79,26.14¡À1.31,"1,788",19.26¡À0.04,"3,594"
+DualSVRG-L-AM,1.71¡À0.47,112,5.77¡À0.27,104,26.59¡À1.64,"1,855",19.28¡À0.07,"4,447"
+"Table 1: Classi cation performance of our DualSVRG(s) and the baselines in the batch mode. The error is reported in percent 770  714 (%), the training time is in second. The best and runner-up performances are in bold and italic-bold respectively. ",,,,,,,,

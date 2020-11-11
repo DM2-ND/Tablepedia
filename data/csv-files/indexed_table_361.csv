@@ -1,0 +1,9 @@
+,No. of Edges,No. of Edges,No. of Edges,No. of Edges,No. of Nodes,No. of Nodes,No. of Nodes,No. of Nodes
+State,User to Use,User to Busines,Business to Attribute,Business to Categorie,Business,Users,Attributes,Categories
+Complete,"29,271,479","4,153,150","605,231","527,229","144,072","1,029,432",81,"1,191"
+NV,"4,891,171","1,460,807","106,789","105,358","28,214","428,840",81,"1,030"
+AZ,"2,269,462","1,265,915","161,361","162,393","43,492","311,857",81,"1,052"
+ON,"465,204","500,812","120,241","84,491","24,507","92,997",66,777
+WI,"57,593","88,778","14,986","18,479","3,899","25,773",81,678
+EDH,"25,695","44,631","12,676","11,972","3,539","8,371",72,456
+Table 1: Yelp network statistics ,,,,,,,,

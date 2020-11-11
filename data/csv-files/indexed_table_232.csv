@@ -1,0 +1,14 @@
+,CNN,CNN,Daily Mail,Daily Mail
+,valid,test,valid,test
+Deep LSTM Reader [7],55,57,63.3,62.2
+Attentive Reader [7],61.6,63,70.5,69
+MemNets [8],63.4,66.8,-,-
+AS Reader [9],68.6,69.5,75,73.9
+151k words (not Stanford AR [3],72.2,72.4,,
+DER Network [12],71.3,72.9,-,-
+Iterative Attention Reader [21],72.6,73.3,-,-
+EpiReader [25],73.4,74,-,-
+GA Reader [6],73,73.8,76.7,75.7
+AoA Reader [5],73.1,74.4,-,-
+ReasoNet,72.9,74.7,77.6,76.6
+Table 1: The performance of Reasoning Network on CNN and Daily Mail dataset. ,,,,

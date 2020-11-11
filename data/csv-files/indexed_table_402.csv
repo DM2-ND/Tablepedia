@@ -1,0 +1,15 @@
+,Timeline 28,Timeline 28,Timeline 30,Timeline 30,Timeline 30,Timeline 30
+,R1,R2,SU4,R1,R2,SU4
+Random,0.19,0.06,0.03,0.15,0.05,0.01
+LexRank,0.31,0.1,0.08,0.3,0.09,0.08
+MEAD,0.3,0.09,0.07,0.28,0.09,0.06
+Chieu,0.25,0.11,0.05,0.22,0.09,0.03
+Ours,0.34,0.11,0.12,0.33,0.08,0.1
+,Timeline 31,Timeline 31,Timeline 31,Timeline 27,Timeline 27,Timeline 27
+,R1,R2,SU4,R1,R2,SU4
+Random,0.25,0.03,0.08,0.28,0.06,0.1
+LexRank,0.32,0.06,0.12,0.34,0.08,0.16
+MEAD,0.31,0.05,0.11,0.27,0.06,0.07
+Chieu,0.28,0.05,0.09,0.31,0.07,0.12
+Ours,0.33,0.06,0.12,0.36,0.09,0.16
+Table 1: Sentence selection evaluation results ,,,,,,

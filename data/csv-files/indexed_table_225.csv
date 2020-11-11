@@ -1,0 +1,14 @@
+Dataset,#Classes,# Test /Class,Ave. Len,Max Len
+AG’s News,4,"1,900",34,211
+DBpedia,14,"5,000",49,953
+IMDB,2,"12,500",239,"2,506"
+Yelp-Full,5,"10,000",152,"1,199"
+Yelp-Full,,AG’s News Dbpedia,IMDB,Yelp-Full
+"In the second stage, different learning methods are used to",Embedding dimension,256 256,256,256
+"train the text classification model, and the corresponding semi-",Dropout rate,0.5 0.5,0.5,0.5
+supervised text classification algorithms are:,# LSTM layers,1 1,1,1
+• Semi-supervised sequence learning (SeqSSL) [8]. The SeqSSL,# LSTM hidden unit,512 1024,1024,1024
+algorithm employs the aforementioned language model at the,Maximun BPTT,200 400,400,400
+first stage and then trains a LSTM based classification model via,# hidden unit of classifier,30 128,30,30
+a standard MLE approach.,batch size,64 64,64,64
+a standard MLE approach.,# training step of LM,"20,000 100,000","100,000","100,000"

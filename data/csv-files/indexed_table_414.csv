@@ -1,0 +1,10 @@
+Labeled Nodes,Training10%,Training20%,Training30%,Training40%,Training50%
+DeepWalk,52.4,54.7,56,56.5,57.3
+MMDW,55.6,60.1,63.2,65.1,66.9
+Text Features,58.3,66.4,69.2,71.2,72.2
+PLSA,54.1,58.3,60.9,62.1,62.6
+Na_ve Combination,61,66.7,69.1,70.8,72
+NetPLSA,58.7,61.6,63.3,64,64.7
+TADW,70.6,71.9,73.3,73.7,74.2
+STNE,69.6,71.2,72.2,74.3,74.8
+"Table 4: F1-score on Citeseer dataset, where the percentage of labeled nodes varies from 10% to 50%. ",,,,,

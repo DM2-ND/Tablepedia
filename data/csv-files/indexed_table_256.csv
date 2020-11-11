@@ -1,0 +1,10 @@
+Data Set ,Measure ,NMI ,Jaccard ,RI,F-measure,DNC,ANC
+Karate ,¦Ö2 ,0.4852,0.4852,0.2842,0.4426,7,2
+Karate ,PR,0.3868,0.0945,0.5561,0.1728,14,2
+Karate ,Leverage,0.6925,0.6833,0.8414,0.8118,3,2
+Karate ,LR,0.5385,0.3958,0.6952,0.5671,5,2
+Football,¦Ö2 ,0.9141,0.7571,0.9793,0.8618,14,12
+Football,PR,0.6864,0.0829,0.924,0.1531,55,12
+Football,Leverage,0.6977,0.3622,0.8807,0.5317,6,12
+Football,LR,0.9086,0.7897,0.9812,0.8825,12,12
+Table 2: Results on real life datasets ,,,,,,,

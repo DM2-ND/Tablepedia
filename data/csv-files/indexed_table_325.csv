@@ -1,0 +1,9 @@
+Data,Nearest Neighbor,Nearest Neighbor,Nearest Neighbor,Nearest Neighbor,Nearest Neighbor,Naive Bayes,Naive Bayes,Naive Bayes,Naive Bayes,Naive Bayes,Decision Tree,Decision Tree,Decision Tree,Decision Tree,Decision Tree,Decision Tree
+Data,BL1,BL2,MR,AB,TL,BL1,BL2,MR,MRP,CD,TL,BL1,BL2,MR,AT,TL
+A,29.39,29.59,37.18,29.31,38.24,17.28,17.98,20.11,17.28,18.15,22.08,19.95,18.98,22.83,20.85,23.47
+B,40.84,50.25,53.95,47.52,53.89,41.78,44.96,46.17,45.62,43.06,45.74,38.73,45.6,47.61,48.02,48.65
+C,49.36,67.04,75.4,75.87,75.41,48.33,70.71,70.6,70.93,69.75,74.76,58.21,64.83,65.42,65.9,72.88
+D,59.75,77.11,84.56,84.13,84.88,48.31,71.22,74.31,71.81,48.31,79.94,39.75,70.79,74.56,76.25,82.94
+E,58.14,71.67,87.81,82.01,88.13,54.01,70.43,77.99,76.53,68.38,86.61,49.93,65.29,71.06,71.81,79.91
+F,57.86,69.75,79.87,79.17,80.06,58.97,69.23,76.54,77.22,66.63,79.42,52.17,59.61,65.31,65.3,66.35
+Table 2: Accuracy for each classifier / dataset (%). ,,,,,,,,,,,,,,,,

@@ -1,0 +1,14 @@
+Measures,Methods,Stage 4-6,Stage 7-8,Stage 9-10,Stage 11-12,Stage 13-17
+Accuracy,TL+MTL,0.7938¡À 0.0381,0.8216¡À 0.0231,0.8318¡À 0.0216,0.8128¡À 0.0325,0.8327¡À 0.0256
+Accuracy,TL,0.7521¡À 0.0326,0.7837¡À 0.0269,0.7929¡À 0.0231,0.8094¡À 0.0331,0.8205¡À 0.0304
+Accuracy,SC,0.7217¡À 0.0352,0.7401¡À 0.0351,0.7549¡À 0.0303,0.7659¡À 0.0326,0.7681¡À 0.0231
+Sensitivity,TL+MTL,0.7825¡À 0.0372,0.7829¡À 0.0368,0.7721¡À 0.0412,0.8026¡À 0.0401,0.8185¡À 0.0259
+Sensitivity,TL,0AU.7C405¡À 0.0293,0.7515¡À 0.0342,0.7876¡À 0.0401,0.7905¡À 0.0389,0.7964¡À 0.0317
+Sensitivity,SC,0.7321¡À 0.0408,0.7190¡À 0.0331,0.7468¡À 0.0298,0.7576¡À 0.0329,0.7328¡À 0.0235
+Specificity,TL + MTL,0.8436¡À 0.0376,0.8581¡À 0.0380,0.8422¡À 0.0284,0.8527¡À 0.0252,0.8716¡À 0.0256
+Specificity,TL,0.7915¡À 0.0247,0.8160¡À 0.0316,0.7983¡À 0.0315,0.8342¡À 0.0237,0.8517¡À 0.0306
+Specificity,SC,0.7140¡À 0.0389,0.7605¡À 0.0392,0.7629¡À 0.0298,0.7749¡À 0.0329,0.8005¡À 0.0298
+AUC,TL + MTL,0.8493¡À 0.0427,0.8565¡À 0.0279,0.8695¡À 0.0276,0.8776¡À 0.0291,0.8824¡À 0.0197
+AUC,TL,0.8344¡À 0.0439,0.8401¡À 0.0346,0.8508¡À 0.0257,0.8702¡À 0.0271,0.8746¡À 0.0299
+AUC,SC,0.7687¡À 0.0432,0.7834¡À 0.0358,0.7921¡À 0.0294,0.8061¡À 0.0342,0.8105¡À 0.0280
+"Table 2: Performance comparison in terms of accuracy, sensitivity, specificity, and AUC achieved by CNN models and Sparse Coding features for all stage ranges. ¡°TL+MTL¡± and ¡°TL¡± denote the features extracted from layer 21 of the deep model for multi-task learning and transfer learning. ¡°SC¡± denotes the performance of the sparse coding features. ",,,,,,

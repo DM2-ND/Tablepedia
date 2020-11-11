@@ -1,0 +1,7 @@
+Method,MovieLens-100K,MovieLens-100K,MovieLens-100K,MovieLens-100K,MovieLens-1M,MovieLens-1M,MovieLens-1M,MovieLens-1M,DianPing,DianPing,DianPing,Yahoo!Music,Yahoo!Music,Yahoo!Music,Yahoo!Music,Yahoo!Music
+Method,baseline,老_ ,k,RMSE,baseline,老_ ,k,RMSE,baseline,老_ ,k,RMSE,baseline,老_ ,k,RMSE
+SVD,0.9249,0.08,3,0.9165,0.8487,0.05,3,0.8423,0.9244,0.0036,3,0.9145,22.713,0.0044,13,22.519
+NMF,0.9138,0.08,3,0.9102,0.8461,0.05,3,0.8388,0.9376,0.0044,4,0.9267,23.538,0.0052,21,23.335
+PMF,0.9598,0.08,3,0.9534,0.8741,0.05,3,0.8664,0.9636,0.0044,4,0.9575,22.312,0.0028,6,22.121
+MMMF,0.9807,0.08,3,0.9703,0.881,0.06,9,0.874,0.9457,0.0036,3,0.9352,23.218,0.0036,9,23.007
+Table 5: Best performance achieved in LMF with corresponding density requirement 老_ and number of diagonal blocks k. Bold numbers indicate improvements that are ≡ 0.01 on MovieLens and DianPing or ≡ 0.2 on Yahoo!Music. The standard deviations are ≒ 0.002 on MovieLens and DianPing and ≒ 0.01 on Yahoo!Music. ,,,,,,,,,,,,,,,,

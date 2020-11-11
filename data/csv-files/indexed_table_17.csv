@@ -1,0 +1,11 @@
+,Method,Precision,Recall,AUC
+Un-Supervised,M-Zoom,83.8,83.3,-
+Un-Supervised,BPTF,97.2,88.5,90
+Un-Supervised,BNBCP,93.3,78.2,78.8
+Un-Supervised,Logistic CP,94.1,68.7,77.6
+Semi-Supervised,Logistic CP,83.3,92.3,91
+Semi-Supervised,Logistic CP,88.9,94.9,92.2
+Semi-Supervised,Logistic CP,100,100,100
+Table 1: Abusive sellers: un-Supervised and semi-supervised results - relative performance. ,,,,
+,,,,
+,,,,

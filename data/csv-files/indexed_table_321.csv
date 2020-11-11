@@ -1,0 +1,9 @@
+,KNN-EUC,LMNN,RVML-classes,RVML-transport
+Balance,0.0147,0.2117,. 0259,. 0424
+Credit,0.134,0.4947,0.0341,0.2474
+Digits,0.7983,0.7751,0.1789,0.0477
+German,0.3481,0.2671,0.9573,0.7982
+Mice,0.0074,0.6304,0.0282,0.0023
+Segmentation,0.0007,0.4423,0.146,0.0012
+Wisconsin,0.0866,0.007,0.4467,0.4752
+Table A.1-1: P-values between the performance of DRVML vs. other methods on each dataset as calculated via Welch¡¯s two-sided t-test. Bold numbers denote higher performance by the proposed method. Values calculated on results shown in Table 3. ,,,,

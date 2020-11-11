@@ -1,0 +1,13 @@
+,Cross-validation dataset (12 samples),Cross-validation dataset (12 samples),Cross-validation dataset (12 samples),Cross-validation dataset (12 samples),Test dataset (14 samples),Test dataset (14 samples),Test dataset (14 samples),Test dataset (14 samples)
+,Accuracy,Sensitivity,Specificity,F1 Scor,Accuracy,Sensitivity,Specificity,F1 Scor
+glm,100,100,100,100,100,100,100,100
+glmnet,100,100,100,100,100,100,100,100
+rpart,100,100,100,100,78.57,100,57.14,82.35
+ctree,91.67,100,83.33,92.3,92.86,100,85.71,93.33
+rf,100,100,100,100,78.57,100,57.14,82.35
+svmLinear,100,100,100,100,100,100,100,100
+svmLinear2,100,100,100,100,100,100,100,100
+svmLinear3,100,100,100,100,100,100,100,100
+svmRadial,100,100,100,100,100,100,100,100
+nnet,100,100,100,100,100,100,100,100
+Table 3: Performance measures (%) of models over cross-validation dataset and test dataset ,,,,,,,,

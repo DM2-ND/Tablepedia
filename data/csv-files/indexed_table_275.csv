@@ -1,0 +1,8 @@
+method,normal vs. MCI and demented,MCI vs. normal and demented,demented vs. normal and MCI
+NN,0.5052¡À 0.0555,0.5085¡À 0.0473,0.5106¡À 0.0487
+SVM,0.6491¡À 0.1355,0.5230¡À 0.0567,0.5409¡À 0.0473
+LR,0.6591¡À 0.1421,0.5860¡À 0.1007,0.6203¡À 0.1253
+SLR,0.6595¡À 0.1396,0.5877¡À 0.0993,0.6220¡À 0.1243
+MLR,0.6754¡À 0.0896,0.5994¡À 0.0627,0.6382¡À 0.1201
+MulSLR,0.6923¡À 0.0706,0.6015¡À 0.0520,0.6731¡À 0.1054
+Table 1: Prediction AUC Comparison for Different Methods and Different Tasks ,,,

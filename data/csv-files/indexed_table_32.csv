@@ -1,0 +1,8 @@
+Model,book author data set,Flickr data set,Flickr data set
+,accuracy,precision,recall
+Voting[4],0.71,0.8499,0.8511
+2-Estimates[5],0.73,0.8545,0.8602
+TruthFinder[17],0.83,0.8637,0.8649
+Accu[4],0.87,0.8731,0.8743
+MSS,0.95,0.9176,0.9212
+"Table 3: Comparison of different algorithms on book author and Flickr data set. On book author data set, the algorithms are compared by their accuracies. On Flickr data set, the algorithms are compared by their average precisions and recalls on 12 tags. ",,,

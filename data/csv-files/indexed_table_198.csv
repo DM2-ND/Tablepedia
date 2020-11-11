@@ -1,0 +1,10 @@
+,Movielens100k,Movielens100k,Epinions,Epinions
+,HR,NDCG,HR,NDCG
+FISM,0.3172,0.1812,0.0866,0.0428
+NAINCF,0.3205,0.1827,0.0873,0.0431
+,HR,NDCG,HR,NDCG
+MLP-0,0.2948,0.172,0.0823,0.0406
+MLP-1,0.3149,0.1801,0.084,0.0412
+MLP-2,0.3191,0.1832,0.0864,0.0426
+MLP-3,0.3234,0.1843,0.0883,0.0437
+Table 4: Performance comparison of AINCF without attention mechanism (NAINCF) and FISM ,,,,

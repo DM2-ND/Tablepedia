@@ -1,0 +1,8 @@
+,Amazon,Amazon,DBLP,DBLP,Youtube,Youtube,Orkut,Orkut
+Algorithm,F1 score,time,F1 score,time,F1 score,time,F1 score,time
+LEMON,0.953,<15s,0.665,<15s,0.24,<15s,0.202,<15s
+LEMON-auto,0.91,<15s,0.525,<15s,0.19,<15s,0.17,<15s
+DEMON,0.164,"4,562s",0.196,"727,675s",0.031,"22,395s",-,-
+OSLOM,0.766,"885,867s",0.542,"23,262s",-,>10d,-,-
+LC,0.815,"4,606s",0.527,"49,045s",-,>10d,-,-
+Table 4: Comparison with global algorithms on real datasets. ,,,,,,,,

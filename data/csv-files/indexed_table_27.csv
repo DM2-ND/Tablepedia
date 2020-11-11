@@ -1,0 +1,8 @@
+,MAS data,MAS data,WEIBO data,WEIBO data
+,MAE,RMSE,MAE,RMSE
+FEMA,0.893,1.215,0.954,1.437
+EMA,0.909,1.466,0.986,1.698
+DTA [26],0.95,1.556,1.105,1.889
+HOSVD [8],1.047,1.618,1.22,2.054
+CP [16],1.055,1.612,1.243,2.117
+Table 3: Flexible FEMA has the smallest MAE and RMSE on 3W Prediction tasks when t = 10 and ¦Át = 80%. The model is better if the MAE and RMSE are smaller. ,,,,

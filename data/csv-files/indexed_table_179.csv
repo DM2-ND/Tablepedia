@@ -1,0 +1,10 @@
+Datasets,Yoochoose 1/64,Yoochoose 1/64,Yoochoose 1/4,Yoochoose 1/4,Diginetica,Diginetica
+Measures,P@20,MRR@20,P@20,MRR@20,P@20,MRR@20
+POP,6.71,1.65,1.33,0.3,0.91,0.23
+Item-KNN,51.6,21.81,52.31,21.7,28.35,9.45
+FPMC,45.62,15.01,-,-,31.55,8.92
+GRU4Rec,60.64,22.89,59.53,22.6,43.82,15.46
+GRU4Rec+,67.84,29,69.11,29.22,57.95,24.93
+NARM,68.32,28.76,69.73,29.23,62.58,27.35
+STMO,64.22,25.81,66.22,26.69,58.62,25.9
+Table 2: Next-click prediction on 3 benchmark data sets. ,,,,,,

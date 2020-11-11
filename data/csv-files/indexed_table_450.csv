@@ -1,0 +1,11 @@
+,RGF,RGF,GBDT,GBDT,RF,RF,SVM,SVM,LR,LR,DT,DT
+,SgtA,HitA,SgtA,HitA,SgtA,HitA,SgtA,HitA,SgtA,HitA,SgtA,HitA
+Replaced Precision,0.98,0.84,0.97,0.82,0.93,0.82,0.93,0.72,0.73,0.72,0.89,0.74
+Replaced Recall ,0.98,0.79,0.96,0.78,0.94,0.76,0.95,0.65,0.81,0.59,0.87,0.61
+Replaced F1,0.98,0.81,0.96,0.8,0.94,0.79,0.94,0.68,0.77,0.65,0.88,0.67
+Replaced Sd,0.01,0.02,0.01,0.04,0.05,0.08,0.02,0.05,0.07,0.1,0.04,0.03
+Healthy Precision,0.99,0.93,0.98,0.92,0.97,0.92,0.97,0.87,0.89,0.85,0.94,0.86
+Healthy Recall,0.98,0.95,0.98,0.94,0.96,0.93,0.96,0.9,0.85,0.9,0.95,0.91
+Healthy F1,0.98,0.94,0.98,0.93,0.97,0.92,0.96,0.88,0.87,0.87,0.94,0.88
+Healthy Sd,0.01,0.02,0.02,0.03,0.04,0.05,0.02,0.04,0.08,0.05,0.02,0.02
+"Table 3: Precision, Recall, F-score, Deviation of different classifiers - median on 100 runs , each of which using randomly-drawn training and test data points ",,,,,,,,,,,,

@@ -1,0 +1,9 @@
+,culture show,culture how
+Algorithm,2010,2011
+Ground-truth Modularity,13,10
+optimization,7,5
+BigClam,45,38
+CESNA,2,2
+LFA,13,10
+FLFA,13,10
+Figure 5: Plot of F1 score versus the runtime of each algorithm. The dashed line indicates the 0.5 information lower bound. ,,

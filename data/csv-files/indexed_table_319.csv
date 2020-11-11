@@ -1,0 +1,10 @@
+,IGRA,IGRA,GSOD,GSOD
+Approach,Temperature,Wind Speed,Temperature,Wind Speed
+Previous Time Step,0.8766,0.3554,0.9103,0.1739
+Gaussian Process,0.894,0.4467,0.9016,0.1888
+Graph Convolution (without LSTM),0.9094,0.5567,0.9299,0.3863
+Local LSTM,0.9187,0.54,0.9476,0.4796
+Global LSTM,0.9423,0.6147,0.9523,0.56
+GC-LSTM (fixed adjacency),0.9353,0.6117,0.9459,0.493
+WGC-LSTM (learned adjacency),0.9566,0.6676,0.974,0.6321
+Table 2: Comparison of R2 value for graph convolutional LSTM against other baseline methods. ,,,,

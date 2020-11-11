@@ -1,0 +1,6 @@
+,Validation Data,Validation Data,Validation Data,Hand-labeled Data,Hand-labeled Data,Hand-labeled Data,User-labeled Data,User-labeled Data,User-labeled Data
+Training Size,wCNN,cCNN,SVM,wCNN,cCNN,SVM,wCNN,cCNN,SVM
+10K,87.1,79.84,88.3,64.09,61.08,51.15,71.51,70.43,74.03
+100K,91.77,84.91,90.56,64.61,63.92,51.28,81.95,71.8,74.14
+1M,95.23,87.54,90.52,66.16,64.19,51.57,87.41,72.41,74.17
+Table 3: Accuracy comparison ,,,,,,,,,

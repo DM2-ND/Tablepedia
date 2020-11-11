@@ -1,0 +1,9 @@
+,,Memory-based Methods,Memory-based Methods,Memory-based Methods,Model-based Methods,Model-based Methods,Model-based Methods,Model-based Methods,Model-based Methods
+Training,Metric,UCF,pUCF,pnUCF,MF,SocialMF,SoReg,LOCABAL,disSoReg
+Training50%,MAE,1.0323,0.9764,0.9683,1.0243,0.9592,0.9589,0.9437,0.9679
+Training50%,RMSE,1.2005,1.1477,1.1392,1.1902,1.1397,1.1354,1.1212,1.1407
+Training70%,MAE,1.0074,0.9493,0.9402,0.9988,0.9341,0.9327,0.9274,0.9425
+Training70%,RMSE,1.1758,1.1301,1.1196,1.1692,1.1163,1.1127,1.1009,1.1237
+Training90%,MAE,0.9817,0.9272,0.9187,0.9779,0.9189,0.9153,0.9017,0.9263
+Training90%,RMSE,1.1592,1.1059,1.0885,1.1525,1.0986,1.0951,1.0821,1.1032
+Table 4: Comparison of Different Recommender Systems in Epinions ,,,,,,,,,

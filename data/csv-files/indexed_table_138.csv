@@ -1,0 +1,9 @@
+,Invitation Graph,Invitation Graph,Navigation Graph,Navigation Graph,Hybrid,Hybrid,Hybrid,Hybrid
+Metric(in %),PR,LFB,PR,LFB,Borda P,Bimodal PR,Borda LF,Bimodal LF
+MAP@1000,3.26,5.52(69.3%),9.22(182.8%),12.84(293.9%),7.55(131.6%),12.16(273.0%),13.03(299.7%),13.60(317.2%)
+MAP@100K,2.45,2.53(3.2%),1.84(_24.8%),3.37(37.5%),2.46(0.4%),2.30(_6.1%),3.76(53.4%),3.93(61.2%)
+MAP@1mil,1.23,1.36(10.5%),0.87(_29.2%),1.44(17.1%),1.27(3.2%),1.08(-12.1%),1.84(49.6%),1.88(52.8%)
+NDCG@1000,1.48,3.08(108.1%),3.99(169.6%),6.80(359.5%),2.92(97.3%),4.59(210.1%),4.78(222.9%),6.35(329.7%)
+NDCG@100K,3.84,4.48(16.7%),3.64(_5.2%),5.91(53.9%),4.36(13.5%),4.28(11.4%),6.10(58.8%),6.61(72.1%)
+NDCG@1mil,8.3,9.13(10.0%),7.65(_7.8%),10.27(23.7%),8.79(5.9%),8.73(5.18%),11.13(34.0%),11.75(41.6%)
+"Table 1: MAP and NDCG Results For Invitation Graph, Navigation Graph, and Hybrid PageRank(PR) and Log Fair Bets (LFB) approaches. The values in parentheses give the percentage improvement over Invitation Graph PageRank, treated as a baseline approach. ",,,,,,,,

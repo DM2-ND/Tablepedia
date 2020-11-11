@@ -1,0 +1,10 @@
+,Zarachy,Zarachy,Zarachy,Football,Football,Football,Polbooks,Polbooks,Polbooks,Amazon,Amazon,Amazon
+,NMI,ARI,Pur.,NMI,ARI,Pur.,NMI,ARI,Pur.,NMI,ARI,Pur.
+Attractor,0.859,0.939,1,0.923,0.897,0.93,0.559,0.68,0.857,0.931,0.58,0.998
+Ncut,0.833,0.882,0.97,0.923,0.897,0.93,0.534,0.645,0.829,-,-,-
+Modulairty,0.577,0.68,0.97,0.596,0.474,0.574,0.508,0.638,0.838,-,-,-
+Metis,0.836,0.882,0.97,0.393,0.095,0.339,0.502,0.516,0.781,0.761,0.092,0.989
+MCL,0.833,0.882,0.97,0.923,0.897,0.93,0.455,0.594,0.857,0.902,0.49,0.991
+Louvain,0.524,0.541,1,0.858,0.807,0.87,0.44,0.537,0.857,0.738,0.384,0.384
+Infomap,0.593,0.702,0.971,0.906,0.857,0.904,0.476,0.646,0.848,0.209,0.009,0.077
+Table 2: The performance of different graph clustering algorithms on labeled real-world networks. ,,,,,,,,,,,,

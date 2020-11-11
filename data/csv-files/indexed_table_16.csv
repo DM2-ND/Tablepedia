@@ -1,0 +1,7 @@
+,Accuracy,Accuracy,Accuracy,AUC,AUC,AUC
+,Amazon,IMDb,Yelp,Amazon,IMDb,Yelp
+Logistic w/ BOW on Documents,85.80%,86.20%,91.25%,88.08%,88.32,94.41
+Logistic w/ BOW on Sentences,88.30%,81.81%,78.16%,87.19%,82.67,67.87
+Logistic w/ Embeddings on Documents,67.82%,58.23%,81.00%,61.24%,60.77,82.59
+GICF w/ Embeddings on Sentences,92.80%,88.56%,,91.73%,88.36%,92.36%
+Table 3: Accuracy and Area-Under-the-Curve (AUC) scores for predicting labels at the group (document) level for the baselines and our proposed method (GICF). Training is always done at the group level. Testing on sentences corresponds to scoring each sentence separately and aggregating the results. BOW or embeddings corresponds to the features used. ,,,,,,

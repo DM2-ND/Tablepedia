@@ -1,0 +1,11 @@
+,Regular days,Regular days,Regular days,Regular days,Festivities,Festivities,Festivities,Festivities
+Day,funPSF,7-funPSF,ANN,ARIMA,funPSF,7-funPSF,ANN,ARIMA
+Monday,156.22,65.2,94.53,143.87,134.66,64.41,145.07,142.6
+Tuesday,84.08,65.64,84.18,141.42,257.26,359.83,312.26,253.67
+Wednesday,80.12,67.08,86.34,152.47,153.18,202.39,256.73,258.32
+Thursday,89,73.24,101.83,133.09,129,133.31,142.87,201.54
+Friday,87.61,76.15,111.06,140.29,79.29,106.58,121.72,163.51
+Saturday,72.11,69.24,117.02,145,42.41,40.15,99.03,241.8
+Sunday,100,54.8,120.34,153.32,87.33,42.7,117.77,145.61
+Average,95.59,67.34,102.19,144.21,126.16,135.62,170.78,201.01
+Table 5: MAE summary for type of the day. ,,,,,,,,

@@ -1,0 +1,6 @@
+Model,Diagnosis,Medication,Procedure
+SVD,0.1824,0.0843,0.1781
+Skip-gram,0.2251,0.1216,0.2432
+GloVe,0.4205,0.2163,0.3499
+Med2Vec,0.2328,0.1089,0.21
+"Table 3: Clustering NMI of the diagnosis, medication and procedure code representations of various models. All mod- els learned 200 dimensional code vectors. All models except SVD were trained for 10 epochs. ",,,

@@ -1,0 +1,7 @@
+,SmartPhone,SmartPhone,DBLP,DBLP
+,Level1,Level2,Level3,Level4
+CCM,-2.7,-0.66,-0.84,-0.9
+rCRP,-2.03,-0.32,-0.5,-0.43
+hPAM,-0.84 -0.72 -,-0.64,-0.51,-
+SSA,-2.78,-0.72,-0.83,-0.87
+"Table 2: The Context coherence . This shows the coherence of a concepts should decrease as the depth of the tree in- crease. For all datasets, CCM and SSA show as depth of the tree increases, the concepts scores decrease. However, in rCRP and hPAM the pattern is di erent.",,,,

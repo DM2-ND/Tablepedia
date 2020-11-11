@@ -1,0 +1,8 @@
+Source,DiMaC dBoost,DiMaC dBoost,DiMaC dBoost,DiMaC dBoost,DiMaC dBoost,FAHES SynPat,FAHES SynPat,FAHES SynPat,FAHES SynPat,FAHES SynPat,FAHES SynPat,FAHES SynPat,OD,OD
+,P,R,P,R,P,R,P,R,P,R,P,R,P,R
+UCI ML-Repo. 4,0.17,0.333,0.004,0.286,0.327,0.857,0.384,0.952,0.528,0.905,0.833,0.238,0.375,0.429
+data.gov 10,0.242,0.644,0.038,0.356,0.321,0.911,0.484,0.978,0.62,0.978,0.667,0.0444,0.596,0.689
+data.gov.uk 3,0.075,0.217,0.005,0.652,0.222,0.87,0.385,0.87,0.667,0.87,0.75,0.13,0.192,0.217
+MIT DWH 9,0.045,0.214,0.0005,0.077,0.135,0.571,0.371,0.929,0.5,0.714,0.8,0.286,0.188,0.214
+mass.gov 6,,,,,,0.575,0.522,0.725,0.633,0.475,0.5,0.038,0.532,0.413
+Table 5: The detection accuracy of the evaluated methods when applied to detect the DMVs on di erent data sets. ,,,,,,,,,,,,,,

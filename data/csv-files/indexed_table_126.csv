@@ -1,0 +1,19 @@
+,PBM (first step),PBM (first step),PBM (10_3 error),PBM (10_3 error),P-packSGD,P-packSGD,PSVM p = n0.5,PSVM p = n0.5,PSVM p = n0.6,PSVM p = n0.6,DC-SVM (10_3 error),DC-SVM (10_3 error)
+,time(s),acc(%),time(s),acc(%),time(s),acc(%),time(s),acc(%),time(s),acc(%),time(s),acc(%)
+webspam,16,99.07,360,99.26,1478,98.99,773,75.79,2304,88.68,8742,99.26
+covtype,14,96.05,772,96.13,1349,92.67,286,76,7071,81.53,10457,96.13
+cifar,15,85.91,540,89.72,1233,88.31,41,79.89,1474,69.73,13006,89.72
+mnist8m,321,98.94,8112,99.45,2414,98.6,-,-,-,-,-,-
+kddb,1832,88.59,32740,88.76,-,-,-,-,-,-,-,-
+"Table 2: Comparison on real datasets for kernel SVM. Here we use 32 machines (each machine with 1 thread) for all the distributed solvers (PBM, P-packSGD, PSVM), and 1 machine for the serial solver (DC-SVM).MPI+OpenMP Hybrid Implementation of PBM. The rst column of PBM shows that PBM achieves good test accuracy after 1 iteration, and  For kddb, we use 32 machines and 20 cores in each machine to test Note that ¡°-¡± indicates the training time is more than 10 hours. ",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

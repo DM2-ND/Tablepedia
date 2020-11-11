@@ -1,0 +1,11 @@
+title,ROBUST04,W10g,GOV2,desc,ROBUST04,W10g,GOV2
+title,MAP,MAP,MAP,MAP,MAP,MAP,MAP
+WSD,27.21,22.2,33.38,WSD,27.18,25.23,27.38
+WSD-UNI,26.85,21.88,33.43,WSD-UNI,27.17,24.86,26.77
+WSD-BI,26.75,20.65,32.58,WSD-BI,26.02,20.43,27
+,ROBUST04,W10g,GOV2,desc,ROBUST04,W10g,GOV2
+,MAP,MAP,MAP,MAP,MAP,MAP,MAP
+WSD,27.21,22.2,33.38,WSD,27.18,25.23,27.38
+WSD-ENDO,26.85,21.76,32.81,WSD-ENDO,27.07,23.28,26.95
+WSD-EXO,27.01,21.19,33.54,WSD-EXO,27.33,24.68,27.33
+"Table 6: Comparison of retrieval results for title (left) and description (right) TREC queries with either only unigram features (WSD-UNI), only bigram features (WSD-BI) or both. ",,,,,,,

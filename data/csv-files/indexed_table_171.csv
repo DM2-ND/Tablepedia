@@ -1,0 +1,7 @@
+Dataset,Yoochoose 1/64,Yoochoose 1/64,Yoochoose 1/4,Yoochoose 1/4,Diginetica,Diginetica
+Measures,P@20,MRR@20,P@20,MRR@20,P@20,MRR@20
+STMP,60.59,21.7,62.92,24.52,57.2,21.55
+SRMP,67.79,28.63,69.19,28.94,60.91,25.34
+STAMP,65.19,24.95,67.96,26.67,60.15,24.47
+STAMP,68.74,29.67,70.44,30,62.03,27.38
+Table 5: Impacts of the last-click. ,,,,,,

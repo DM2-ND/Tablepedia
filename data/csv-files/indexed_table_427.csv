@@ -1,0 +1,6 @@
+Method,LA,LA,LA,NY,NY,NY
+,P,R,F1,P,R,F1
+EvenTweet,0.132,0.212,0.163,0.108,0.196,0.139
+GeoBurst,0.282,0.451,0.347,0.212,0.384,0.273
+GeoBurst+,0.368,0.483,0.418,0.351,0.465,0.401
+"Table 2: e performance of di erent methods. ¡®P¡¯ is precision, ¡®R¡¯ is pseudo recall; and ¡®F1¡¯ is pseudo F1 score. ",,,,,,

@@ -1,0 +1,15 @@
+Models,Accuracy,F1-score,Accuracy,F1-score
+,(K=1),(K=1),(K=2),(K=2)
+uDeepWalk,68.95,61.79,68.95,61.79
+LDA,64.16,59.13,64.16,59.13
+IAD,73.5,65.58,74.03,66.52
+hDeepWalk,73.49,66.74,73.38,66.65
+metapath2vec,71.47,61.37,71.61,61.21
+HUCE,77.27,71.86,77.23,71.81
+,Accuracy,F1-score,Accuracy,F1-score
+,(d=20),(d=20),(d=30),(d=30)
+HUCE-U,64.4,55.7,70.08,64.53
+HUCE-M,71.22,64.6,69.13,59.32
+HUCE-UM,73.68,67.72,71.18,63.76
+HUCE (K = 1),77.41,72.19,77.27,71.86
+Table 1: Performance of HUCE compared to baselines (%) ,,,,

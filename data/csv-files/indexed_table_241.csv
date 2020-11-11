@@ -1,0 +1,7 @@
+Data,Positive,Positive,Positive,Neutral,Neutral,Negative,Negative
+,Size,Train,Test,Train,Test,Train,Test
+Camera,649,164,61,250,113,36,25
+DVD Player,828,135,60,273,124,173,63
+MP3,2016,349,167,834,334,225,107
+Laptop,2966,994,341,464,169,870,128
+Table 1: Statistics of the datasets in Gold Data. ,,,,,,,

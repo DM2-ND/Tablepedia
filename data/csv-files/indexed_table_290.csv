@@ -1,0 +1,11 @@
+,No change,No change,Change pnoise = 0.05,Change pnoise = 0.05,Change pnoise = 0.05,Change pnoise = 0.05,Change pnoise = 0.10,Change pnoise = 0.10,Change pnoise = 0.10
+,bootstrap,cv,split,bootstrap,cv,split,bootstrap,cv,split
+McNemar non-prequential,0.71,0.52,0.66,0.86,0.8,0.73,0.88,0.84,0.75
+McNemar prequential,0.77,0.8,0.42,0.88,0.94,0.56,0.9,0.95,0.58
+Sign test non-prequentiall,0.11,0.11,0.1,0.77,0.82,0.44,0.82,0.88,0.5
+Sign test prequential,0.12,0.12,0.09,0.77,0.83,0.44,0.82,0.89,0.5
+Wilcoxon non-prequential,0.11,0.11,0.14,0.79,0.84,0.51,0.83,0.9,0.55
+Wilcoxon prequential,0.11,0.1,0.19,0.8,0.84,0.54,0.83,0.91,0.59
+Avg. time non-prequential (s),883,1105,415,877,1121,422,900,1148,421
+Avg. time prequential (s),813,1202,109,820,1214,111,808,1294,112
+"Table 2: Average fraction of null hypothesis rejection for different combinations of validation procedures and statistical tests, aggregated over all datasets. The first column group concerns Type I errors, and the other two column groups concern Type II errors. ",,,,,,,,,

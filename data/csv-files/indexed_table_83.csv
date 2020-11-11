@@ -1,0 +1,6 @@
+,,F_S,F_S,F_L,F_L
+Model,Input Embedding,HR,NDCG,HR,NDCG
+HASC,Base,0.3722,0.2559,0.4438,0.3143
+HASC,Base+Auxi,0.3869,0.2681,0.4566,0.3268
+HASC,Base+Auxi+Visual,0.3937,0.2737,0.4681,0.3356
+"Table 3: The effect of different input information for attention model- ing, with ¡°Base¡± denotes the base embedding, ¡°Auxi¡± denotes the auxil- iary embedding and ¡°Visual¡± denotes the visual feature. ",,,,,

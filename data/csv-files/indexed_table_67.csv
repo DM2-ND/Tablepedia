@@ -1,0 +1,12 @@
+,Characteristics,Characteristics,#Cluster,#Max members
+Datasets,# Node,# Edg,RankCom,RankCom
+karate,34,78,2,18
+dolphins,62,159,3,29
+us-football,115,613,11,17
+polblogs,"1,224","19,090",7,675
+ca-hepth,"9,877","25,998",995,446
+ca-condmat,"23,133","93,497","2,456",797
+email-enron,"36,692","183,831","3,888","3,914"
+youtube,"334,863","925,872","15,863","37,255"
+dblp,"317,080","1,049,866","25,633","1,099"
+Table 2: Summary of datasets and their cluster proles. ,,,,

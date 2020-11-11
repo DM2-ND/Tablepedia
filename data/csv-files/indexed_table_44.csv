@@ -1,0 +1,35 @@
+Query,CA,CA,CA,NY,NY,NY
+Query,G,Y,T,G,Y,T
+google,20,20,2851,20,20,1760
+egypt,10,10,188,,,
+siri,10,10,314,,,
+tax,60,60,1439,60,60,1254
+greece/greek,10,10,314,,,
+election,20,20,246,20,20,190
+nba,70,70,1714,80,80,1598
+education,10,10,1090,,,
+financial/finance k documents containing qi returned from news search engine.kobe bryant,,,,90,90,1272
+military/army,20,20,1640,,,
+revolution,30,30,350,30,30,281
+economy/economic,60,60,984,80,80,753
+vacation,20,20,889,20,20,699
+insurance,10,10,783,,,
+obama,50,50,2482,70,70,1794
+ncaa,40,40,481,50,50,240
+cnn,20,20,487,20,20,468
+christmas,50,50,25099,70,70,19096
+iran,20,20,323,20,20,307
+"R(qi, Nj) is provided by Turkers from three states.discount",60,60,477,60,60,1003
+britney spears,10,10,443,,,
+clinton,10,10,409,,,
+debt,10,10,473,,,
+republication,70,70,1728,70,70,1320
+"ing, CTVM ranking with local state tweets and CTVM rank-euro",40,40,423,50,50,496
+lady gaga,60,60,986,60,60,1508
+lebron james,20,20,1082,20,20,902
+stock,50,50,1492,70,70,1461
+nfl,60,60,2277,60,60,1225
+health care,30,30,468,30,30,243
+china,30,30,1317,40,40,945
+gay/lesbian,20,20,2887,20,20,2214
+Table 1: Data summary: G and Y indicate total # of Google and Yahoo news results evaluated by Amazon Turkers; T indicates # of tweets per day ,,,,,,

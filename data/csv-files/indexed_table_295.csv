@@ -1,0 +1,21 @@
+,PPI data (Method/F1),PPI data (Method/F1),PPI data (Method/F1),PPI data (Method/F1),PPI data (Method/F1)
+,SVD,LINE,BPR,LIWINE,PAWINE
+N1,0.301,0.352,0.405,0.412,0.427
+N1,0.114,0.213,0.265,0.268,0.282
+,SVD#,LINE#,BPR#,LIWINE#,PAWINE#
+N2,0.299,0.364,0.393,0.393,
+N2,0.121,0.225,0.251,0.237,
+,SVD##,DeepWalk,BPR##,LIWINE##,PAWINE##
+N3,0.349,0.392,0.311,0.335,0.326
+N3,0.19,0.249,0.175,0.206,0.186
+,J1,J2,,J3,J2+J3
+,SVD,LINE,BPR,LIWINE,PAWINE
+N1,0.281,0.388,0.396,0.404,0.41
+N1,0.108,0.246,0.266,0.263,0.274
+,SVD#,LINE#,BPR#,LIWINE#,PAWINE#
+N2,0.284,0.373,0.385,0.372,0.383
+N2,0.112,0.263,0.262,0.226,0.25
+,SVD##,DeepWalk,BPR##,LIWINE##,PAWINE##
+N3,0.365,0.397,0.365,0.372,0.351
+N3,0.22,0.261,0.221,0.223,0.21
+Table 4: Systematic evaluations of network embedding meth- ods on the multi-label prediction task. Each cell contains the method name and its Micro-F1 and Macro-F1 scores. The pro- posed methods outperform the existing methods. ,,,,,

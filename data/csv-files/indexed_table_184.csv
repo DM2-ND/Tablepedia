@@ -1,0 +1,8 @@
+Validation metric,LFR (μ=0.1),LFR (μ=0.3),LFR (μ=0.6),Football,Railway,Coauthorship
+NMI,0.04; 0.00,0.15; 0.05,-0.31; -0.78,0.04; 0.00,0.15; 0.11,0.04; -0.06
+ARI,0.06; 0.00,0.21; 0.02,-0.39; -0.76,0.07; 0.00,0.03; 0.04,0.03; -0.08
+PU,0.04; 0.00,0.17; 0.00,-0.38; -0.72,0.01; 0.00,0.13; 0.00,0.03; -0.06
+W-NMI,0.02; 0.00,0.14; 0.00,-0.41; -0.78,0.09; 0.00,0.26; 0.00,0.05; -0.01
+W-ARI,0.05; 0.02,0.19; 0.05,-0.35; -0.72,0.05; 0.00,0.02; -0.15,0.04; -0.06
+W-PU,0.03; 0.01,0.17; 0.00,-0.45; -0.79,0.00; 0.00,0.05; -0.04,0.02' -0.15
+Table 4: Improvement of Max Permanence with respect to the average (left-hand value) and the best (right- hand value) performances of the six competing algorithms (separated by semicolon). Positive (negative) values indicate that Max Permanence outperforms (underperforms) the corresponding performances of the competing algorithms. ,,,,,,

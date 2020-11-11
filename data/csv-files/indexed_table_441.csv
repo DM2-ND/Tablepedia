@@ -1,0 +1,11 @@
+,F1 score,F1 score,F1 score,F1 score,F1 score,F1 score,Jaccard similarity,Jaccard similarity,Jaccard similarity,Jaccard similarity,Jaccard similarity,Jaccard similarity,
+Method,Google+,Twitter,Facebook,Google+,Twitter,Facebook,Google+,Twitter,Facebook,Google+,Twitter,Facebook,Average
+MMSB [3],0.324,-0.033,0.262,-0.005,0.374,-0.042,0.214,-0.026,0.169,-0.004,0.266,-0.036,0.268
+Clique percolation [34],0.331,-0.036,0.246,-0.006,0.429,-0.051,0.24,-0.032,0.163,-0.005,0.342,-0.05,0.292
+Link clustering [2],0.304,-0.016,0.334,-0.003,0.372,-0.027,0.226,-0.016,0.238,(0.003)2,0.275,-0.024,0.291
+BigCLAM [43],0.324,-0.017,0.344,-0.005,0.442,-0.042,0.217,-0.014,0.234,-0.004,0.325,-0.038,0.315
+DEMON [11],0.343,-0.029,0.308,-0.005,0.418,-0.046,0.255,-0.027,0.21,-0.005,0.311,-0.041,0.307
+NMF [29],0.333,-0.019,0.318,-0.004,0.406,-0.038,0.242,-0.026,0.221,-0.004,0.301,-0.05,0.303
+"CoDA, undirected",0.414,(0.027)1,0.348,(0.005)2,0.47,(0.042)1,0.314,(0.026)1,0.237,-0.004,0.357,(0.039)1,0.3572
+"CoDA, directed",0.406,(0.025)2,0.363,(0.005)1,0.47,(0.042)1,0.314,(0.024)1,0.25,(0.004)1,0.357,(0.039)1,0.3601
+"Table 2: Performance on Facebook, Google+, and Twitter. Higher is better. Standard errors are shown in parentheses. The best and second best methods are annotated as ¡®1¡¯ and ¡®2¡¯. ",,,,,,,,,,,,,

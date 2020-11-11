@@ -1,0 +1,7 @@
+Metric,ListMLE,CoList (λ=0),CoList (λ=1)
+ERR,0.437,0.445 _,0.440_
+NDCG@1,0.663,0.684 _,0.662
+NDCG@3,0.643,0.660 _,0.646
+NDCG@5,0.651,0.665 _,0.656 _
+NDCG@10,0.652,0.664_,0.657_
+Table 4: The comparison of ranking performance in single domain based on Yahoo Set2. * indicates significantly better than baseline ListMLE at 99% confidence level according to paired two-tailed t-test ,,,

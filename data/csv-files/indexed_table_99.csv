@@ -1,0 +1,8 @@
+Category,Network,Classes,Smallest,Nodes,Edges
+Collaboration,DBLP,20,1.91%,"2,309","7,913"
+Collaboration,SO,2,1.29%,"3,262","19,926"
+NLP,Citeseer,6,3.42%,"3,327","4,732"
+NLP,Cora,7,1.14%,"2,708","5,429"
+NLP,Pubmed,3,4.05%,"19,717","44,338"
+Social,Epinion,19,1.38%,"75,879","508,837"
+Table 1: Statistics of the network data sets. ,,,,,

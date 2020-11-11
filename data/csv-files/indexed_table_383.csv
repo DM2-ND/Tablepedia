@@ -1,0 +1,8 @@
+Methods,Average Clustering Accuracy (ACC),Average Clustering Accuracy (ACC),Average Clustering Accuracy (ACC),Average Clustering Accuracy (ACC),Average Clustering Accuracy (ACC),Normalized Mutual Information (NMI),Normalized Mutual Information (NMI),Normalized Mutual Information (NMI),Normalized Mutual Information (NMI),Normalized Mutual Information (NMI)
+Methods,AWA4K,Dslr,Pendigits,TDT2,avg,AWA4K,Dslr,Pendigits,TDT2,avg
+GAE (w/o regularizer),0.641,0.5363,0.6761,0.547,0.6001,0.7381,0.5566,0.701,0.7451,0.6852
+VGAE (KL regularizer),0.6557,0.5325,0.7193,0.5431,0.6127,0.7491,0.5601,0.717,0.744,0.6926
+AGAE (GAN regularizer),0.679,0.5554,0.7817,0.6052,0.6553,0.7669,0.5841,0.7415,0.7632,0.7139
+AGAE over GAE,0.038,0.0191,0.1056,0.0582,0.0552,0.0288,0.0275,0.0405,0.0181,0.0287
+AGAE over VGAE,0.0233,0.0229,0.0624,0.0621,0.0427,0.0178,0.024,0.0245,0.0192,0.0214
+Table 4: Ablation study on four datasets by NMI and ACC (red color denotes the best and blue the runner-up) ,,,,,,,,,,

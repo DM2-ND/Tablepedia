@@ -1,0 +1,6 @@
+,WKB Lexicon,WKB Lexicon,WKB Lexicon,WKB Lexicon,SentiStrength,SentiStrength
+Tracts,# Tract,Valence,Arousal,Dominance,Positive,Negative
+All LA Tracts,1718,4.776,3.493,4.633,1.588,-1.411
+Tracts with Check-ins,687,4.87,3.534,4.712,1.598,-1.393
+Tracts with >3 Check-ins,101,5.001,3.593,4.825,1.6,-1.362
+"Table 1: Sentiment analysis of tweets from census tracts. The first three columns give the mean values of valence, arousal and dominance of all tweets from the given set of tracts as measured using Warriner¡¯s lexicon. The last two columns and the mean values of positive and negative sentiment measured by SentiStrength from the same tweets. ",,,,,,

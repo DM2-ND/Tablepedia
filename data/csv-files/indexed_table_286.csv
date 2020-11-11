@@ -1,0 +1,11 @@
+Task,Classification,Classification,Regression
+Metric,Accuracy,F-score,RMSE
+DMVM w/o Alph.,0.8125,0.8164,3.9833
+DMVM w/o Spec.,0.9008,0.9034,3.8166
+DMVM w/o Accel.,0.8318,0.8253,3.9499
+DMVM w/ all,0.9031,0.907,3.5664
+DFM w/ Alph.,0.8322,0.8224,3.9515
+DFM w/ Spec.,0.626,0.5676,4.104
+DFM w/ Accel.,0.8015,0.8089,3.9722
+DFM w/ all,0.9021,0.9011,3.6767
+Table 4: Prediction performance using di erent views of the metadata. ,,,

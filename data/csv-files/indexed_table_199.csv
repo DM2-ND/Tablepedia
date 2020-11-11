@@ -1,0 +1,8 @@
+Method,HMR(author),HMR(conference),HMR(keyword),HMR(reference)
+LINE,829.06,4.61,27.87,227.24
+DeepWalk,796.24,4.32,23.2,100.39
+node2vec,660.87,4.41,23.6,89.53
+metapath2vec,543.31,4.31,20.43,109.02
+LearnSuc-Pn,333.94,4.39,19.59,65.17
+LearnSuc-Pt,266.32,4.2,18.72,64.89
+Table 3: e Harmonic Mean of Ranks (HMR) of network embedding methods and our itemset embedding methods on recom- mending an item for given itemset. A smaller HMR indicates a better recommendation method. ,,,,

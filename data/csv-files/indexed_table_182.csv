@@ -1,0 +1,7 @@
+Algorithm,Precision,Recall,F1,Accuracy
+Textual,0.832,0.638,0.722,0.688
+Visual,0.762,0.715,0.737,0.677
+Early Fusion,0.776,0.74,0.758,0.7
+Late Fusion,0.799,0.738,0.767,0.716
+CCR,0.886,0.73,0.8,0.769
+Table 5: Performance on the AMT manually labeled data set by different approaches. ,,,,

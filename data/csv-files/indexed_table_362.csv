@@ -1,0 +1,23 @@
+,,Cora 20 - 50,Cora 20 - 50,Cora 20 - 50,Cora 20 - 100,Cora 20 - 100,Cora 20 - 100,Cora 50 - 100,Cora 50 - 100,Cora 50 - 100
+smin - smax,Block similarity measure _,Single,Average,Complete,Single,Average,Complete,Single,Average,Complete
+Size-based,PC,83.45,84.19,80.9,92.95,92.24,81.95,92.95,91.55,85.9
+Size-based,FM,96.86,97.03,97.01,96.2,96.35,96.5,93.64,93.61,93.63
+Size-based,PC,89.66,90.16,88.23,94.55,94.25,88.63,93.29,92.57,89.6
+Similarity-Based,PC,87.77,88.27,85.52,92.95,92.95,92.95,93.07,92.97,92.95
+Similarity-Based,FM,96.51,96.61,96.71,95.64,96.09,96.14,92.8,93.28,93.55
+Similarity-Based,PC,91.93,92.25,90.77,94.28,94.49,94.52,92.93,93.12,93.25
+,,Single,Average,Complete,Single,Average,Complete,Single,Average,Complete
+Size-based,PC,89.64,88.72,87.49,93.65,93.32,91.57,97.44,96.77,95.92
+Size-based,FM,99.95,99.95,99.95,99.89,99.89,99.9,99.47,99.48,99.48
+Size-based,PC,94.51,94,93.31,96.67,96.49,95.55,98.44,98.11,97.67
+Similarity-Based,PC,90.43,90.24,89.33,93.76,93.82,93.18,97.32,97.27,97.42
+Similarity-Based,FM,99.94,99.94,99.95,99.88,99.89,99.89,99.38,99.44,99.45
+Similarity-Based,PC,94.95,94.84,94.34,96.72,96.76,96.42,98.34,98.34,98.42
+,,Single,Average,Complete,Single,Average,Complete,Single,Average,Complete
+Size-based,PC,96.17,96.25,96.15,96.49,96.53,96.48,96.63,96.64,96.63
+Size-based,FM,99.81,99.82,99.82,99.07,99.08,99.09,98.19,98.16,98.19
+Size-based,PC,97.96,98,97.95,97.76,97.79,97.77,97.4,97.39,97.4
+Similarity-Based,PC,96.17,96.35,96.32,96.5,96.57,96.55,96.67,96.68,96.66
+Similarity-Based,FM,99.79,99.8,99.81,98.96,99.01,99.07,98,98.03,98.05
+Similarity-Based,PC,97.95,98.04,98.03,97.71,97.77,97.79,97.33,97.35,97.35
+"Table 2: Effects of parameter settings on PC, RR and F-Measure for Cora, UKCD, and NCVR-450, showing different configurations of smin, smax and the three different block similarity measures (_) single link, average link, and complete link. The best value(s) in each row is shown in bold. ",,,,,,,,,,

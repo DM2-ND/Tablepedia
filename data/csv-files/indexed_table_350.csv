@@ -1,0 +1,7 @@
+Metric,R@1,R@2,R@3,R@4,R@5,NDCG
+LR,92.30%,57.27%,35.68%,23.17%,12.83%,18.67%
+RankSVM,124.54%,75.36%,47.71%,32.04%,19.80%,25.99%
+PSGD,128.73%,77.21%,48.62%,32.74%,20.00%,26.64%
+FOBOS,128.27%,75.73%,48.39%,32.04%,19.16%,26.16%
+RDA,129.03%,76.26%,48.37%,32.08%,19.13%,26.33%
+"Table 1: Highest R@K achieved by each one of the considered algorithms (over the test set) after one training pass. R@K is reported in terms of relative improvement (in percentage) over the values achieved by ranking the recommendations uniformly at random. ElasticRank (listwise) is more accurate than RankSVM (pairwise), which in turn outperforms LR (pointwise). ",,,,,,

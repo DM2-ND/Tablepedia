@@ -1,0 +1,8 @@
+,Twitter,YelpReview,YelpReview
+,Prec,Recall,Recall
+LR,0.91,0.867,0.869
+SVM,0.936,0.911,0.907
+RF,0.952,0.952,0.952
+NN,0.894,0.879,0.89
+ESM,0.944,0.927,0.925
+"Table1: Spammer detection performance of the proposed framework. Each triple represents the performance: without adver- training (with l2 adversarial training, with l1 adversarial training). ",,,

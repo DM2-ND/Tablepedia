@@ -1,0 +1,10 @@
+Method,SN-TWebio,SN-TWebio,SN-TWebio,SN-Twitter,SN-Twitter,SN-Twitter
+Method,MAP@10,MAP@50,MAP@100,MAP@10,MAP@50,MAP@100
+HOPE,0.2295,0.1869,0.169,0.1,0.0881,0.0766
+PPE,0.0928,0.0845,0.077,0.0061,0.0077,0.0081
+LINE1,0,0,0.005,0.0209,0.0221,0.0221
+LINE2,0.051,0.051,0.048,0.0044,0.0043,0.0035
+DeepWalk,0.0635,0.0583,0.004,0.0006,0.0008,0.001
+Common Neighbors,0.1217,0.1031,0.155,0.0394,0.0379,0.0369
+Adamic-Adar,0.1173,0.099,0.156,0.0455,0.0442,0.0423
+"Table 3: MAP of vertex recommendation on SN-TWeibo and SN-Twitter. For each vertex, the recommended vertex list is ranked according to the predicted proximity between vertexes. For embedding algorithms, we calculate the predicted proximity by performing inner product between embedding vectors. ",,,,,,

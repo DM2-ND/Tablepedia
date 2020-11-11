@@ -1,0 +1,8 @@
+,Long Documents,Long Documents,Long Documents,Long Documents,Long Documents,Long Documents,Short Documents,Short Documents,Short Documents,Short Documents
+Name,20ng,Wiki,IMDB,Corporate,Economics,Government,Market,Dblp,Mr,Twitter
+Train,"11,314","1,911,617*","25,000","245,650","77,242","138,990","132,040","61,479","7,108","800,000"
+Test,"7,532","21,000","25,000","122,827","38,623","69,496","66,020","20,000","3,554","400,000"
+|V|,"89,039","913,881","71,381","141,740","65,254","139,960","64,049","22,270","17,376","405,994"
+Doc. length,305.77,672.56,231.65,102.23,145.1,169.07,119.83,9.51,22.02,14.36
+#classes,20,7,2,18,10,23,4,6,2,2
+Table 2: Results of text classification on long documents. ,,,,,,,,,,

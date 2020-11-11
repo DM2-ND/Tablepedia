@@ -1,0 +1,13 @@
+,Enron Corpus,Enron Corpus,Twitter Corpus,Twitter Corpus,Twitter Corpus,Twitter Corpus
+,N,Cut Ja,Jrm,N,Cut Ja,Jrm
+Net-LDA,6.28,1.23,0.5753,7.432,1.189,0.698
+SN-LDA,6.083,1.616,1.134,6.953,1.457,
+TUCM,10.563,0.672,0.413,9.112,0.657,0.442
+TURCM-1,9.584,0.695,0.441,9.938,0.623,0.425
+TURCM-2,8.235,0.701,0.452,8.887,0.729,0.461
+Full TURCM,8.137,0.921,0.563,9.115,0.696,0.451
+CART,11.375,0.694,0.481,10.976,0.605,0.41
+CUT,10.122,0.705,0.456,10.785,0.627,0.422
+MMSB,7.98,1.266,0.646,8.463,1.198,0.606
+Naiive SN-LDA,13.184,0.296,0.28,10.847,0.418,0.416
+Table 3: Network Quality Measures on Enron and Twitter ,,,,,,

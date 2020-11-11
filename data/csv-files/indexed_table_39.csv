@@ -1,0 +1,13 @@
+,Yahoo LTRC,Yahoo LTRC,MSLR MQ2008 Folds,MSLR MQ2008 Folds,MSLR MQ2008 Folds,MSLR MQ2008 Folds,MSLR MQ2008 Folds
+method,Set 1,Set ,F1,F2,F3,F4,F5
+GBRT (d=4),0.461,0.458,0.361,0.358,0.355,0.367,0.373
+pGBRT (d=4),0.458,0.459,0.346,0.341,0.342,0.343,0.357
+pGBRT (d=5),0.46,0.46,0.355,0.348,0.355,0.353,0.367
+pGBRT (d=6),0.461,0.46,0.355,0.354,0.357,0.363,0.367
+,Yahoo LTRC,Yahoo LTRC,MSLR MQ2008 Folds,MSLR MQ2008 Folds,MSLR MQ2008 Folds,MSLR MQ2008 Folds,MSLR MQ2008 Folds
+,Set 1,Set ,F1,F2,F3,F4,F5
+GBRT (d=4),0.789,0.765,0.495,0.493,0.484,0.498,0.5
+pGBRT (d=4),0.782,0.743,0.474,0.469,0.466,0.473,0.479
+pGBRT (d=5),0.785,0.754,0.483,0.479,0.479,0.484,0.491
+pGBRT (d=6),0.785,0.76,0.486,0.484,0.482,0.491,0.495
+"Table 2: Results in ERR and NDCG on the Yahoo and Microsoft data sets. The number of boosting iterations is selected with the validation data set. On both Yahoo sets, pGBRT matches the result of GBRT with d = 4 when the tree depth is increased. For the Microsoft sets, the ranking results tend to be slightly lower. ",,,,,,,

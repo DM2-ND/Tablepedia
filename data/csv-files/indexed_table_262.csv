@@ -1,0 +1,6 @@
+,Avg.Nodes,Avg.Degree,Diameter,Path-length
+Network,Avg.Nodes,Avg.Degree,Diameter,Path-length
+Erdos-Renyi,"5,000",6,9.3,4.9
+Small-World,"5,000",6,11.8,7
+Scale-Free,"5,000",6,7,4
+Table 3: Performance in Random and Stylized Networks ,,,,

@@ -1,0 +1,15 @@
+,Original Messages,Original Messages,Spell-Corrected,Spell-Corrected,Spell-Corrected,Spell-Corrected
+Dataset,Keywords,Na_ve Bayes,SVM,Keywords,Na_ve Bayes,SVM
+education,79.8,78.7,77.2,80.1,86.9,77.6
+emergency,60.8,60.8,67.8,61.6,69.7,69.1
+employment,80.5,67,78.9,81.3,77.8,79.8
+energy,90,78.3,88.2,72.2,85.2,89.4
+family,55.3,54.3,66.2,55.9,64.9,67.5
+health,77.5,84.5,81,77.6,89.8,82.2
+orphans,56.4,65.3,68.2,57.7,75.9,69
+social,58.8,60.7,66.3,62.6,71.8,66.8
+u-report,64.8,88.2,76.8,65.1,90,76.5
+violence,64.7,65.2,68.5,65.9,75.4,70.5
+water,94.4,89,91.8,94.4,94,92.3
+Mean,71.2,72,75.5,70.4,80.1,76.4
+"Table 1: Performance in terms of AUC of baseline keyword matching approach, text classifiers and spell- correction. Statistically significant improvements over Keywords (Column 2) are presented in bold. ",,,,,,

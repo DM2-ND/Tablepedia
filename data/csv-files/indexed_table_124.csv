@@ -1,0 +1,13 @@
+,Baselines,Baselines,Baselines,Baselines,Temporal SSM Models,Temporal SSM Models,Temporal SSM Models,Temporal SSM Models
+Query Type,AVG,LIN,POW,YES,SMOOTH,TREND,PERIODIC,TREND+
+General,0.02,0.02,0.02,0.02,0.01,0.02,0.01,0.01
+Dynamic,0.77,0.75,0.71,0.72,0.73,0.72,0.74,0.76
+Temp Reform,0.31,0.3,0.27,0.27,0.32,0.29,0.78,0.72
+Alternating,0.49,0.49,0.48,0.47,0.51,0.51,0.41,0.42
+,Baselines,Baselines,Baselines,Baselines,Temporal SSM Models,Temporal SSM Models,Temporal SSM Models,Temporal SSM Models
+,AVG,LIN,POW,YES,SMOOTH,TREND,PERIODIC,TREND+
+General,0.16,0.2,0.2,0.16,0.12,0.14,0.42,0.23
+Dynamic,0.28,0.4,0.39,0.41,0.29,0.28,0.2,0.2
+Temp Reform,0.53,0.68,0.67,0.69,0.66,0.69,0.58,0.58
+Alternating,0.08,0.12,0.11,0.13,0.13,0.13,0.17,0.16
+Table 2: URL number of click prediction Error (lower numbers indicate higher performance). Statistically significant results are shown in bold. ,,,,,,,,

@@ -1,0 +1,8 @@
+Cohort,Accuracy,Precision,Recall,FPR
+Unactivated,98,43,100,2
+New users,78,50,53,15
+One-time buyers,95,37,32,2
+Sporadic buyers,81,41,37,10
+Power users,77,89,83,64
+Overall,93,50,62,4
+"Table 1: The accuracy, precision, recall, and false positive rate (FPR) for each purchase cohort and overall for our stage 1 model. All results are per- centages. ",,,,

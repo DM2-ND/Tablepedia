@@ -1,0 +1,10 @@
+,all collaborators,all collaborators,only new collaborators,only new collaborators,only new collaborators,only new collaborators
+,TopScore@10,Recall@10,MRR,TopScore@10,Recall@10,MRR
+dist,62.5,48.1,0.349,10,7.14,0.046
+cdist,62.5,47.63,0.443,12.5,8.91,0.065
+tdist,66,55.15,0.444,14.5,11.47,0.064
+ad,6,3.3,0.027,15,11.26,0.067
+tfidf,38,27.57,0.235,10,7.64,0.054
+collab,27.5,22.86,0.185,16,11.65,0.081
+SoCScore,66.5,55.43,0.425,20.5,16.09,0.113
+Table 1: Experimental evaluation of score functions ,,,,,,

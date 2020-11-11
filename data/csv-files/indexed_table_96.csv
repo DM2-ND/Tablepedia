@@ -1,0 +1,8 @@
+,Senate,Senate,Senate,News,News,News,News
+Number of opinion words,Republican,Democrat,Total,NYT,Xinhua,Hindu,Total
+Number of documents,"4,097","9,876","13,973","8,225","4,177","3,731","16,133"
+Number of sentences,"137,688","285,804","423,492","219,766","48,111","57,513","325,390"
+Number of words,"3,358,239","7,340,255","10,698,494","5,753,693","1,715,817","599,222","7,868,732"
+Number of topic words,"697,003","1,546,911","2,243,914","1,185,518","396,464","125,804","1,707,786"
+Number of opinion words,"768,367","347,709","1,116,076","573,560","200,546","158,176","932,282"
+Table 2: Statistics of the Senate and News testbeds ,,,,,,,

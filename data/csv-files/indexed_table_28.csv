@@ -1,0 +1,16 @@
+,adj queries(ns),adj queries(ns),Neigh. queries(ns),Neigh. queries(ns)
+dataset ,comp.,SNAP,comp.,SNAP
+amazon0302 ,800,750,951,72
+amazon0312 ,1170,790,1753,46
+ca-CondMat ,390,420,777,30
+ca-HepPh ,520,400,1849,19
+cit-HepPh ,1300,480,2745,28
+cit-Patents ,1400,930,1842,91
+email-Enron ,620,500,5539,31
+email-EuAll ,530,670,21518,148
+p2p-Gnutella08 ,640,320,1663,34
+p2p-Gnutella24 ,600,320,1488,50
+soc-LiveJournal1 ,3050,1130,9734,49
+soc-Slashdot0902 ,1380,610,7884,35
+web-Google ,810,830,,
+Table 4: The average access time per edge for processing adjacency queries and (in+out) neighbor queries. ,,,,

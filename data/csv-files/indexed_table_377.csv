@@ -1,0 +1,6 @@
+Attribute,Cluster 0,Cluster 0,Cluster 1,Cluster 1,Cluster 2,Cluster 2,Cluster 3,Cluster 3
+Attribute,avg,cv,avg,cv,avg,cv,avg,cv
+Number of Venues,21.99,0.94,1.97,0.52,13.23,0.52,43.81,1.41
+Percentage of Tips with Links,83.11,0.2,3.88,2.35,0.62,5.21,7.02,1.71
+Number of Dones and To-Dos,20.41,1.82,7.35,1.52,29.53,2.09,1350.58,5.48
+Table2: Summary of User Attributes Across Clusters ,,,,,,,,

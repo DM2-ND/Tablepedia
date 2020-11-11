@@ -1,0 +1,6 @@
+,AD vs. Normal,AD vs. Normal,AD vs. Non-converter,AD vs. Non-converter,AD vs. Non-converter,AD vs. Non-converter,Converter vs. Normal,Converter vs. Normal,Converter vs. Normal
+,Accuracy,Sensitivity,Specificity,Accuracy,Sensitivity,Specificity,Accuracy,Sensitivity,Specificity
+Baseline,87.72%,100.00%,63.16%,76.19%,65.79%,84.78%,83.02%,97.06%,57.89%
+iMSF-Average,95.79%,97.37%,92.63%,84.05%,79.47%,87.83%,88.68%,90.59%,85.26%
+ScoreComp-EM,98.25%,97.37%,100.00%,83.33%,65.79%,97.83%,84.91%,97.06%,63.16%
+"Table 4: Classification comparison of using multi-modality data (iMSF and ScoreComp) and using the complete MRI + CSF + PET + Proteomics data. Classification is performed on the same set of samples, so that a fair comparison can be made. Leave-one-out is used and the accuracy, sensitivity and specificity are reported. ",,,,,,,,,

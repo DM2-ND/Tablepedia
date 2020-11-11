@@ -1,0 +1,25 @@
+Corpus,Model,MSE,LogLikelihood,MAP,F1,nbParams
+Irvine,IC,"15,31","-960,5","0,079","0,020",74871
+Irvine,NetRate,"15,42","-892,13","0,078","0,019",74871
+Irvine,CTIC,"15,29","-771,42_","0,080","0,020",149742
+Irvine,Embedded IC,"14,53","-532,5_","0,079","0,025_",42350
+ICWSM,IC,"0,2","-8,3","0,77","0,651",4775
+ICWSM,NetRate,"0,23","-9,01","0,72","0,357",4775
+ICWSM,Embedded IC,"0,19","-6,14_","0,78","0,651",113500
+MemeTracker,IC,"32,62","-795,85","0,22","0,0585",229073
+MemeTracker,NetRate,"34,55","-850,48","0,17","0,0442",229073
+MemeTracker,CTIC,"33,27","-802,52","0,22","0,0551",458146
+MemeTracker,Embedded IC,"32,15","-791,3","0,23","0,0632_",24900
+Digg,IC,"2,1","-69,5","0,411","0,201",689416
+Digg,NetRate,"1,95","-64,01_","0,409","0,199",689416
+Digg,CTIC,"1,92","-64,18_","0,413","0,201",1378832
+Digg,Embedded IC,"1,79","-51,75_","0,434_","0,198",164750
+Twitter,IC,"6,70","-412,75","0,047","0,012",884832
+Twitter,NetRate,"6,91","-428,78","0,039","0,011",884832
+Twitter,CTIC,"6,72","-401,56","0,049","0,012",1769664
+Twitter,Embedded IC,"5,47","-223,15_","0,056_","0,013",142050
+LastFM,IC,"12,13","-409,5","0,132","0,026",708159
+LastFM,NetRate,"13,91","-413,02","0,112","0,022",708159
+LastFM,CTIC,"12,12","-409,3","0,128","0,025",1416318
+LastFM,Embedded IC,"11,62",-405,"0,151_","0,027",49300
+"Figure 2: Time (in seconds) for the learning step to converge and average log-likelihood results obtained on test episodes, according to different numbers of dimensions of the projection space, on a logarithmic scale. Results obtained on the Digg dataset. ",,,,,,

@@ -1,0 +1,7 @@
+Algorithm,Precision,Recall,F1
+Textual,0.746,0.693,0.727
+Visual,0.584,0.561,0.573
+Early Fusion,0.73,0.744,0.737
+Late Fusion,0.634,0.61,0.622
+CCR,0.831,0.805,0.818
+Table 4: Performance on the Twitter testing data set by different approaches. ,,,

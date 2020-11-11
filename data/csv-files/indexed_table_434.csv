@@ -1,0 +1,9 @@
+,Open-Ended,Open-Ended,Open-Ended,Open-Ended,Multi-Choice,Multi-Choice,Multi-Choice,Multi-Choice
+Method,All,Y/N,Num.,Other,All,Y/N,Num.,Other
+LSTM Q+I [1],53.74,78.94,35.24,36.42,57.17,78.85,35.8,43.41
+DPPnet [24],57.22,80.71,37.24,41.69,62.48,80.79,38.94,52.16
+FDA [11],59.24,81.14,36.16,45.77,64.01,81.5,39,54.72
+DMN+ [33],60.3,80.5,36.8,48.3,-,-,-,-
+SMem [34],57.99,80.87,37.32,43.12,-,-,-,-
+SAN [37],58.7,79.3,36.6,46.1,-,-,-,-
+Table 6: Evaluation results by our proposed model and com- pared methods on the VQA dataset. ,,,,,,,,

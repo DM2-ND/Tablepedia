@@ -1,0 +1,7 @@
+Algorithm,BP1,BP2,BP2,BP3,BP3,Jester,Jester,Jester
+Algorithm,Precision,Recall,Precision,Recall,Precision,Recall,Precision,Recall
+PA,0.084,0.084,0.436,0.436,0.442,0.443,0.406,0.369
+Katz,0.984,0.984,0.943,0.943,0.547,0.548,0.406,0.369
+GS,0.965,1,0.981,1,0.994,0.973,0.356,0.05
+SCMiner,1,1,1,1,0.997,1,0.431,0.389
+Table 4: Link Prediction Performances. ,,,,,,,,

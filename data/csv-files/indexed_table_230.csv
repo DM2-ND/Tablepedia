@@ -1,0 +1,11 @@
+,Len-2,Len-2,Len-2,Len-3,Len-3,Len-3,Len-4+,Len-4+,Len-4+
+,DCG@1,DCG@5,DCG,DCG@1,DCG@5,DCG,DCG@1,DCG@5,DCG
+WSD,0.929,2.754,11.585,0.995,2.929,9.087,0.884,2.443,6.741
+WSD-UNI,0.926,2.743,11.556,1.005,2.963,9.132,0.864,2.379,6.677
+WSD-BI,0.93,2.758,11.602,1.012,2.967,9.132,0.888,2.409,6.711
+,Len-2,Len-2,Len-2,Len-3,Len-3,Len-3,Len-4+,Len-4+,Len-4+
+,DCG@1,DCG@5,DCG,DCG@1,DCG@5,DCG,DCG@1,DCG@5,DCG
+WSD,0.929,2.754,11.585,0.995,2.929,9.087,0.884,2.443,6.741
+WSD-ENDO,0.911,2.687,11.487,0.989,2.924,9.085,0.885,2.455,6.76
+WSD-EXO,0.929,2.749,11.575,0.992,2.919,9.079,0.884,2.439,6.732
+"Table 9: Comparison of retrieval results for a sample of web queries with either only unigram features (WSD-UNI), only bigram features (WSD-BI) or both. ",,,,,,,,,

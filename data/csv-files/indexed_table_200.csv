@@ -1,0 +1,10 @@
+Recommendation,Original data base,Original data base 30 subgroups,Original data base 30 subgroups,Original data base 30 subgroups,Rescaled data base,Rescaled data 30 subgroups,Rescaled data 30 subgroups,Rescaled data 30 subgroups
+Method,NDCG@10,MAP,NDCG@10,MAP,NDCG@10,MAP,NDCG@10,MAP
+POP,0.224,0.107,0.261,0.122,0.224,0.107,0.277*,0.157*
+User-based,0.18,0.057,0.221,0.104,0.337,0.107,0.32,0.171*
+Item-based,0.602,0.458,0.544,0.423,0.694,0.545,0.625,0.493
+SVD,0.23,0.096,0.345*,0.191*,0.34,0.123,0.511*,0.297*
+NMF,0.23,0.097,0.347*,0.200*,0.38,0.213,0.552*,0.403*
+MMMF,0.219,0.121,0.193,0.082,0.294,0.155,0.241,0.116
+NPCA,0.234,0.081,0.17,0.078,0.598,0.475,0.467,0.31
+Table 4: Performance Comparisons on Lastfm in terms of MAP and NDCG. 30 subgroups are used for our approach. The left part is the result of using original data and the left part is the result of using normalized data. The bold number indicates an obvious improvement (difference ¡Ý 0.01) and symbol * indicates a big improvement (difference ¡Ý 0.05). ,,,,,,,,

@@ -1,0 +1,12 @@
+Combinations ARI,NMI,Accuracy,Average
+,ranking,ranking,ranking
+SPK+HAC 4,6,13,7.6667
+SPK+KKM 8,7,4,6.3333
+Kernel for SVM Protein Classification.. In Pacific Symposium on Biocomputing.SPK+KSC 6,2,2,3.3333
+CPR+HAC 2,3,11,5.3333
+CPR+KKM 5,8,4,5.6667
+CPR+KSC 1,1,3,1.6667
+CPI+HAC 3,4,12,6.3333
+CPI+KKM 9,9,6,8
+CPI+KSC 7,5,1,4.3333
+"Table 6: Rankings w.r.t ARI, NMI and accuracy ",,,

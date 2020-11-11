@@ -1,0 +1,10 @@
+Model,Loop Data,Loop Data,Loop Data,INRIX Data,INRIX Data,INRIX Data,INRIX Data,INRIX Data
+Model,MAE,STD,MAPE,RMSE,MAE,STD,MAPE,RMSE
+ARIMA,6.1,1.09,13.85%,10.65,4.8,0.32,13.51%,10.85
+SVR,6.85,1.17,14.39%,11.12,4.78,0.37,13.37%,10.44
+FNN,4.45,0.81,10.19%,7.83,2.31,0.17,8.35%,5.92
+LSTM,3.87,0.63,9.51%,7.18,1.59,0.12,5.78%,4.11
+G-LSTM,3.34,0.43,7.97%,5.98,1.54,0.11,5.77%,3.28
+HCG-LSTM,2.85,0.23,6.54%,5.03,1.32,0.09,4.04%,2.67
+HGC-LSTM-RTBL,2.62,0.2,6.21%,4.81,1.07,0.07,3.74%,2.28
+Table 1 Performance comparison of different approaches for traffic speed forecasting. The proposed TCG-LSTM with the RTBL strategy achieves the best performance with all the three metrics. (K=3 and m=3 in the proposed model) ,,,,,,,,

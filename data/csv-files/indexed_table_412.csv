@@ -1,0 +1,7 @@
+,AMIE,AMIE+,AMIE+,OP,IRMiner,IRMiner,IRMiner
+,Rules,Rules Pruned,Rules,Rules,Cleaned Expanded,Cleaned Expanded,Cleaned Expanded
+YAGO 2,68,476,24,218,476,268,638
+YAGO 2s,94,"1,175",78,312,1175,886,1107
+DBPedia 3.8,"2,470","5,087",2621,,3978,2523,2765
+Wikidata,889,"1,512",773,,1443,1066,1232
+"Table 2: The overall IRMiner mining results compared with AMIE, AMIE + and OP ",,,,,,,

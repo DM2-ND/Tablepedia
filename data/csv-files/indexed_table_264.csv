@@ -1,0 +1,6 @@
+Method,Overall Ratings,Overall Ratings,Overall Ratings,Under Clustered,Under Clustered,Under Clustered,Over Clustered,Over Clustered,Over Clustered,Best,Best,Best,Worst,Worst,Worst
+Method,Mean,,Bounds,Ratings Queries,Ratings Queries,Ratings Queries,Ratings Queries,,,,,,,,
+MM,0.65,"[0.600,",0.700],282,65,-16%,211,36,-9%,616,214,-54%,166,25,-6%
+DC,0.473,"[0.419,",0.527],479,142,-36%,203,31,-8%,356,90,-22%,329,88,-22%
+SQ,0.056,"[-0.003,",0.117],447,127,-32%,268,52,-13%,216,40,-10%,695,243,-61%
+"Table 1: MM is on average rated higher, deemed under- or over-clustered for fewer queries (only 25% combined), and found to be the best for many more queries than DC and SQ (over 400 queries each with 3 evaluators). ",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+MODELS,PRECISION,RECALL,F1-SCORE,ACCURACY
+MGCNN,62.32%,73.27%,67.35%,73.62%
+MGMNN,63.43%,73.88%,68.26%,74.69%
+MGANN,67.47%,69.17%,68.31%_,76.36%_
+SLCNN / ARC-I,64.82%,71.96%,68.20%,75.28%
+SLMNN,70.05%,73.32%,71.65%_,78.62%_
+"Table 3: Performance comparison between concatenation-based (MGCNN and SLCNN) and matching-based neural network models (MGMNN, MGANN and SLMNN) on Quora-QP corpus. ",,,,

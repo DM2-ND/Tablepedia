@@ -1,0 +1,13 @@
+Method,precision@r=2,recall@r=2,F-measure@r=2,MAP,accuracy,training time,test time
+R2SDH,0.9373,0.8801,0.9078,0.9364,0.967,52.3,1.20E-07
+SDH,0.8908,0.8569,0.8735,0.9276,0.925,39.1,1.90E-06
+SDHR,0.9301,0.8693,0.8987,0.9206,0.955,78.4,1.90E-06
+BRE,0.5741,0.1263,0.2071,0.3646,0.701,2884.7,4.00E-05
+KSH,0.8869,0.6287,0.7358,0.867,0.906,318.8,7.30E-05
+SSH,0.307,0.4235,0.3559,0.3569,0.525,68.6,2.90E-06
+CCA-ITQ,0.8136,0.4875,0.6097,0.7515,0.863,6.6,1.20E-07
+FastHash,0.556,0.231,0.3264,0.5253,0.588,1017.4,4.20E-04
+PCA-ITQ,0.6965,0.1107,0.191,0.426,0.732,4.5,1.10E-07
+AGH,0.6132,0.4712,0.5329,0.5995,0.785,6.8,6.80E-05
+IMH,0.6694,0.4238,0.519,0.5996,0.813,32.1,6.40E-05
+Table 2: Experimental results on the MNIST data set when the number of hashing bits is 16. Training and test times are in seconds. The best results are highlighted in bold face. ,,,,,,,

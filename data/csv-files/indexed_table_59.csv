@@ -1,0 +1,28 @@
+Web site Comment,% Battery,Traffic (bytes),Traffic (bytes)
+m.wsj.com news page,life,Upload,Download
+m.gmail.com inbox,0.41,9050,12048
+m.picasa.com user albums,0.43,8223,15475
+m.aol.com portal home,0.59,11927,37085
+m.amazon.com product page,0.48,9523,26838
+mobile.nytimes.com US home page,0.53,15386,66336
+microsoft touch.facebook.com facebook wall,0.65,30214,81040
+mw.weather.com Stanford weather,0.62,38253,134531
+apple.com home page,1.41,86888,716835
+m.imdb.com movie page,0.97,30764,127924
+m.microsoft.com home page,0.49,15240,47936
+m.natgeo.com home page,0.53,13877,76742
+m.wikipedia.org article page,1.09,43699,308832
+bbc.com mobile home page,0.46,20505,67004
+m.ebay.com product page,0.42,8041,17941
+m.yahoo.com portal home,0.55,14397,45564
+m.youtube.com home page,0.55,5704,20329
+baidu.com search page,0.39,2108,3951
+blogger.com home page,0.94,45382,427788
+m.cnn.com headlines page,0.46,9311,33844
+m.engadget.com portal page,0.5,23334,80432
+m.go.com start page,0.96,27965,154278
+m.live.com personal page,0.4,7319,12576
+wordpress.com home page,0.9,23318,205140
+tumblr.com home page,1.03,40543,889242
+m.wsj.com news page,0.41,4058,13653
+Table 1: Web sites used in measuring energy consumption ,,,
