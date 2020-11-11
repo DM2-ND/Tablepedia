@@ -9,14 +9,13 @@ Authors: Wenhao Yu (ND), Wei Peng (ZJU), Yu Shu (SCU), Qingkai Zeng (ND), Meng J
 > This paper propose a novel system that _extracts_ experimental evidences from data science literature in PDF format and _builds up_ the first experimental database for related research.
 
 
-## Workflow of Tablepedia
+## Workflow and Example DB constructed by Tablepedia
 
-- <img src="img/workflow.png" width="50" align=center>  - <img src="img/example.png" width="50" align=center> 
-Workflow of the proposed system: from PDF collection, to table extraction, to experimental evidence database
-construction, to database operations and visualization
+- <img src="img/workflow.png" width="354" align=center>  - <img src="img/example.png" width="300" align=center> 
+  
+The left figure is the workflow of Tablepedia system: (1) PDF collection, (2)table extraction, (3) experimental evidence database construction, (4)database operations and visualization.
 
-## Example DB constructed by Tablepedia
-
+The right figure is an example DB constructed by Tablepedia from data science paper PDFs. For a dataset and an evaluation metric, one can use the database to check what the state-of-the-art (highlighted in yellow) is and whether the reported numbers in existing research are consistent (green box) or conflicting (red box).
 
 ## Reference
 ```
