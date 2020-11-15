@@ -1,6 +1,5 @@
 # Tablepedia: Annotated dataset for WWW 2020 paper 
 
-## Introduction of Tablepedia
 
 **[Experimental Evidence Extraction in Data Science with Hybrid Table Features and Ensemble Learning](https://wyu97.github.io/papers/C2_WWW_2020.pdf)** <br>
 Authors: Wenhao Yu (ND), Wei Peng (ZJU), Yu Shu (SCU), Qingkai Zeng (ND), Meng Jiang (ND)
