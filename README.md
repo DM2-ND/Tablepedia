@@ -1,4 +1,4 @@
-# Tablepedia: Annotated dataset for WWW 2020 paper 
+# Tablepedia: Code and dataset for WWW 2020 paper 
 
 
 **[Experimental Evidence Extraction in Data Science with Hybrid Table Features and Ensemble Learning](https://wyu97.github.io/papers/C2_WWW_2020.pdf)** <br>
