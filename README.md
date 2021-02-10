@@ -16,6 +16,25 @@ Authors: Wenhao Yu (ND), Wei Peng (ZJU), Yu Shu (SCU), Qingkai Zeng (ND), Meng J
 - The right figure is an example DB constructed by Tablepedia from data science paper PDFs. For a dataset and an evaluation metric, one can use the database to check what the state-of-the-art (highlighted in yellow) is and whether the reported numbers in existing research are consistent (green box) or conflicting (red box).
 
 
+## Code Usage
+
+### 1. Load data
+
+```
+python data/load_data.py
+```
+
+### 2. Load annotation
+
+```
+python anno/load_anno.py
+```
+
+### 2. Extract your own PDF files
+```
+python tabula/tabula-java.py
+```
+
 ## Reference
 ```
 @inproceedings{yu2020experimental,
